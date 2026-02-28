@@ -1,25 +1,67 @@
-body {
+html, body {
+    height: 100%;
+    margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+#app {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#test-screen,
+#answer-screen {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
-    margin-top: 50px;
+    width: 90%;
+    max-width: 700px;
 }
 
 .hidden {
     display: none;
 }
 
-button {
-    padding: 10px 20px;
-    margin: 10px;
-    font-size: 16px;
-    cursor: pointer;
+h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
 }
 
-img {
-    max-width: 400px;
-    margin-top: 20px;
+button {
+    font-size: 22px;
+    padding: 18px 32px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: #2d6cdf;
+    color: white;
+    cursor: pointer;
+    min-width: 180px;
+}
+
+button:active {
+    transform: scale(0.98);
 }
 
 .button-group {
-    margin-top: 20px;
+    margin-top: 30px;
+}
+
+/* Improved image handling */
+#answer-image {
+    margin-top: 25px;
+
+    /* Allow natural scaling */
+    max-width: 100%;
+    max-height: 60vh;
+
+    width: auto;
+    height: auto;
+
+    object-fit: contain;
 }
