@@ -31,10 +31,33 @@ function selectRandomPhrase() {
     updateTestScreen();
 }
 
+// Create blanked out sentence template
+function maskSentence(chineseText) {
+    return chineseText.split("").map(char => {
+        // Chinese punctuation to preserve
+        const punctuation = "，。？！；：、“”‘’（）";
+        
+        if (punctuation.includes(char)) {
+            return char;
+        }
+
+        // Preserve spaces
+        if (char.trim() === "") {
+            return char;
+        }
+
+        // Replace all other characters with underscore
+        return "_";
+    }).join(" ");
+}
+
 // Update test screen
 function updateTestScreen() {
     document.getElementById("term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
+		
+	document.getElementById("sentence-structure").textContent =
+    maskSentence(currentPhrase.chinese);
 
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");

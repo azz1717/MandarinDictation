@@ -65,3 +65,9 @@ button:active {
 
     object-fit: contain;
 }
+
+.structure {
+    font-size: 26px;
+    letter-spacing: 6px;
+    margin-bottom: 30px;
+}
