@@ -39,7 +39,7 @@ function updateTestScreen() {
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");
 
-    audioPlayer = new Audio(currentPhrase.audio);
+    audioPlayer = new Audio("audio/" + currentPhrase.audio);
 }
 
 // Show answer screen
@@ -47,7 +47,7 @@ function showAnswer() {
     document.getElementById("answer-term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
 
-    document.getElementById("answer-image").src = currentPhrase.image;
+    document.getElementById("answer-image").src = "images/" + currentPhrase.image;
     document.getElementById("answer-english").textContent = currentPhrase.english;
 
     document.getElementById("test-screen").classList.add("hidden");
