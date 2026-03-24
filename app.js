@@ -58,6 +58,8 @@ function updateTestScreen() {
 		
 	document.getElementById("sentence-structure").textContent =
     maskSentence(currentPhrase.chinese);
+	
+	document.getElementById("answer-image").src = "images/" + currentPhrase.image;
 
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");
@@ -70,7 +72,6 @@ function showAnswer() {
     document.getElementById("answer-term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
 
-    document.getElementById("answer-image").src = "images/" + currentPhrase.image;
     document.getElementById("answer-english").textContent = currentPhrase.english;
 
     document.getElementById("test-screen").classList.add("hidden");
