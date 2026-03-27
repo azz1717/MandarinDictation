@@ -71,3 +71,27 @@ button:active {
     letter-spacing: 6px;
     margin-bottom: 30px;
 }
+
+/* Container for the filter to sit in the top left */
+.filter-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Make the label and select 50% larger */
+#term-filter, 
+.filter-container label {
+    font-size: 24px; /* ~50% larger than standard 16px */
+    cursor: pointer;
+}
+
+#term-filter {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
