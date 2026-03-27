@@ -1625,6 +1625,228 @@ const dataset = {
 		  "image": "1mip1_w8_15.jpg"
 		}
 	  ]
+	},
+	{
+	  "term": "1MIP 1",
+	  "week": 9,
+	  "phrases": [
+		{
+		  "chinese": "花儿开了。",
+		  "pinyin": "",
+		  "english": "The flowers have bloomed.",
+		  "audio": "hua-er-kai-le.mp3",
+		  "image": "1mip1_w9_1.jpg"
+		},
+		{
+		  "chinese": "毛毛家门口有一个花园。",
+		  "pinyin": "",
+		  "english": "There is a garden at Maomao's house entrance.",
+		  "audio": "maomao-jia-men-kou-you-hua-yuan.mp3",
+		  "image": "1mip1_w9_2.jpg"
+		},
+		{
+		  "chinese": "早上，毛毛在花园里玩，看见花儿开了。",
+		  "pinyin": "",
+		  "english": "In the morning, Maomao played in the garden and saw the flowers bloom.",
+		  "audio": "zaoshang-maomao-hua-yuan.mp3",
+		  "image": "1mip1_w9_3.jpg"
+		},
+		{
+		  "chinese": "花儿开了多好看！",
+		  "pinyin": "",
+		  "english": "The flowers blooming look so beautiful!",
+		  "audio": "hua-er-kai-le-hao-kan.mp3",
+		  "image": "1mip1_w9_4.jpg"
+		},
+		{
+		  "chinese": "毛毛看了好开心。",
+		  "pinyin": "",
+		  "english": "Maomao felt very happy seeing them.",
+		  "audio": "maomao-kan-le-hao-kaixin.mp3",
+		  "image": "1mip1_w9_5.jpg"
+		},
+		{
+		  "chinese": "花儿",
+		  "pinyin": "",
+		  "english": "Flower(s).",
+		  "audio": "hua-er.mp3",
+		  "image": "1mip1_w9_6.jpg"
+		},
+		{
+		  "chinese": "小花",
+		  "pinyin": "",
+		  "english": "Small flower.",
+		  "audio": "xiao-hua.mp3",
+		  "image": "1mip1_w9_7.jpg"
+		},
+		{
+		  "chinese": "花园",
+		  "pinyin": "",
+		  "english": "Garden.",
+		  "audio": "hua-yuan.mp3",
+		  "image": "1mip1_w9_8.jpg"
+		},
+		{
+		  "chinese": "园子",
+		  "pinyin": "",
+		  "english": "Yard / garden.",
+		  "audio": "yuan-zi.mp3",
+		  "image": "1mip1_w9_9.jpg"
+		},
+		{
+		  "chinese": "好玩",
+		  "pinyin": "",
+		  "english": "Fun / enjoyable.",
+		  "audio": "hao-wan.mp3",
+		  "image": "1mip1_w9_10.jpg"
+		},
+		{
+		  "chinese": "去玩",
+		  "pinyin": "",
+		  "english": "Go play.",
+		  "audio": "qu-wan.mp3",
+		  "image": "1mip1_w9_11.jpg"
+		},
+		{
+		  "chinese": "开了",
+		  "pinyin": "",
+		  "english": "Opened / bloomed.",
+		  "audio": "kai-le.mp3",
+		  "image": "1mip1_w9_12.jpg"
+		},
+		{
+		  "chinese": "没了",
+		  "pinyin": "",
+		  "english": "Gone / finished.",
+		  "audio": "mei-le.mp3",
+		  "image": "1mip1_w9_13.jpg"
+		},
+		{
+		  "chinese": "看见",
+		  "pinyin": "",
+		  "english": "Saw / noticed.",
+		  "audio": "kan-jian.mp3",
+		  "image": "1mip1_w9_14.jpg"
+		},
+		{
+		  "chinese": "见了",
+		  "pinyin": "",
+		  "english": "Met / saw.",
+		  "audio": "jian-le.mp3",
+		  "image": "1mip1_w9_15.jpg"
+		}
+	  ]
+	},
+	{
+	  "term": "1MIP 1",
+	  "week": 10,
+	  "phrases": [
+		{
+		  "chinese": "学中文",
+		  "pinyin": "",
+		  "english": "Learn Chinese.",
+		  "audio": "xue-zhongwen.mp3",
+		  "image": "1mip1_w10_1.jpg"
+		},
+		{
+		  "chinese": "早上，我在学校学中文。",
+		  "pinyin": "",
+		  "english": "In the morning, I study Chinese at school.",
+		  "audio": "zaoshang-xue-zhongwen.mp3",
+		  "image": "1mip1_w10_2.jpg"
+		},
+		{
+		  "chinese": "老师教我们说中文、写中文。",
+		  "pinyin": "",
+		  "english": "The teacher teaches us to speak and write Chinese.",
+		  "audio": "laoshi-jiao-zhongwen.mp3",
+		  "image": "1mip1_w10_3.jpg"
+		},
+		{
+		  "chinese": "我们在中文班读书、写字和画画儿。",
+		  "pinyin": "",
+		  "english": "In the Chinese class, we read, write, and draw.",
+		  "audio": "zhongwen-ban-du-shu-hua.mp3",
+		  "image": "1mip1_w10_4.jpg"
+		},
+		{
+		  "chinese": "我喜欢学中文。",
+		  "pinyin": "",
+		  "english": "I like learning Chinese.",
+		  "audio": "wo-xihuan-xue-zhongwen.mp3",
+		  "image": "1mip1_w10_5.jpg"
+		},
+		{
+		  "chinese": "中文",
+		  "pinyin": "",
+		  "english": "Chinese language.",
+		  "audio": "zhongwen.mp3",
+		  "image": "1mip1_w10_6.jpg"
+		},
+		{
+		  "chinese": "英文",
+		  "pinyin": "",
+		  "english": "English language.",
+		  "audio": "yingwen.mp3",
+		  "image": "1mip1_w10_7.jpg"
+		},
+		{
+		  "chinese": "画画",
+		  "pinyin": "",
+		  "english": "Drawing / painting.",
+		  "audio": "hua-hua.mp3",
+		  "image": "1mip1_w10_8.jpg"
+		},
+		{
+		  "chinese": "画家",
+		  "pinyin": "",
+		  "english": "Painter / artist.",
+		  "audio": "huajia.mp3",
+		  "image": "1mip1_w10_9.jpg"
+		},
+		{
+		  "chinese": "你和我",
+		  "pinyin": "",
+		  "english": "You and I.",
+		  "audio": "ni-he-wo.mp3",
+		  "image": "1mip1_w10_10.jpg"
+		},
+		{
+		  "chinese": "和好",
+		  "pinyin": "",
+		  "english": "Make up / reconcile.",
+		  "audio": "he-hao.mp3",
+		  "image": "1mip1_w10_11.jpg"
+		},
+		{
+		  "chinese": "说一说",
+		  "pinyin": "",
+		  "english": "Talk about / say a little.",
+		  "audio": "shuo-yi-shuo.mp3",
+		  "image": "1mip1_w10_12.jpg"
+		},
+		{
+		  "chinese": "说中文",
+		  "pinyin": "",
+		  "english": "Speak Chinese.",
+		  "audio": "shuo-zhongwen.mp3",
+		  "image": "1mip1_w10_13.jpg"
+		},
+		{
+		  "chinese": "早上",
+		  "pinyin": "",
+		  "english": "Morning.",
+		  "audio": "zaoshang.mp3",
+		  "image": "1mip1_w10_14.jpg"
+		},
+		{
+		  "chinese": "很早",
+		  "pinyin": "hěn zǎo",
+		  "english": "Very early.",
+		  "audio": "hen-zao.mp3",
+		  "image": "1mip1_w10_15.jpg"
+		}
+	  ]
 	}
   ]
 }

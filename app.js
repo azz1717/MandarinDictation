@@ -3,6 +3,7 @@ let currentPhrase = null;
 let currentTerm = null;
 let currentWeek = null;
 let audioPlayer = null;
+let currentFilterTerm = "all"; // New: tracks the active filter
 
 // Flatten dataset into a single array
 function initializePhrases() {
@@ -17,12 +18,40 @@ function initializePhrases() {
             }
         });
     });
+
+    // New: Extract unique terms and populate the dropdown
+    const uniqueTerms = new Set(allPhrases.map(item => String(item.term)));
+    const filterSelect = document.getElementById("term-filter");
+    
+    if (filterSelect) {
+        uniqueTerms.forEach(term => {
+            const option = document.createElement("option");
+            option.value = term;
+            option.textContent = `Term ${term}`;
+            filterSelect.appendChild(option);
+        });
+
+        // New: Listen for filter changes
+        filterSelect.addEventListener("change", (e) => {
+            currentFilterTerm = e.target.value;
+            selectRandomPhrase(); // Pick a new phrase when the filter changes
+        });
+    }
 }
 
 // Select random phrase
 function selectRandomPhrase() {
-    const randomIndex = Math.floor(Math.random() * allPhrases.length);
-    const selection = allPhrases[randomIndex];
+    // New: Filter the phrases based on the selected term
+    const filteredPhrases = currentFilterTerm === "all" 
+        ? allPhrases 
+        : allPhrases.filter(item => String(item.term) === currentFilterTerm);
+
+    // Safety check just in case a filter returns empty
+    if (filteredPhrases.length === 0) return;
+
+    // Use filteredPhrases instead of allPhrases for the random selection
+    const randomIndex = Math.floor(Math.random() * filteredPhrases.length);
+    const selection = filteredPhrases[randomIndex];
 
     currentPhrase = selection.phrase;
     currentTerm = selection.term;
@@ -55,11 +84,11 @@ function maskSentence(chineseText) {
 function updateTestScreen() {
     document.getElementById("term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
-		
-	document.getElementById("sentence-structure").textContent =
+        
+    document.getElementById("sentence-structure").textContent =
     maskSentence(currentPhrase.chinese);
-	
-	document.getElementById("answer-image").src = "images/" + currentPhrase.image;
+    
+    document.getElementById("answer-image").src = "images/" + currentPhrase.image;
 
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");
