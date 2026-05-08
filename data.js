@@ -1971,39 +1971,32 @@ const dataset = {
 	  "week": 4,
 	  "phrases": [
 		{
-		  "chinese": "早上",
-		  "pinyin": "zǎo shàng",
-		  "english": "morning",
-		  "audio": "zaoshang.mp3",
+		  "chinese": "早上 晚上",
+		  "pinyin": "zǎo shàng wǎn shàng",
+		  "english": "morning, night",
+		  "audio": " ",
 		  "image": "1mip1_t2_w4_1.jpg"
-		},
-		{
-		  "chinese": "晚上",
-		  "pinyin": "wǎn shàng",
-		  "english": "evening; night",
-		  "audio": "wanshang.mp3",
-		  "image": "1mip1_t2_w4_2.jpg"
 		},
 		{
 		  "chinese": "早上，爸爸出门了，哥哥也出门了。",
 		  "pinyin": "zǎo shàng, bà ba chū mén le, gē ge yě chū mén le",
 		  "english": "In the morning, Dad went out, and older brother also went out.",
 		  "audio": "zaoshang-chumen.mp3",
-		  "image": "1mip1_t2_w4_3.jpg"
+		  "image": "1mip1_t2_w4_2.jpg"
 		},
 		{
 		  "chinese": "妈妈、妹妹和我没有出门。",
 		  "pinyin": "mā ma, mèi mei hé wǒ méi yǒu chū mén",
 		  "english": "Mum, younger sister, and I did not go out.",
 		  "audio": "meiyou-chumen.mp3",
-		  "image": "1mip1_t2_w4_4.jpg"
+		  "image": "1mip1_t2_w4_3.jpg"
 		},
 		{
 		  "chinese": "我们三个人在家。",
 		  "pinyin": "wǒ men sān gè rén zài jiā",
 		  "english": "The three of us stayed at home.",
 		  "audio": "women-zaijia.mp3",
-		  "image": "1mip1_t2_w4_5.jpg"
+		  "image": "1mip1_t2_w4_4.jpg"
 		},
 		{
 		  "chinese": "晚上，爸爸回家了，哥哥也回家了。",
@@ -2044,7 +2037,7 @@ const dataset = {
 		  "chinese": "没有",
 		  "pinyin": "méi yǒu",
 		  "english": "do not have; there is not",
-		  "audio": "meiyou.mp3",
+		  "audio": "meiyou-2.mp3",
 		  "image": "1mip1_t2_w4_11.jpg"
 		},
 		{
