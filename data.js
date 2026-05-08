@@ -1738,7 +1738,7 @@ const dataset = {
 	  ]
 	},
 	{
-	  "term": "1MIP 1",
+	  "term": "1MIP 1 Term 1",
 	  "week": 10,
 	  "phrases": [
 		{
@@ -1847,7 +1847,287 @@ const dataset = {
 		  "image": "1mip1_w10_15.jpg"
 		}
 	  ]
+	},
+	{
+	  "term": "1MIP 1 Term 2",
+	  "week": 3,
+	  "phrases": [
+		{
+		  "chinese": "我的一天",
+		  "pinyin": "wǒ de yì tiān",
+		  "english": "My Day.",
+		  "audio": "wo-de-yi-tian.mp3",
+		  "image": "1mip1_t2_w3_1.jpg"
+		},
+		{
+		  "chinese": "今天早上，爸爸和我一起去公园里玩。",
+		  "pinyin": "jīn tiān zǎo shàng, bà ba hé wǒ yì qǐ qù gōng yuán lǐ wán",
+		  "english": "This morning, Dad and I went to the park to play.",
+		  "audio": "jintian-zaoshang-gongyuan.mp3",
+		  "image": "1mip1_t2_w3_2.jpg"
+		},
+		{
+		  "chinese": "中午，我们在家里吃午饭。",
+		  "pinyin": "zhōng wǔ, wǒ men zài jiā lǐ chī wǔ fàn",
+		  "english": "At noon, we ate lunch at home.",
+		  "audio": "zhongwu-chi-wufan.mp3",
+		  "image": "1mip1_t2_w3_3.jpg"
+		},
+		{
+		  "chinese": "下午，我的好朋友云云来我们家和我一起画画。",
+		  "pinyin": "xià wǔ, wǒ de hǎo péng yǒu yún yún lái wǒ men jiā hé wǒ yì qǐ huà huà",
+		  "english": "In the afternoon, my good friend Yunyun came to our house to draw with me.",
+		  "audio": "xiawu-yunyun-huahua.mp3",
+		  "image": "1mip1_t2_w3_4.jpg"
+		},
+		{
+		  "chinese": "我们画了花和草地。",
+		  "pinyin": "wǒ men huà le huā hé cǎo dì",
+		  "english": "We drew flowers and grass.",
+		  "audio": "women-hua-le.mp3",
+		  "image": "1mip1_t2_w3_5.jpg"
+		},
+		{
+		  "chinese": "今天我很开心。",
+		  "pinyin": "jīn tiān wǒ hěn kāi xīn",
+		  "english": "Today I am very happy.",
+		  "audio": "jintian-wo-hen-kaixin.mp3",
+		  "image": "1mip1_t2_w3_6.jpg"
+		},
+		{
+		  "chinese": "今天",
+		  "pinyin": "jīn tiān",
+		  "english": "today",
+		  "audio": "jintian.mp3",
+		  "image": "1mip1_t2_w3_7.jpg"
+		},
+		{
+		  "chinese": "不吃",
+		  "pinyin": "bù chī",
+		  "english": "do not eat",
+		  "audio": "buchi.mp3",
+		  "image": "1mip1_t2_w3_8.jpg"
+		},
+		{
+		  "chinese": "中午",
+		  "pinyin": "zhōng wǔ",
+		  "english": "noon; midday",
+		  "audio": "zhongwu.mp3",
+		  "image": "1mip1_t2_w3_9.jpg"
+		},
+		{
+		  "chinese": "公园",
+		  "pinyin": "gōng yuán",
+		  "english": "park",
+		  "audio": "gongyuan.mp3",
+		  "image": "1mip1_t2_w3_10.jpg"
+		},
+		{
+		  "chinese": "白云",
+		  "pinyin": "bái yún",
+		  "english": "white cloud",
+		  "audio": "baiyun.mp3",
+		  "image": "1mip1_t2_w3_11.jpg"
+		},
+		{
+		  "chinese": "今年",
+		  "pinyin": "jīn nián",
+		  "english": "this year",
+		  "audio": "jinnian.mp3",
+		  "image": "1mip1_t2_w3_12.jpg"
+		},
+		{
+		  "chinese": "好吃",
+		  "pinyin": "hǎo chī",
+		  "english": "delicious; tasty",
+		  "audio": "haochi.mp3",
+		  "image": "1mip1_t2_w3_13.jpg"
+		},
+		{
+		  "chinese": "下午",
+		  "pinyin": "xià wǔ",
+		  "english": "afternoon",
+		  "audio": "xiawu.mp3",
+		  "image": "1mip1_t2_w3_14.jpg"
+		},
+		{
+		  "chinese": "公牛",
+		  "pinyin": "gōng niú",
+		  "english": "bull",
+		  "audio": "gongniu.mp3",
+		  "image": "1mip1_t2_w3_15.jpg"
+		},
+		{
+		  "chinese": "多云",
+		  "pinyin": "duō yún",
+		  "english": "cloudy",
+		  "audio": "duoyun.mp3",
+		  "image": "1mip1_t2_w3_16.jpg"
+		}
+	  ]
+	},
+	{
+	  "term": "1MIP 1 Term 2",
+	  "week": 4,
+	  "phrases": [
+		{
+		  "chinese": "早上",
+		  "pinyin": "zǎo shàng",
+		  "english": "morning",
+		  "audio": "zaoshang.mp3",
+		  "image": "1mip1_t2_w4_1.jpg"
+		},
+		{
+		  "chinese": "晚上",
+		  "pinyin": "wǎn shàng",
+		  "english": "evening; night",
+		  "audio": "wanshang.mp3",
+		  "image": "1mip1_t2_w4_2.jpg"
+		},
+		{
+		  "chinese": "早上，爸爸出门了，哥哥也出门了。",
+		  "pinyin": "zǎo shàng, bà ba chū mén le, gē ge yě chū mén le",
+		  "english": "In the morning, Dad went out, and older brother also went out.",
+		  "audio": "zaoshang-chumen.mp3",
+		  "image": "1mip1_t2_w4_3.jpg"
+		},
+		{
+		  "chinese": "妈妈、妹妹和我没有出门。",
+		  "pinyin": "mā ma, mèi mei hé wǒ méi yǒu chū mén",
+		  "english": "Mum, younger sister, and I did not go out.",
+		  "audio": "meiyou-chumen.mp3",
+		  "image": "1mip1_t2_w4_4.jpg"
+		},
+		{
+		  "chinese": "我们三个人在家。",
+		  "pinyin": "wǒ men sān gè rén zài jiā",
+		  "english": "The three of us stayed at home.",
+		  "audio": "women-zaijia.mp3",
+		  "image": "1mip1_t2_w4_5.jpg"
+		},
+		{
+		  "chinese": "晚上，爸爸回家了，哥哥也回家了。",
+		  "pinyin": "wǎn shàng, bà ba huí jiā le, gē ge yě huí jiā le",
+		  "english": "In the evening, Dad came home, and older brother also came home.",
+		  "audio": "wanshang-huijia.mp3",
+		  "image": "1mip1_t2_w4_6.jpg"
+		},
+		{
+		  "chinese": "我们一家人在家。",
+		  "pinyin": "wǒ men yì jiā rén zài jiā",
+		  "english": "Our whole family is at home.",
+		  "audio": "yijiaren-zaijia.mp3",
+		  "image": "1mip1_t2_w4_7.jpg"
+		},
+		{
+		  "chinese": "晚上",
+		  "pinyin": "wǎn shàng",
+		  "english": "evening; night",
+		  "audio": "wanshang-2.mp3",
+		  "image": "1mip1_t2_w4_8.jpg"
+		},
+		{
+		  "chinese": "太晚了",
+		  "pinyin": "tài wǎn le",
+		  "english": "too late",
+		  "audio": "taiwanle.mp3",
+		  "image": "1mip1_t2_w4_9.jpg"
+		},
+		{
+		  "chinese": "今晚",
+		  "pinyin": "jīn wǎn",
+		  "english": "tonight",
+		  "audio": "jinwan.mp3",
+		  "image": "1mip1_t2_w4_10.jpg"
+		},
+		{
+		  "chinese": "没有",
+		  "pinyin": "méi yǒu",
+		  "english": "do not have; there is not",
+		  "audio": "meiyou.mp3",
+		  "image": "1mip1_t2_w4_11.jpg"
+		},
+		{
+		  "chinese": "有没有",
+		  "pinyin": "yǒu méi yǒu",
+		  "english": "have or not; whether or not there is",
+		  "audio": "youmeiyou.mp3",
+		  "image": "1mip1_t2_w4_12.jpg"
+		},
+		{
+		  "chinese": "没来",
+		  "pinyin": "méi lái",
+		  "english": "did not come",
+		  "audio": "meilai.mp3",
+		  "image": "1mip1_t2_w4_13.jpg"
+		},
+		{
+		  "chinese": "好的",
+		  "pinyin": "hǎo de",
+		  "english": "okay; alright",
+		  "audio": "haode.mp3",
+		  "image": "1mip1_t2_w4_14.jpg"
+		},
+		{
+		  "chinese": "是的",
+		  "pinyin": "shì de",
+		  "english": "yes; that's correct",
+		  "audio": "shide.mp3",
+		  "image": "1mip1_t2_w4_15.jpg"
+		},
+		{
+		  "chinese": "它的",
+		  "pinyin": "tā de",
+		  "english": "its",
+		  "audio": "tade.mp3",
+		  "image": "1mip1_t2_w4_16.jpg"
+		},
+		{
+		  "chinese": "大家",
+		  "pinyin": "dà jiā",
+		  "english": "everyone",
+		  "audio": "dajia.mp3",
+		  "image": "1mip1_t2_w4_17.jpg"
+		},
+		{
+		  "chinese": "在家",
+		  "pinyin": "zài jiā",
+		  "english": "at home",
+		  "audio": "zaijia.mp3",
+		  "image": "1mip1_t2_w4_18.jpg"
+		},
+		{
+		  "chinese": "家里",
+		  "pinyin": "jiā lǐ",
+		  "english": "at home; inside the house",
+		  "audio": "jiali.mp3",
+		  "image": "1mip1_t2_w4_19.jpg"
+		},
+		{
+		  "chinese": "回家",
+		  "pinyin": "huí jiā",
+		  "english": "to go home",
+		  "audio": "huijia.mp3",
+		  "image": "1mip1_t2_w4_20.jpg"
+		},
+		{
+		  "chinese": "回来",
+		  "pinyin": "huí lái",
+		  "english": "to come back",
+		  "audio": "huilai.mp3",
+		  "image": "1mip1_t2_w4_21.jpg"
+		},
+		{
+		  "chinese": "回去",
+		  "pinyin": "huí qù",
+		  "english": "to go back",
+		  "audio": "huiqu.mp3",
+		  "image": "1mip1_t2_w4_22.jpg"
+		}
+	  ]
 	}
+
+
   ]
 }
 
