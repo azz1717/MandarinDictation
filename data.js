@@ -1203,651 +1203,652 @@ const dataset = {
 		}
 	  ]
 	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 5,
-	  "phrases": [
-		{
-		  "chinese": "我的家。",
-		  "pinyin": "",
-		  "english": "My home.",
-		  "audio": "wo-de-jia.mp3",
-		  "image": "1mip1_w5_1.jpg"
-		},
-		{
-		  "chinese": "这是我的家。",
-		  "pinyin": "",
-		  "english": "This is my home.",
-		  "audio": "zhe-shi-wo-de-jia.mp3",
-		  "image": "1mip1_w5_2.jpg"
-		},
-		{
-		  "chinese": "我家有五口人，爷爷、奶奶、爸爸、妈妈和我。",
-		  "pinyin": "",
-		  "english": "There are five people in my family: grandpa, grandma, dad, mom, and me.",
-		  "audio": "wo-jia-you-wu-kou-ren.mp3",
-		  "image": "1mip1_w5_3.jpg"
-		},
-		{
-		  "chinese": "老爷爷。",
-		  "pinyin": "",
-		  "english": "Old grandpa.",
-		  "audio": "lao-yeye.mp3",
-		  "image": "1mip1_w5_6.jpg"
-		},
-		{
-		  "chinese": "老奶奶。",
-		  "pinyin": "",
-		  "english": "Old grandma.",
-		  "audio": "lao-nainai.mp3",
-		  "image": "1mip1_w5_8.jpg"
-		},
-		{
-		  "chinese": "爸爸。",
-		  "pinyin": "",
-		  "english": "Dad.",
-		  "audio": "baba.mp3",
-		  "image": "1mip1_w5_9.jpg"
-		},
-		{
-		  "chinese": "爸妈。",
-		  "pinyin": "",
-		  "english": "Parents.",
-		  "audio": "bama.mp3",
-		  "image": "1mip1_w5_10.jpg"
-		},
-		{
-		  "chinese": "妈妈。",
-		  "pinyin": "",
-		  "english": "Mom.",
-		  "audio": "mama.mp3",
-		  "image": "1mip1_w5_11.jpg"
-		},
-		{
-		  "chinese": "我们。",
-		  "pinyin": "",
-		  "english": "We / us.",
-		  "audio": "women.mp3",
-		  "image": "1mip1_w5_12.jpg"
-		},
-		{
-		  "chinese": "是我。",
-		  "pinyin": "",
-		  "english": "It is me.",
-		  "audio": "shi-wo.mp3",
-		  "image": "1mip1_w5_13.jpg"
-		}
-	  ]
-	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 6,
-	  "phrases": [
-		{
-		  "chinese": "我爱我的家。",
-		  "pinyin": "",
-		  "english": "I love my home.",
-		  "audio": "wo-ai-wo-de-jia.mp3",
-		  "image": "1mip1_w6_1.jpg"
-		},
-		{
-		  "chinese": "我家有九口人。",
-		  "pinyin": "",
-		  "english": "There are nine people in my family.",
-		  "audio": "wo-jia-you-jiu-kou-ren.mp3",
-		  "image": "1mip1_w6_2.jpg"
-		},
-		{
-		  "chinese": "这是我的爷爷。",
-		  "pinyin": "",
-		  "english": "This is my grandpa.",
-		  "audio": "zhe-shi-wo-de-yeye2.mp3",
-		  "image": "1mip1_w6_3.jpg"
-		},
-		{
-		  "chinese": "这是我的奶奶。",
-		  "pinyin": "",
-		  "english": "This is my grandma.",
-		  "audio": "zhe-shi-wo-de-nainai2.mp3",
-		  "image": "1mip1_w6_4.jpg"
-		},
-		{
-		  "chinese": "这是我的爸爸。",
-		  "pinyin": "",
-		  "english": "This is my dad.",
-		  "audio": "zhe-shi-wo-de-baba2.mp3",
-		  "image": "1mip1_w6_5.jpg"
-		},
-		{
-		  "chinese": "这是我的妈妈。",
-		  "pinyin": "",
-		  "english": "This is my mom.",
-		  "audio": "zhe-shi-wo-de-mama2.mp3",
-		  "image": "1mip1_w6_6.jpg"
-		},
-		{
-		  "chinese": "这是我的哥哥。",
-		  "pinyin": "",
-		  "english": "This is my older brother.",
-		  "audio": "zhe-shi-wo-de-gege2.mp3",
-		  "image": "1mip1_w6_7.jpg"
-		},
-		{
-		  "chinese": "这是我的姐姐。",
-		  "pinyin": "",
-		  "english": "This is my older sister.",
-		  "audio": "zhe-shi-wo-de-jiejie2.mp3",
-		  "image": "1mip1_w6_8.jpg"
-		},
-		{
-		  "chinese": "这是我的妹妹。",
-		  "pinyin": "",
-		  "english": "This is my younger sister.",
-		  "audio": "zhe-shi-wo-de-meimei2.mp3",
-		  "image": "1mip1_w6_9.jpg"
-		},
-		{
-		  "chinese": "这是我的弟弟，他一岁了。",
-		  "pinyin": "",
-		  "english": "This is my younger brother, he is one year old.",
-		  "audio": "zhe-shi-wo-de-didi-ta-yi-sui-le.mp3",
-		  "image": "1mip1_w6_10.jpg"
-		},
-		{
-		  "chinese": "弟弟爱我们，我们也爱弟弟。",
-		  "pinyin": "",
-		  "english": "Little brother loves us, and we also love him.",
-		  "audio": "didi-ai-women.mp3",
-		  "image": "1mip1_w6_11.jpg"
-		},
-		{
-		  "chinese": "哥哥。",
-		  "pinyin": "",
-		  "english": "Older brother.",
-		  "audio": "gege.mp3",
-		  "image": "1mip1_w6_12.jpg"
-		},
-		{
-		  "chinese": "大哥哥。",
-		  "pinyin": "",
-		  "english": "Big older brother.",
-		  "audio": "da-gege.mp3",
-		  "image": "1mip1_w6_13.jpg"
-		},
-		{
-		  "chinese": "姐姐。",
-		  "pinyin": "",
-		  "english": "Older sister.",
-		  "audio": "jiejie.mp3",
-		  "image": "1mip1_w6_14.jpg"
-		},
-		{
-		  "chinese": "小姐姐。",
-		  "pinyin": "",
-		  "english": "Young lady / little older sister.",
-		  "audio": "xiao-jiejie.mp3",
-		  "image": "1mip1_w6_15.jpg"
-		},
-		{
-		  "chinese": "弟弟。",
-		  "pinyin": "",
-		  "english": "Younger brother.",
-		  "audio": "didi.mp3",
-		  "image": "1mip1_w6_16.jpg"
-		},
-		{
-		  "chinese": "小弟弟。",
-		  "pinyin": "",
-		  "english": "Little younger brother.",
-		  "audio": "xiao-didi.mp3",
-		  "image": "1mip1_w6_17.jpg"
-		},
-		{
-		  "chinese": "妹妹。",
-		  "pinyin": "",
-		  "english": "Younger sister.",
-		  "audio": "meimei.mp3",
-		  "image": "1mip1_w6_18.jpg"
-		},
-		{
-		  "chinese": "小妹妹。",
-		  "pinyin": "",
-		  "english": "Little younger sister.",
-		  "audio": "xiao-meimei.mp3",
-		  "image": "1mip1_w6_19.jpg"
-		},
-		{
-		  "chinese": "没有。",
-		  "pinyin": "",
-		  "english": "No / do not have.",
-		  "audio": "meiyou.mp3",
-		  "image": "1mip1_w6_20.jpg"
-		},
-		{
-		  "chinese": "有没有。",
-		  "pinyin": "",
-		  "english": "Have or not / is there or not?",
-		  "audio": "you-mei-you.mp3",
-		  "image": "1mip1_w6_21.jpg"
-		}
-	  ]
-	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 7,
-	  "phrases": [
-		{
-		  "chinese": "小学生。",
-		  "pinyin": "",
-		  "english": "Primary school student.",
-		  "audio": "xiaoxuesheng.mp3",
-		  "image": "1mip1_w7_1.jpg"
-		},
-		{
-		  "chinese": "我是小学生。",
-		  "pinyin": "",
-		  "english": "I am a primary school student.",
-		  "audio": "wo-shi-xiaoxuesheng.mp3",
-		  "image": "1mip1_w7_2.jpg"
-		},
-		{
-		  "chinese": "我的学校有很多老师和学生，有男生也有女生。",
-		  "pinyin": "",
-		  "english": "My school has many teachers and students; there are boys and girls.",
-		  "audio": "wo-de-xuexiao-you-henduo-ren.mp3",
-		  "image": "1mip1_w7_3.jpg"
-		},
-		{
-		  "chinese": "我爱我的学校。",
-		  "pinyin": "",
-		  "english": "I love my school.",
-		  "audio": "wo-ai-wo-de-xuexiao.mp3",
-		  "image": "1mip1_w7_4.jpg"
-		},
-		{
-		  "chinese": "老师。",
-		  "pinyin": "",
-		  "english": "Teacher.",
-		  "audio": "laoshi.mp3",
-		  "image": "1mip1_w7_5.jpg"
-		},
-		{
-		  "chinese": "老人。",
-		  "pinyin": "",
-		  "english": "Elderly person.",
-		  "audio": "laoren.mp3",
-		  "image": "1mip1_w7_6.jpg"
-		},
-		{
-		  "chinese": "大师。",
-		  "pinyin": "",
-		  "english": "Master (expert).",
-		  "audio": "dashi.mp3",
-		  "image": "1mip1_w7_7.jpg"
-		},
-		{
-		  "chinese": "学生。",
-		  "pinyin": "",
-		  "english": "Student.",
-		  "audio": "xuesheng.mp3",
-		  "image": "1mip1_w7_8.jpg"
-		},
-		{
-		  "chinese": "生日。",
-		  "pinyin": "",
-		  "english": "Birthday.",
-		  "audio": "shengri.mp3",
-		  "image": "1mip1_w7_9.jpg"
-		},
-		{
-		  "chinese": "多少。",
-		  "pinyin": "",
-		  "english": "How many / how much.",
-		  "audio": "duoshao.mp3",
-		  "image": "1mip1_w7_10.jpg"
-		},
-		{
-		  "chinese": "好多。",
-		  "pinyin": "",
-		  "english": "A lot / many.",
-		  "audio": "haoduo.mp3",
-		  "image": "1mip1_w7_11.jpg"
-		}
-	  ]
-	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 8,
-	  "phrases": [
-		{
-		  "chinese": "小牛和小羊。",
-		  "pinyin": "",
-		  "english": "The calf and the lamb.",
-		  "audio": "xiao-niu-he-xiao-yang.mp3",
-		  "image": "1mip1_w8_1.jpg"
-		},
-		{
-		  "chinese": "小鸟在天上飞来飞去。",
-		  "pinyin": "",
-		  "english": "The little bird flies back and forth in the sky.",
-		  "audio": "xiao-niao-fei-lai-fei-qu.mp3",
-		  "image": "1mip1_w8_2.jpg"
-		},
-		{
-		  "chinese": "小鱼在水里游来游去。",
-		  "pinyin": "",
-		  "english": "The little fish swims back and forth in the water.",
-		  "audio": "xiao-yu-you-lai-you-qu.mp3",
-		  "image": "1mip1_w8_3.jpg"
-		},
-		{
-		  "chinese": "小马在地上跑来跑去。",
-		  "pinyin": "",
-		  "english": "The little horse runs back and forth on the ground.",
-		  "audio": "xiao-ma-pao-lai-pao-qu.mp3",
-		  "image": "1mip1_w8_4.jpg"
-		},
-		{
-		  "chinese": "小牛和小羊在草地上吃草。",
-		  "pinyin": "",
-		  "english": "The calf and lamb eat grass on the field.",
-		  "audio": "xiao-niu-xiao-yang-chi-cao.mp3",
-		  "image": "1mip1_w8_5.jpg"
-		},
-		{
-		  "chinese": "绿绿的草很好吃！",
-		  "pinyin": "",
-		  "english": "The green grass is very tasty!",
-		  "audio": "lv-lv-de-cao.mp3",
-		  "image": "1mip1_w8_6.jpg"
-		},
-		{
-		  "chinese": "小草。",
-		  "pinyin": "",
-		  "english": "Grass.",
-		  "audio": "xiao-cao.mp3",
-		  "image": "1mip1_w8_7.jpg"
-		},
-		{
-		  "chinese": "草地。",
-		  "pinyin": "",
-		  "english": "Grassland.",
-		  "audio": "caodi.mp3",
-		  "image": "1mip1_w8_8.jpg"
-		},
-		{
-		  "chinese": "土地。",
-		  "pinyin": "",
-		  "english": "Land.",
-		  "audio": "tudi.mp3",
-		  "image": "1mip1_w8_9.jpg"
-		},
-		{
-		  "chinese": "很少。",
-		  "pinyin": "",
-		  "english": "Very few.",
-		  "audio": "henshao.mp3",
-		  "image": "1mip1_w8_10.jpg"
-		},
-		{
-		  "chinese": "很好。",
-		  "pinyin": "",
-		  "english": "Very good.",
-		  "audio": "henhao.mp3",
-		  "image": "1mip1_w8_11.jpg"
-		},
-		{
-		  "chinese": "不在。",
-		  "pinyin": "",
-		  "english": "Not here / not present.",
-		  "audio": "buzai.mp3",
-		  "image": "1mip1_w8_12.jpg"
-		},
-		{
-		  "chinese": "在不在。",
-		  "pinyin": "",
-		  "english": "Is (someone) there or not?",
-		  "audio": "zai-bu-zai.mp3",
-		  "image": "1mip1_w8_13.jpg"
-		},
-		{
-		  "chinese": "来去。",
-		  "pinyin": "",
-		  "english": "Come and go.",
-		  "audio": "lai-qu.mp3",
-		  "image": "1mip1_w8_14.jpg"
-		},
-		{
-		  "chinese": "回来。",
-		  "pinyin": "",
-		  "english": "Come back.",
-		  "audio": "hui-lai.mp3",
-		  "image": "1mip1_w8_15.jpg"
-		}
-	  ]
-	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 9,
-	  "phrases": [
-		{
-		  "chinese": "花儿开了。",
-		  "pinyin": "",
-		  "english": "The flowers have bloomed.",
-		  "audio": "hua-er-kai-le.mp3",
-		  "image": "1mip1_w9_1.jpg"
-		},
-		{
-		  "chinese": "毛毛家门口有一个花园。",
-		  "pinyin": "",
-		  "english": "There is a garden at Maomao's house entrance.",
-		  "audio": "maomao-jia-men-kou-you-hua-yuan.mp3",
-		  "image": "1mip1_w9_2.jpg"
-		},
-		{
-		  "chinese": "早上，毛毛在花园里玩，看见花儿开了。",
-		  "pinyin": "",
-		  "english": "In the morning, Maomao played in the garden and saw the flowers bloom.",
-		  "audio": "zaoshang-maomao-hua-yuan.mp3",
-		  "image": "1mip1_w9_3.jpg"
-		},
-		{
-		  "chinese": "花儿开了多好看！",
-		  "pinyin": "",
-		  "english": "The flowers blooming look so beautiful!",
-		  "audio": "hua-er-kai-le-hao-kan.mp3",
-		  "image": "1mip1_w9_4.jpg"
-		},
-		{
-		  "chinese": "毛毛看了好开心。",
-		  "pinyin": "",
-		  "english": "Maomao felt very happy seeing them.",
-		  "audio": "maomao-kan-le-hao-kaixin.mp3",
-		  "image": "1mip1_w9_5.jpg"
-		},
-		{
-		  "chinese": "花儿",
-		  "pinyin": "",
-		  "english": "Flower(s).",
-		  "audio": "hua-er.mp3",
-		  "image": "1mip1_w9_6.jpg"
-		},
-		{
-		  "chinese": "小花",
-		  "pinyin": "",
-		  "english": "Small flower.",
-		  "audio": "xiao-hua.mp3",
-		  "image": "1mip1_w9_7.jpg"
-		},
-		{
-		  "chinese": "花园",
-		  "pinyin": "",
-		  "english": "Garden.",
-		  "audio": "hua-yuan.mp3",
-		  "image": "1mip1_w9_8.jpg"
-		},
-		{
-		  "chinese": "园子",
-		  "pinyin": "",
-		  "english": "Yard / garden.",
-		  "audio": "yuan-zi.mp3",
-		  "image": "1mip1_w9_9.jpg"
-		},
-		{
-		  "chinese": "好玩",
-		  "pinyin": "",
-		  "english": "Fun / enjoyable.",
-		  "audio": "hao-wan.mp3",
-		  "image": "1mip1_w9_10.jpg"
-		},
-		{
-		  "chinese": "去玩",
-		  "pinyin": "",
-		  "english": "Go play.",
-		  "audio": "qu-wan.mp3",
-		  "image": "1mip1_w9_11.jpg"
-		},
-		{
-		  "chinese": "开了",
-		  "pinyin": "",
-		  "english": "Opened / bloomed.",
-		  "audio": "kai-le.mp3",
-		  "image": "1mip1_w9_12.jpg"
-		},
-		{
-		  "chinese": "没了",
-		  "pinyin": "",
-		  "english": "Gone / finished.",
-		  "audio": "mei-le.mp3",
-		  "image": "1mip1_w9_13.jpg"
-		},
-		{
-		  "chinese": "看见",
-		  "pinyin": "",
-		  "english": "Saw / noticed.",
-		  "audio": "kan-jian.mp3",
-		  "image": "1mip1_w9_14.jpg"
-		},
-		{
-		  "chinese": "见了",
-		  "pinyin": "",
-		  "english": "Met / saw.",
-		  "audio": "jian-le.mp3",
-		  "image": "1mip1_w9_15.jpg"
-		}
-	  ]
-	},
-	{
-	  "term": "1MIP 1 Term 1",
-	  "week": 10,
-	  "phrases": [
-		{
-		  "chinese": "学中文",
-		  "pinyin": "",
-		  "english": "Learn Chinese.",
-		  "audio": "xue-zhongwen.mp3",
-		  "image": "1mip1_w10_1.jpg"
-		},
-		{
-		  "chinese": "早上，我在学校学中文。",
-		  "pinyin": "",
-		  "english": "In the morning, I study Chinese at school.",
-		  "audio": "zaoshang-xue-zhongwen.mp3",
-		  "image": "1mip1_w10_2.jpg"
-		},
-		{
-		  "chinese": "老师教我们说中文、写中文。",
-		  "pinyin": "",
-		  "english": "The teacher teaches us to speak and write Chinese.",
-		  "audio": "laoshi-jiao-zhongwen.mp3",
-		  "image": "1mip1_w10_3.jpg"
-		},
-		{
-		  "chinese": "我们在中文班读书、写字和画画儿。",
-		  "pinyin": "",
-		  "english": "In the Chinese class, we read, write, and draw.",
-		  "audio": "zhongwen-ban-du-shu-hua.mp3",
-		  "image": "1mip1_w10_4.jpg"
-		},
-		{
-		  "chinese": "我喜欢学中文。",
-		  "pinyin": "",
-		  "english": "I like learning Chinese.",
-		  "audio": "wo-xihuan-xue-zhongwen.mp3",
-		  "image": "1mip1_w10_5.jpg"
-		},
-		{
-		  "chinese": "中文",
-		  "pinyin": "",
-		  "english": "Chinese language.",
-		  "audio": "zhongwen.mp3",
-		  "image": "1mip1_w10_6.jpg"
-		},
-		{
-		  "chinese": "英文",
-		  "pinyin": "",
-		  "english": "English language.",
-		  "audio": "yingwen.mp3",
-		  "image": "1mip1_w10_7.jpg"
-		},
-		{
-		  "chinese": "画画",
-		  "pinyin": "",
-		  "english": "Drawing / painting.",
-		  "audio": "hua-hua.mp3",
-		  "image": "1mip1_w10_8.jpg"
-		},
-		{
-		  "chinese": "画家",
-		  "pinyin": "",
-		  "english": "Painter / artist.",
-		  "audio": "huajia.mp3",
-		  "image": "1mip1_w10_9.jpg"
-		},
-		{
-		  "chinese": "你和我",
-		  "pinyin": "",
-		  "english": "You and I.",
-		  "audio": "ni-he-wo.mp3",
-		  "image": "1mip1_w10_10.jpg"
-		},
-		{
-		  "chinese": "和好",
-		  "pinyin": "",
-		  "english": "Make up / reconcile.",
-		  "audio": "he-hao.mp3",
-		  "image": "1mip1_w10_11.jpg"
-		},
-		{
-		  "chinese": "说一说",
-		  "pinyin": "",
-		  "english": "Talk about / say a little.",
-		  "audio": "shuo-yi-shuo.mp3",
-		  "image": "1mip1_w10_12.jpg"
-		},
-		{
-		  "chinese": "说中文",
-		  "pinyin": "",
-		  "english": "Speak Chinese.",
-		  "audio": "shuo-zhongwen.mp3",
-		  "image": "1mip1_w10_13.jpg"
-		},
-		{
-		  "chinese": "早上",
-		  "pinyin": "",
-		  "english": "Morning.",
-		  "audio": "zaoshang.mp3",
-		  "image": "1mip1_w10_14.jpg"
-		},
-		{
-		  "chinese": "很早",
-		  "pinyin": "hěn zǎo",
-		  "english": "Very early.",
-		  "audio": "hen-zao.mp3",
-		  "image": "1mip1_w10_15.jpg"
-		}
-	  ]
-	},
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 5,
+    "phrases": [
+      {
+        "chinese": "我的家。",
+        "pinyin": "wǒ de jiā",
+        "english": "My home.",
+        "audio": "wo-de-jia.mp3",
+        "image": "1mip1_w5_1.jpg"
+      },
+      {
+        "chinese": "这是我的家。",
+        "pinyin": "zhè shì wǒ de jiā",
+        "english": "This is my home.",
+        "audio": "zhe-shi-wo-de-jia.mp3",
+        "image": "1mip1_w5_2.jpg"
+      },
+      {
+        "chinese": "我家有五口人，爷爷、奶奶、爸爸、妈妈和我。",
+        "pinyin": "wǒ jiā yǒu wǔ kǒu rén, yé ye, nǎi nai, bà ba, mā ma hé wǒ",
+        "english": "There are five people in my family: grandpa, grandma, dad, mom, and me.",
+        "audio": "wo-jia-you-wu-kou-ren.mp3",
+        "image": "1mip1_w5_3.jpg"
+      },
+      {
+        "chinese": "老爷爷。",
+        "pinyin": "lǎo yé ye",
+        "english": "Old grandpa.",
+        "audio": "lao-yeye.mp3",
+        "image": "1mip1_w5_6.jpg"
+      },
+      {
+        "chinese": "老奶奶。",
+        "pinyin": "lǎo nǎi nai",
+        "english": "Old grandma.",
+        "audio": "lao-nainai.mp3",
+        "image": "1mip1_w5_8.jpg"
+      },
+      {
+        "chinese": "爸爸。",
+        "pinyin": "bà ba",
+        "english": "Dad.",
+        "audio": "baba.mp3",
+        "image": "1mip1_w5_9.jpg"
+      },
+      {
+        "chinese": "爸妈。",
+        "pinyin": "bà mā",
+        "english": "Parents.",
+        "audio": "bama.mp3",
+        "image": "1mip1_w5_10.jpg"
+      },
+      {
+        "chinese": "妈妈。",
+        "pinyin": "mā ma",
+        "english": "Mom.",
+        "audio": "mama.mp3",
+        "image": "1mip1_w5_11.jpg"
+      },
+      {
+        "chinese": "我们。",
+        "pinyin": "wǒ men",
+        "english": "We / us.",
+        "audio": "women.mp3",
+        "image": "1mip1_w5_12.jpg"
+      },
+      {
+        "chinese": "是我。",
+        "pinyin": "shì wǒ",
+        "english": "It is me.",
+        "audio": "shi-wo.mp3",
+        "image": "1mip1_w5_13.jpg"
+      }
+    ]
+  },
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 6,
+    "phrases": [
+      {
+        "chinese": "我爱我的家。",
+        "pinyin": "wǒ ài wǒ de jiā",
+        "english": "I love my home.",
+        "audio": "wo-ai-wo-de-jia.mp3",
+        "image": "1mip1_w6_1.jpg"
+      },
+      {
+        "chinese": "我家有九口人。",
+        "pinyin": "wǒ jiā yǒu jiǔ kǒu rén",
+        "english": "There are nine people in my family.",
+        "audio": "wo-jia-you-jiu-kou-ren.mp3",
+        "image": "1mip1_w6_2.jpg"
+      },
+      {
+        "chinese": "这是我的爷爷。",
+        "pinyin": "zhè shì wǒ de yé ye",
+        "english": "This is my grandpa.",
+        "audio": "zhe-shi-wo-de-yeye2.mp3",
+        "image": "1mip1_w6_3.jpg"
+      },
+      {
+        "chinese": "这是我的奶奶。",
+        "pinyin": "zhè shì wǒ de nǎi nai",
+        "english": "This is my grandma.",
+        "audio": "zhe-shi-wo-de-nainai2.mp3",
+        "image": "1mip1_w6_4.jpg"
+      },
+      {
+        "chinese": "这是我的爸爸。",
+        "pinyin": "zhè shì wǒ de bà ba",
+        "english": "This is my dad.",
+        "audio": "zhe-shi-wo-de-baba2.mp3",
+        "image": "1mip1_w6_5.jpg"
+      },
+      {
+        "chinese": "这是我的妈妈。",
+        "pinyin": "zhè shì wǒ de mā ma",
+        "english": "This is my mom.",
+        "audio": "zhe-shi-wo-de-mama2.mp3",
+        "image": "1mip1_w6_6.jpg"
+      },
+      {
+        "chinese": "这是我的哥哥。",
+        "pinyin": "zhè shì wǒ de gē ge",
+        "english": "This is my older brother.",
+        "audio": "zhe-shi-wo-de-gege2.mp3",
+        "image": "1mip1_w6_7.jpg"
+      },
+      {
+        "chinese": "这是我的姐姐。",
+        "pinyin": "zhè shì wǒ de jiě jie",
+        "english": "This is my older sister.",
+        "audio": "zhe-shi-wo-de-jiejie2.mp3",
+        "image": "1mip1_w6_8.jpg"
+      },
+      {
+        "chinese": "这是我的妹妹。",
+        "pinyin": "zhè shì wǒ de mèi mei",
+        "english": "This is my younger sister.",
+        "audio": "zhe-shi-wo-de-meimei2.mp3",
+        "image": "1mip1_w6_9.jpg"
+      },
+      {
+        "chinese": "这是我的弟弟，他一岁了。",
+        "pinyin": "zhè shì wǒ de dì di, tā yī suì le",
+        "english": "This is my younger brother, he is one year old.",
+        "audio": "zhe-shi-wo-de-didi-ta-yi-sui-le.mp3",
+        "image": "1mip1_w6_10.jpg"
+      },
+      {
+        "chinese": "弟弟爱我们，我们也爱弟弟。",
+        "pinyin": "dì di ài wǒ men, wǒ men yě ài dì di",
+        "english": "Little brother loves us, and we also love him.",
+        "audio": "didi-ai-women.mp3",
+        "image": "1mip1_w6_11.jpg"
+      },
+      {
+        "chinese": "哥哥。",
+        "pinyin": "gē ge",
+        "english": "Older brother.",
+        "audio": "gege.mp3",
+        "image": "1mip1_w6_12.jpg"
+      },
+      {
+        "chinese": "大哥哥。",
+        "pinyin": "dà gē ge",
+        "english": "Big older brother.",
+        "audio": "da-gege.mp3",
+        "image": "1mip1_w6_13.jpg"
+      },
+      {
+        "chinese": "姐姐。",
+        "pinyin": "jiě jie",
+        "english": "Older sister.",
+        "audio": "jiejie.mp3",
+        "image": "1mip1_w6_14.jpg"
+      },
+      {
+        "chinese": "小姐姐。",
+        "pinyin": "xiǎo jiě jie",
+        "english": "Young lady / little older sister.",
+        "audio": "xiao-jiejie.mp3",
+        "image": "1mip1_w6_15.jpg"
+      },
+      {
+        "chinese": "弟弟。",
+        "pinyin": "dì di",
+        "english": "Younger brother.",
+        "audio": "didi.mp3",
+        "image": "1mip1_w6_16.jpg"
+      },
+      {
+        "chinese": "小弟弟。",
+        "pinyin": "xiǎo dì di",
+        "english": "Little younger brother.",
+        "audio": "xiao-didi.mp3",
+        "image": "1mip1_w6_17.jpg"
+      },
+      {
+        "chinese": "妹妹。",
+        "pinyin": "mèi mei",
+        "english": "Younger sister.",
+        "audio": "meimei.mp3",
+        "image": "1mip1_w6_18.jpg"
+      },
+      {
+        "chinese": "小妹妹。",
+        "pinyin": "xiǎo mèi mei",
+        "english": "Little younger sister.",
+        "audio": "xiao-meimei.mp3",
+        "image": "1mip1_w6_19.jpg"
+      },
+      {
+        "chinese": "没有。",
+        "pinyin": "méi yǒu",
+        "english": "No / do not have.",
+        "audio": "meiyou.mp3",
+        "image": "1mip1_w6_20.jpg"
+      },
+      {
+        "chinese": "有没有。",
+        "pinyin": "yǒu méi yǒu",
+        "english": "Have or not / is there or not?",
+        "audio": "you-mei-you.mp3",
+        "image": "1mip1_w6_21.jpg"
+      }
+    ]
+  },
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 7,
+    "phrases": [
+      {
+        "chinese": "小学生。",
+        "pinyin": "xiǎo xué shēng",
+        "english": "Primary school student.",
+        "audio": "xiaoxuesheng.mp3",
+        "image": "1mip1_w7_1.jpg"
+      },
+      {
+        "chinese": "我是小学生。",
+        "pinyin": "wǒ shì xiǎo xué shēng",
+        "english": "I am a primary school student.",
+        "audio": "wo-shi-xiaoxuesheng.mp3",
+        "image": "1mip1_w7_2.jpg"
+      },
+      {
+        "chinese": "我的学校有很多老师和学生，有男生也有女生。",
+        "pinyin": "wǒ de xué xiào yǒu hěn duō lǎo shī hé xué sheng, yǒu nán shēng yě yǒu nǚ shēng",
+        "english": "My school has many teachers and students; there are boys and girls.",
+        "audio": "wo-de-xuexiao-you-henduo-ren.mp3",
+        "image": "1mip1_w7_3.jpg"
+      },
+      {
+        "chinese": "我爱我的学校。",
+        "pinyin": "wǒ ài wǒ de xué xiào",
+        "english": "I love my school.",
+        "audio": "wo-ai-wo-de-xuexiao.mp3",
+        "image": "1mip1_w7_4.jpg"
+      },
+      {
+        "chinese": "老师。",
+        "pinyin": "lǎo shī",
+        "english": "Teacher.",
+        "audio": "laoshi.mp3",
+        "image": "1mip1_w7_5.jpg"
+      },
+      {
+        "chinese": "老人。",
+        "pinyin": "lǎo rén",
+        "english": "Elderly person.",
+        "audio": "laoren.mp3",
+        "image": "1mip1_w7_6.jpg"
+      },
+      {
+        "chinese": "大师。",
+        "pinyin": "dà shī",
+        "english": "Master (expert).",
+        "audio": "dashi.mp3",
+        "image": "1mip1_w7_7.jpg"
+      },
+      {
+        "chinese": "学生。",
+        "pinyin": "xué sheng",
+        "english": "Student.",
+        "audio": "xuesheng.mp3",
+        "image": "1mip1_w7_8.jpg"
+      },
+      {
+        "chinese": "生日。",
+        "pinyin": "shēng rì",
+        "english": "Birthday.",
+        "audio": "shengri.mp3",
+        "image": "1mip1_w7_9.jpg"
+      },
+      {
+        "chinese": "多少。",
+        "pinyin": "duō shǎo",
+        "english": "How many / how much.",
+        "audio": "duoshao.mp3",
+        "image": "1mip1_w7_10.jpg"
+      },
+      {
+        "chinese": "好多。",
+        "pinyin": "hǎo duō",
+        "english": "A lot / many.",
+        "audio": "haoduo.mp3",
+        "image": "1mip1_w7_11.jpg"
+      }
+    ]
+  },
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 8,
+    "phrases": [
+      {
+        "chinese": "小牛和小羊。",
+        "pinyin": "xiǎo niú hé xiǎo yáng",
+        "english": "The calf and the lamb.",
+        "audio": "xiao-niu-he-xiao-yang.mp3",
+        "image": "1mip1_w8_1.jpg"
+      },
+      {
+        "chinese": "小鸟在天上飞来飞去。",
+        "pinyin": "xiǎo niǎo zài tiān shàng fēi lái fēi qù",
+        "english": "The little bird flies back and forth in the sky.",
+        "audio": "xiao-niao-fei-lai-fei-qu.mp3",
+        "image": "1mip1_w8_2.jpg"
+      },
+      {
+        "chinese": "小鱼在水里游来游去。",
+        "pinyin": "xiǎo yú zài shuǐ lǐ yóu lái yóu qù",
+        "english": "The little fish swims back and forth in the water.",
+        "audio": "xiao-yu-you-lai-you-qu.mp3",
+        "image": "1mip1_w8_3.jpg"
+      },
+      {
+        "chinese": "小马在地上跑来跑去。",
+        "pinyin": "xiǎo mǎ zài dì shàng pǎo lái pǎo qù",
+        "english": "The little horse runs back and forth on the ground.",
+        "audio": "xiao-ma-pao-lai-pao-qu.mp3",
+        "image": "1mip1_w8_4.jpg"
+      },
+      {
+        "chinese": "小牛和小羊在草地上吃草。",
+        "pinyin": "xiǎo niú hé xiǎo yáng zài cǎo dì shàng chī cǎo",
+        "english": "The calf and lamb eat grass on the field.",
+        "audio": "xiao-niu-xiao-yang-chi-cao.mp3",
+        "image": "1mip1_w8_5.jpg"
+      },
+      {
+        "chinese": "绿绿的草很好吃！",
+        "pinyin": "lǜ lǜ de cǎo hěn hǎo chī",
+        "english": "The green grass is very tasty!",
+        "audio": "lv-lv-de-cao.mp3",
+        "image": "1mip1_w8_6.jpg"
+      },
+      {
+        "chinese": "小草。",
+        "pinyin": "xiǎo cǎo",
+        "english": "Grass.",
+        "audio": "xiao-cao.mp3",
+        "image": "1mip1_w8_7.jpg"
+      },
+      {
+        "chinese": "草地。",
+        "pinyin": "cǎo dì",
+        "english": "Grassland.",
+        "audio": "caodi.mp3",
+        "image": "1mip1_w8_8.jpg"
+      },
+      {
+        "chinese": "土地。",
+        "pinyin": "tǔ dì",
+        "english": "Land.",
+        "audio": "tudi.mp3",
+        "image": "1mip1_w8_9.jpg"
+      },
+      {
+        "chinese": "很少。",
+        "pinyin": "hěn shǎo",
+        "english": "Very few.",
+        "audio": "henshao.mp3",
+        "image": "1mip1_w8_10.jpg"
+      },
+      {
+        "chinese": "很好。",
+        "pinyin": "hěn hǎo",
+        "english": "Very good.",
+        "audio": "henhao.mp3",
+        "image": "1mip1_w8_11.jpg"
+      },
+      {
+        "chinese": "不在。",
+        "pinyin": "bù zài",
+        "english": "Not here / not present.",
+        "audio": "buzai.mp3",
+        "image": "1mip1_w8_12.jpg"
+      },
+      {
+        "chinese": "在不在。",
+        "pinyin": "zài bu zài",
+        "english": "Is (someone) there or not?",
+        "audio": "zai-bu-zai.mp3",
+        "image": "1mip1_w8_13.jpg"
+      },
+      {
+        "chinese": "来去。",
+        "pinyin": "lái qù",
+        "english": "Come and go.",
+        "audio": "lai-qu.mp3",
+        "image": "1mip1_w8_14.jpg"
+      },
+      {
+        "chinese": "回来。",
+        "pinyin": "huí lái",
+        "english": "Come back.",
+        "audio": "hui-lai.mp3",
+        "image": "1mip1_w8_15.jpg"
+      }
+    ]
+  },
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 9,
+    "phrases": [
+      {
+        "chinese": "花儿开了。",
+        "pinyin": "huā er kāi le",
+        "english": "The flowers have bloomed.",
+        "audio": "hua-er-kai-le.mp3",
+        "image": "1mip1_w9_1.jpg"
+      },
+      {
+        "chinese": "毛毛家门口有一个花园。",
+        "pinyin": "máo mao jiā mén kǒu yǒu yī gè huā yuán",
+        "english": "There is a garden at Maomao's house entrance.",
+        "audio": "maomao-jia-men-kou-you-hua-yuan.mp3",
+        "image": "1mip1_w9_2.jpg"
+      },
+      {
+        "chinese": "早上，毛毛在花园里玩，看见花儿开了。",
+        "pinyin": "zǎo shang, máo mao zài huā yuán lǐ wán, kàn jiàn huā er kāi le",
+        "english": "In the morning, Maomao played in the garden and saw the flowers bloom.",
+        "audio": "zaoshang-maomao-hua-yuan.mp3",
+        "image": "1mip1_w9_3.jpg"
+      },
+      {
+        "chinese": "花儿开了多好看！",
+        "pinyin": "huā er kāi le duō hǎo kàn",
+        "english": "The flowers blooming look so beautiful!",
+        "audio": "hua-er-kai-le-hao-kan.mp3",
+        "image": "1mip1_w9_4.jpg"
+      },
+      {
+        "chinese": "毛毛看了好开心。",
+        "pinyin": "máo mao kàn le hǎo kāi xīn",
+        "english": "Maomao felt very happy seeing them.",
+        "audio": "maomao-kan-le-hao-kaixin.mp3",
+        "image": "1mip1_w9_5.jpg"
+      },
+      {
+        "chinese": "花儿",
+        "pinyin": "huā er",
+        "english": "Flower(s).",
+        "audio": "hua-er.mp3",
+        "image": "1mip1_w9_6.jpg"
+      },
+      {
+        "chinese": "小花",
+        "pinyin": "xiǎo huā",
+        "english": "Small flower.",
+        "audio": "xiao-hua.mp3",
+        "image": "1mip1_w9_7.jpg"
+      },
+      {
+        "chinese": "花园",
+        "pinyin": "huā yuán",
+        "english": "Garden.",
+        "audio": "hua-yuan.mp3",
+        "image": "1mip1_w9_8.jpg"
+      },
+      {
+        "chinese": "园子",
+        "pinyin": "yuán zi",
+        "english": "Yard / garden.",
+        "audio": "yuan-zi.mp3",
+        "image": "1mip1_w9_9.jpg"
+      },
+      {
+        "chinese": "好玩",
+        "pinyin": "hǎo wán",
+        "english": "Fun / enjoyable.",
+        "audio": "hao-wan.mp3",
+        "image": "1mip1_w9_10.jpg"
+      },
+      {
+        "chinese": "去玩",
+        "pinyin": "qù wán",
+        "english": "Go play.",
+        "audio": "qu-wan.mp3",
+        "image": "1mip1_w9_11.jpg"
+      },
+      {
+        "chinese": "开了",
+        "pinyin": "kāi le",
+        "english": "Opened / bloomed.",
+        "audio": "kai-le.mp3",
+        "image": "1mip1_w9_12.jpg"
+      },
+      {
+        "chinese": "没了",
+        "pinyin": "méi le",
+        "english": "Gone / finished.",
+        "audio": "mei-le.mp3",
+        "image": "1mip1_w9_13.jpg"
+      },
+      {
+        "chinese": "看见",
+        "pinyin": "kàn jiàn",
+        "english": "Saw / noticed.",
+        "audio": "kan-jian.mp3",
+        "image": "1mip1_w9_14.jpg"
+      },
+      {
+        "chinese": "见了",
+        "pinyin": "jiàn le",
+        "english": "Met / saw.",
+        "audio": "jian-le.mp3",
+        "image": "1mip1_w9_15.jpg"
+      }
+    ]
+  },
+  {
+    "term": "1MIP 1 Term 1",
+    "week": 10,
+    "phrases": [
+      {
+        "chinese": "学中文",
+        "pinyin": "xué zhōng wén",
+        "english": "Learn Chinese.",
+        "audio": "xue-zhongwen.mp3",
+        "image": "1mip1_w10_1.jpg"
+      },
+      {
+        "chinese": "早上，我在学校学中文。",
+        "pinyin": "zǎo shang, wǒ zài xué xiào xué zhōng wén",
+        "english": "In the morning, I study Chinese at school.",
+        "audio": "zaoshang-xue-zhongwen.mp3",
+        "image": "1mip1_w10_2.jpg"
+      },
+      {
+        "chinese": "老师教我们说中文、写中文。",
+        "pinyin": "lǎo shī jiāo wǒ men shuō zhōng wén, xiě zhōng wén",
+        "english": "The teacher teaches us to speak and write Chinese.",
+        "audio": "laoshi-jiao-zhongwen.mp3",
+        "image": "1mip1_w10_3.jpg"
+      },
+      {
+        "chinese": "我们在中文班读书、写字和画画儿。",
+        "pinyin": "wǒ men zài zhōng wén bān dú shū, xiě zì hé huà huà er",
+        "english": "In the Chinese class, we read, write, and draw.",
+        "audio": "zhongwen-ban-du-shu-hua.mp3",
+        "image": "1mip1_w10_4.jpg"
+      },
+      {
+        "chinese": "我喜欢学中文。",
+        "pinyin": "wǒ xǐ huan xué zhōng wén",
+        "english": "I like learning Chinese.",
+        "audio": "wo-xihuan-xue-zhongwen.mp3",
+        "image": "1mip1_w10_5.jpg"
+      },
+      {
+        "chinese": "中文",
+        "pinyin": "zhōng wén",
+        "english": "Chinese language.",
+        "audio": "zhongwen.mp3",
+        "image": "1mip1_w10_6.jpg"
+      },
+      {
+        "chinese": "英文",
+        "pinyin": "yīng wén",
+        "english": "English language.",
+        "audio": "yingwen.mp3",
+        "image": "1mip1_w10_7.jpg"
+      },
+      {
+        "chinese": "画画",
+        "pinyin": "huà huà",
+        "english": "Drawing / painting.",
+        "audio": "hua-hua.mp3",
+        "image": "1mip1_w10_8.jpg"
+      },
+      {
+        "chinese": "画家",
+        "pinyin": "huà jiā",
+        "english": "Painter / artist.",
+        "audio": "huajia.mp3",
+        "image": "1mip1_w10_9.jpg"
+      },
+      {
+        "chinese": "你和我",
+        "pinyin": "nǐ hé wǒ",
+        "english": "You and I.",
+        "audio": "ni-he-wo.mp3",
+        "image": "1mip1_w10_10.jpg"
+      },
+      {
+        "chinese": "和好",
+        "pinyin": "hé hǎo",
+        "english": "Make up / reconcile.",
+        "audio": "he-hao.mp3",
+        "image": "1mip1_w10_11.jpg"
+      },
+      {
+        "chinese": "说一说",
+        "pinyin": "shuō yī shuō",
+        "english": "Talk about / say a little.",
+        "audio": "shuo-yi-shuo.mp3",
+        "image": "1mip1_w10_12.jpg"
+      },
+      {
+        "chinese": "说中文",
+        "pinyin": "shuō zhōng wén",
+        "english": "Speak Chinese.",
+        "audio": "shuo-zhongwen.mp3",
+        "image": "1mip1_w10_13.jpg"
+      },
+      {
+        "chinese": "早上",
+        "pinyin": "zǎo shang",
+        "english": "Morning.",
+        "audio": "zaoshang.mp3",
+        "image": "1mip1_w10_14.jpg"
+      },
+      {
+        "chinese": "很早",
+        "pinyin": "hěn zǎo",
+        "english": "Very early.",
+        "audio": "hen-zao.mp3",
+        "image": "1mip1_w10_15.jpg"
+      }
+    ]
+  },
+
 	{
 	  "term": "1MIP 1 Term 2",
 	  "week": 3,
@@ -1974,7 +1975,7 @@ const dataset = {
 		  "chinese": "早上 晚上",
 		  "pinyin": "zǎo shàng wǎn shàng",
 		  "english": "morning, night",
-		  "audio": " ",
+		  "audio": "zaoshangwanshang.mp3",
 		  "image": "1mip1_t2_w4_1.jpg"
 		},
 		{
@@ -2118,9 +2119,299 @@ const dataset = {
 		  "image": "1mip1_t2_w4_22.jpg"
 		}
 	  ]
+	},
+	{
+	  "term": "1MIP 1 Term 2",
+	  "week": 5,
+	  "phrases": [
+		{
+		  "chinese": "我的朋友",
+		  "pinyin": "wǒ de péng you",
+		  "english": "My friend",
+		  "audio": "wode-pengyou.mp3",
+		  "image": "1mip1_t2_w5_1.jpg"
+		},
+		{
+		  "chinese": "这是小刚。",
+		  "pinyin": "zhè shì xiǎo gāng.",
+		  "english": "This is Xiaogang.",
+		  "audio": "zhe-shi-xiaogang.mp3",
+		  "image": "1mip1_t2_w5_2.jpg"
+		},
+		{
+		  "chinese": "他今年六岁了。",
+		  "pinyin": "tā jīn nián liù suì le.",
+		  "english": "He is six years old this year.",
+		  "audio": "ta-jinnian-liusui.mp3",
+		  "image": "1mip1_t2_w5_3.jpg"
+		},
+		{
+		  "chinese": "他有大大的眼睛和小小的鼻子。",
+		  "pinyin": "tā yǒu dà dà de yǎn jing hé xiǎo xiǎo de bí zi.",
+		  "english": "He has big eyes and a small nose.",
+		  "audio": "ta-you-dada-yanjing.mp3",
+		  "image": "1mip1_t2_w5_4.jpg"
+		},
+		{
+		  "chinese": "他喜欢画画，也喜欢看书。",
+		  "pinyin": "tā xǐ huan huà huà, yě xǐ huan kàn shū.",
+		  "english": "He likes to draw, and also likes to read books.",
+		  "audio": "ta-xihuan-huahua.mp3",
+		  "image": "1mip1_t2_w5_5.jpg"
+		},
+		{
+		  "chinese": "我喜欢和小刚一起玩。",
+		  "pinyin": "wǒ xǐ huan hé xiǎo gāng yī qǐ wán.",
+		  "english": "I like to play with Xiaogang.",
+		  "audio": "wo-xihuan-he-xiaogang.mp3",
+		  "image": "1mip1_t2_w5_6.jpg"
+		},
+		{
+		  "chinese": "我们两个人是好朋友。",
+		  "pinyin": "wǒ men liǎng gè rén shì hǎo péng you.",
+		  "english": "The two of us are good friends.",
+		  "audio": "women-liangge-ren.mp3",
+		  "image": "1mip1_t2_w5_7.jpg"
+		},
+		{
+		  "chinese": "这个",
+		  "pinyin": "zhè ge",
+		  "english": "this",
+		  "audio": "zhege.mp3",
+		  "image": "1mip1_t2_w5_8.jpg"
+		},
+		{
+		  "chinese": "这儿",
+		  "pinyin": "zhèr",
+		  "english": "here",
+		  "audio": "zher.mp3",
+		  "image": "1mip1_t2_w5_9.jpg"
+		},
+		{
+		  "chinese": "朋友",
+		  "pinyin": "péng you",
+		  "english": "friend",
+		  "audio": "pengyou.mp3",
+		  "image": "1mip1_t2_w5_10.jpg"
+		},
+		{
+		  "chinese": "好朋友",
+		  "pinyin": "hǎo péng you",
+		  "english": "good friend",
+		  "audio": "hao-pengyou.mp3",
+		  "image": "1mip1_t2_w5_11.jpg"
+		},
+		{
+		  "chinese": "小朋友",
+		  "pinyin": "xiǎo péng you",
+		  "english": "child",
+		  "audio": "xiao-pengyou.mp3",
+		  "image": "1mip1_t2_w5_12.jpg"
+		},
+		{
+		  "chinese": "刚刚",
+		  "pinyin": "gāng gāng",
+		  "english": "just / recently",
+		  "audio": "ganggang.mp3",
+		  "image": "1mip1_t2_w5_13.jpg"
+		},
+		{
+		  "chinese": "刚刚好",
+		  "pinyin": "gāng gāng hǎo",
+		  "english": "just right",
+		  "audio": "ganggang-hao.mp3",
+		  "image": "1mip1_t2_w5_14.jpg"
+		},
+		{
+		  "chinese": "刚才",
+		  "pinyin": "gāng cái",
+		  "english": "just now",
+		  "audio": "gangcai.mp3",
+		  "image": "1mip1_t2_w5_15.jpg"
+		},
+		{
+		  "chinese": "孩子",
+		  "pinyin": "hái zi",
+		  "english": "child",
+		  "audio": "haizi.mp3",
+		  "image": "1mip1_t2_w5_16.jpg"
+		},
+		{
+		  "chinese": "小孩",
+		  "pinyin": "xiǎo hái",
+		  "english": "child",
+		  "audio": "xiaohai.mp3",
+		  "image": "1mip1_t2_w5_17.jpg"
+		},
+		{
+		  "chinese": "男孩",
+		  "pinyin": "nán hái",
+		  "english": "boy",
+		  "audio": "nanhai.mp3",
+		  "image": "1mip1_t2_w5_18.jpg"
+		},
+		{
+		  "chinese": "两个",
+		  "pinyin": "liǎng gè",
+		  "english": "two",
+		  "audio": "liangge.mp3",
+		  "image": "1mip1_t2_w5_19.jpg"
+		},
+		{
+		  "chinese": "两只",
+		  "pinyin": "liǎng zhī",
+		  "english": "two (measure word for animals)",
+		  "audio": "liangzhi.mp3",
+		  "image": "1mip1_t2_w5_20.jpg"
+		},
+		{
+		  "chinese": "两天",
+		  "pinyin": "liǎng tiān",
+		  "english": "two days",
+		  "audio": "liangtian.mp3",
+		  "image": "1mip1_t2_w5_21.jpg"
+		}
+	  ]
+	},
+	{
+	  "term": "1MIP 1 Term 2",
+	  "week": 6,
+	  "phrases": [
+		{
+		  "chinese": "家",
+		  "pinyin": "jiā",
+		  "english": "home / family",
+		  "audio": "jia.mp3",
+		  "image": "1mip1_t2_w6_1.jpg"
+		},
+		{
+		  "chinese": "蓝天是白云的家。",
+		  "pinyin": "lán tiān shì bái yún de jiā.",
+		  "english": "The blue sky is the home of the white clouds.",
+		  "audio": "lantian-shi-baiyun.mp3",
+		  "image": "1mip1_t2_w6_2.jpg"
+		},
+		{
+		  "chinese": "树林是小鸟的家。",
+		  "pinyin": "shù lín shì xiǎo niǎo de jiā.",
+		  "english": "The woods are the home of the little birds.",
+		  "audio": "shulin-shi-xiaoniao.mp3",
+		  "image": "1mip1_t2_w6_3.jpg"
+		},
+		{
+		  "chinese": "大海是鱼儿的家。",
+		  "pinyin": "dà hǎi shì yú ér de jiā.",
+		  "english": "The sea is the home of the fish.",
+		  "audio": "dahai-shi-yuer.mp3",
+		  "image": "1mip1_t2_w6_4.jpg"
+		},
+		{
+		  "chinese": "要下雨了，我也要回我的家。",
+		  "pinyin": "yào xià yǔ le, wǒ yě yào huí wǒ de jiā.",
+		  "english": "It is going to rain, I also need to go back to my home.",
+		  "audio": "yao-xiayu-le.mp3",
+		  "image": "1mip1_t2_w6_5.jpg"
+		},
+		{
+		  "chinese": "不是",
+		  "pinyin": "bù shì",
+		  "english": "is not",
+		  "audio": "bushi.mp3",
+		  "image": "1mip1_t2_w6_6.jpg"
+		},
+		{
+		  "chinese": "是不是",
+		  "pinyin": "shì bu shì",
+		  "english": "is it or not",
+		  "audio": "shibushi.mp3",
+		  "image": "1mip1_t2_w6_7.jpg"
+		},
+		{
+		  "chinese": "是的",
+		  "pinyin": "shì de",
+		  "english": "yes / that is right",
+		  "audio": "shide.mp3",
+		  "image": "1mip1_t2_w6_8.jpg"
+		},
+		{
+		  "chinese": "树木",
+		  "pinyin": "shù mù",
+		  "english": "trees",
+		  "audio": "shumu.mp3",
+		  "image": "1mip1_t2_w6_9.jpg"
+		},
+		{
+		  "chinese": "小树",
+		  "pinyin": "xiǎo shù",
+		  "english": "small tree",
+		  "audio": "xiaoshu.mp3",
+		  "image": "1mip1_t2_w6_10.jpg"
+		},
+		{
+		  "chinese": "大树",
+		  "pinyin": "dà shù",
+		  "english": "big tree",
+		  "audio": "dashu.mp3",
+		  "image": "1mip1_t2_w6_11.jpg"
+		},
+		{
+		  "chinese": "树林",
+		  "pinyin": "shù lín",
+		  "english": "woods",
+		  "audio": "shulin.mp3",
+		  "image": "1mip1_t2_w6_12.jpg"
+		},
+		{
+		  "chinese": "森林",
+		  "pinyin": "sēn lín",
+		  "english": "forest",
+		  "audio": "senlin.mp3",
+		  "image": "1mip1_t2_w6_13.jpg"
+		},
+		{
+		  "chinese": "鸟儿",
+		  "pinyin": "niǎo ér",
+		  "english": "bird",
+		  "audio": "niao-er.mp3",
+		  "image": "1mip1_t2_w6_14.jpg"
+		},
+		{
+		  "chinese": "小鸟",
+		  "pinyin": "xiǎo niǎo",
+		  "english": "little bird",
+		  "audio": "xiaoniao.mp3",
+		  "image": "1mip1_t2_w6_15.jpg"
+		},
+		{
+		  "chinese": "飞鸟",
+		  "pinyin": "fēi niǎo",
+		  "english": "flying bird",
+		  "audio": "feiniao.mp3",
+		  "image": "1mip1_t2_w6_16.jpg"
+		},
+		{
+		  "chinese": "儿子",
+		  "pinyin": "ér zi",
+		  "english": "son",
+		  "audio": "erzi.mp3",
+		  "image": "1mip1_t2_w6_17.jpg"
+		},
+		{
+		  "chinese": "花儿",
+		  "pinyin": "huā ér",
+		  "english": "flower",
+		  "audio": "hua-er.mp3",
+		  "image": "1mip1_t2_w6_18.jpg"
+		},
+		{
+		  "chinese": "鸟儿",
+		  "pinyin": "niǎo ér",
+		  "english": "bird",
+		  "audio": "niao-er.mp3",
+		  "image": "1mip1_t2_w6_19.jpg"
+		}
+	  ]
 	}
-
-
   ]
 }
 
