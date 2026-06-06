@@ -95,3 +95,14 @@ button:active {
     border-radius: 5px;
     border: 1px solid #ccc;
 }
+
+@font-face {
+  font-family: 'CustomKaiti';
+  src: url('./fonts/Kaiti.ttf') format('truetype');
+}
+
+#answer-chinese, #sentence-structure {
+  font-family: 'CustomKaiti', 'KaiTi', 'STKaiti', serif;
+  font-size: 5rem; /* Size adjustable */
+  margin: 20px 0;
+}

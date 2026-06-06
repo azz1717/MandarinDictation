@@ -1,0 +1,924 @@
+{
+  "weeks": {
+    "3": {
+      "phrases": [
+        {
+          "chinese": "我的一天",
+          "pinyin": "wǒ de yī tiān",
+          "sandhi": "wǒ de yì tiān",
+          "english": "My Day.",
+          "audio": "wo-de-yi-tian.mp3"
+        },
+        {
+          "chinese": "今天早上，爸爸和我一起去公园里玩。",
+          "pinyin": "jīn tiān zǎo shàng, bà ba hé wǒ yī qǐ qù gōng yuán lǐ wán",
+          "sandhi": "jīn tiān zǎo shàng, bà ba hé wǒ yì qǐ qù gōng yuán lǐ wán",
+          "english": "This morning, Dad and I went to the park to play.",
+          "audio": "jintian-zaoshang-gongyuan.mp3"
+        },
+        {
+          "chinese": "中午，我们在家里吃午饭。",
+          "pinyin": "zhōng wǔ, wǒ men zài jiā lǐ chī wǔ fàn",
+          "sandhi": "zhōng wǔ, wǒ men zài jiā lǐ chī wǔ fàn",
+          "english": "At noon, we ate lunch at home.",
+          "audio": "zhongwu-chi-wufan.mp3"
+        },
+        {
+          "chinese": "下午，我的好朋友云云来我们家和我一起画画。",
+          "pinyin": "xià wǔ, wǒ de hǎo péng yǒu yún yún lái wǒ men jiā hé wǒ yī qǐ huà huà",
+          "sandhi": "xià wǔ, wǒ de hǎo péng yǒu yún yún lái wǒ men jiā hé wǒ yì qǐ huà huà",
+          "english": "In the afternoon, my good friend Yunyun came to our house to draw with me.",
+          "audio": "xiawu-yunyun-huahua.mp3"
+        },
+        {
+          "chinese": "我们画了花和草地。",
+          "pinyin": "wǒ men huà le huā hé cǎo dì",
+          "sandhi": "wǒ men huà le huā hé cǎo dì",
+          "english": "We drew flowers and grass.",
+          "audio": "women-hua-le.mp3"
+        },
+        {
+          "chinese": "今天我很开心。",
+          "pinyin": "jīn tiān wǒ hěn kāi xīn",
+          "sandhi": "jīn tiān wó hěn kāi xīn",
+          "english": "Today I am very happy.",
+          "audio": "jintian-wo-hen-kaixin.mp3"
+        },
+        {
+          "chinese": "今天",
+          "pinyin": "jīn tiān",
+          "sandhi": "jīn tiān",
+          "english": "today",
+          "audio": "jintian.mp3"
+        },
+        {
+          "chinese": "不吃",
+          "pinyin": "bù chī",
+          "sandhi": "bù chī",
+          "english": "do not eat",
+          "audio": "buchi.mp3"
+        },
+        {
+          "chinese": "中午",
+          "pinyin": "zhōng wǔ",
+          "sandhi": "zhōng wǔ",
+          "english": "noon; midday",
+          "audio": "zhongwu.mp3"
+        },
+        {
+          "chinese": "公园",
+          "pinyin": "gōng yuán",
+          "sandhi": "gōng yuán",
+          "english": "park",
+          "audio": "gongyuan.mp3"
+        },
+        {
+          "chinese": "白云",
+          "pinyin": "bái yún",
+          "sandhi": "bái yún",
+          "english": "white cloud",
+          "audio": "baiyun.mp3"
+        },
+        {
+          "chinese": "今年",
+          "pinyin": "jīn nián",
+          "sandhi": "jīn nián",
+          "english": "this year",
+          "audio": "jinnian.mp3"
+        },
+        {
+          "chinese": "好吃",
+          "pinyin": "hǎo chī",
+          "sandhi": "hǎo chī",
+          "english": "delicious; tasty",
+          "audio": "haochi.mp3"
+        },
+        {
+          "chinese": "下午",
+          "pinyin": "xià wǔ",
+          "sandhi": "xià wǔ",
+          "english": "afternoon",
+          "audio": "xiawu.mp3"
+        },
+        {
+          "chinese": "公牛",
+          "pinyin": "gōng niú",
+          "sandhi": "gōng niú",
+          "english": "bull",
+          "audio": "gongniu.mp3"
+        },
+        {
+          "chinese": "多云",
+          "pinyin": "duō yún",
+          "sandhi": "duō yún",
+          "english": "cloudy",
+          "audio": "duoyun.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+        {
+          "chinese": "早上 晚上",
+          "pinyin": "zǎo shàng wǎn shàng",
+          "sandhi": "zǎo shàng wǎn shàng",
+          "english": "morning, night",
+          "audio": "zaoshangwanshang.mp3"
+        },
+        {
+          "chinese": "早上，爸爸出门了，哥哥也出门了。",
+          "pinyin": "zǎo shàng, bà ba chū mén le, gē ge yě chū mén le",
+          "sandhi": "zǎo shàng, bà ba chū mén le, gē ge yě chū mén le",
+          "english": "In the morning, Dad went out, and older brother also went out.",
+          "audio": "zaoshang-chumen.mp3"
+        },
+        {
+          "chinese": "妈妈、妹妹和我没有出门。",
+          "pinyin": "mā ma, mèi mei hé wǒ méi yǒu chū mén",
+          "sandhi": "mā ma, mèi mei hé wǒ méi yǒu chū mén",
+          "english": "Mum, younger sister, and I did not go out.",
+          "audio": "meiyou-chumen.mp3"
+        },
+        {
+          "chinese": "我们三个人在家。",
+          "pinyin": "wǒ men sān gè rén zài jiā",
+          "sandhi": "wǒ men sān gè rén zài jiā",
+          "english": "The three of us stayed at home.",
+          "audio": "women-zaijia.mp3"
+        },
+        {
+          "chinese": "晚上，爸爸回家了，哥哥也回家了。",
+          "pinyin": "wǎn shàng, bà ba huí jiā le, gē ge yě huí jiā le",
+          "sandhi": "wǎn shàng, bà ba huí jiā le, gē ge yě huí jiā le",
+          "english": "In the evening, Dad came home, and older brother also came home.",
+          "audio": "wanshang-huijia.mp3"
+        },
+        {
+          "chinese": "我们一家人在家。",
+          "pinyin": "wǒ men yī jiā rén zài jiā",
+          "sandhi": "wǒ men yì jiā rén zài jiā",
+          "english": "Our whole family is at home.",
+          "audio": "yijiaren-zaijia.mp3"
+        },
+        {
+          "chinese": "晚上",
+          "pinyin": "wǎn shàng",
+          "sandhi": "wǎn shàng",
+          "english": "evening; night",
+          "audio": "wanshang-2.mp3"
+        },
+        {
+          "chinese": "太晚了",
+          "pinyin": "tài wǎn le",
+          "sandhi": "tài wǎn le",
+          "english": "too late",
+          "audio": "taiwanle.mp3"
+        },
+        {
+          "chinese": "今晚",
+          "pinyin": "jīn wǎn",
+          "sandhi": "jīn wǎn",
+          "english": "tonight",
+          "audio": "jinwan.mp3"
+        },
+        {
+          "chinese": "没有",
+          "pinyin": "méi yǒu",
+          "sandhi": "méi yǒu",
+          "english": "do not have; there is not",
+          "audio": "meiyou-2.mp3"
+        },
+        {
+          "chinese": "有没有",
+          "pinyin": "yǒu méi yǒu",
+          "sandhi": "yǒu méi yǒu",
+          "english": "have or not; whether or not there is",
+          "audio": "youmeiyou.mp3"
+        },
+        {
+          "chinese": "没来",
+          "pinyin": "méi lái",
+          "sandhi": "méi lái",
+          "english": "did not come",
+          "audio": "meilai.mp3"
+        },
+        {
+          "chinese": "好的",
+          "pinyin": "hǎo de",
+          "sandhi": "hǎo de",
+          "english": "okay; alright",
+          "audio": "haode.mp3"
+        },
+        {
+          "chinese": "是的",
+          "pinyin": "shì de",
+          "sandhi": "shì de",
+          "english": "yes; that's correct",
+          "audio": "shide.mp3"
+        },
+        {
+          "chinese": "它的",
+          "pinyin": "tā de",
+          "sandhi": "tā de",
+          "english": "its",
+          "audio": "tade.mp3"
+        },
+        {
+          "chinese": "大家",
+          "pinyin": "dà jiā",
+          "sandhi": "dà jiā",
+          "english": "everyone",
+          "audio": "dajia.mp3"
+        },
+        {
+          "chinese": "在家",
+          "pinyin": "zài jiā",
+          "sandhi": "zài jiā",
+          "english": "at home",
+          "audio": "zaijia.mp3"
+        },
+        {
+          "chinese": "家里",
+          "pinyin": "jiā lǐ",
+          "sandhi": "jiā lǐ",
+          "english": "at home; inside the house",
+          "audio": "jiali.mp3"
+        },
+        {
+          "chinese": "回家",
+          "pinyin": "huí jiā",
+          "sandhi": "huí jiā",
+          "english": "to go home",
+          "audio": "huijia.mp3"
+        },
+        {
+          "chinese": "回来",
+          "pinyin": "huí lái",
+          "sandhi": "huí lái",
+          "english": "to come back",
+          "audio": "huilai.mp3"
+        },
+        {
+          "chinese": "回去",
+          "pinyin": "huí qù",
+          "sandhi": "huí qù",
+          "english": "to go back",
+          "audio": "huiqu.mp3"
+        }
+      ]
+    },
+    "5": {
+      "phrases": [
+        {
+          "chinese": "我的朋友",
+          "pinyin": "wǒ de péng you",
+          "sandhi": "wǒ de péng you",
+          "english": "My friend",
+          "audio": "wode-pengyou.mp3"
+        },
+        {
+          "chinese": "这是小刚。",
+          "pinyin": "zhè shì xiǎo gāng.",
+          "sandhi": "zhè shì xiǎo gāng.",
+          "english": "This is Xiaogang.",
+          "audio": "zhe-shi-xiaogang.mp3"
+        },
+        {
+          "chinese": "他今年六岁了。",
+          "pinyin": "tā jīn nián liù suì le.",
+          "sandhi": "tā jīn nián liù suì le.",
+          "english": "He is six years old this year.",
+          "audio": "ta-jinnian-liusui.mp3"
+        },
+        {
+          "chinese": "他有大大的眼睛和小小的鼻子。",
+          "pinyin": "tā yǒu dà dà de yǎn jing hé xiǎo xiǎo de bí zi.",
+          "sandhi": "tā yǒu dà dà de yǎn jing hé xiáo xiǎo de bí zi.",
+          "english": "He has big eyes and a small nose.",
+          "audio": "ta-you-dada-yanjing.mp3"
+        },
+        {
+          "chinese": "他喜欢画画，也喜欢看书。",
+          "pinyin": "tā xǐ huan huà huà, yě xǐ huan kàn shū.",
+          "sandhi": "tā xǐ huan huà huà, yé xǐ huan kàn shū.",
+          "english": "He likes to draw, and also likes to read books.",
+          "audio": "ta-xihuan-huahua.mp3"
+        },
+        {
+          "chinese": "我喜欢和小刚一起玩。",
+          "pinyin": "wǒ xǐ huan hé xiǎo gāng yī qǐ wán.",
+          "sandhi": "wó xǐ huan hé xiǎo gāng yì qǐ wán.",
+          "english": "I like to play with Xiaogang.",
+          "audio": "wo-xihuan-he-xiaogang.mp3"
+        },
+        {
+          "chinese": "我们两个人是好朋友。",
+          "pinyin": "wǒ men liǎng gè rén shì hǎo péng you.",
+          "sandhi": "wǒ men liǎng gè rén shì hǎo péng you.",
+          "english": "The two of us are good friends.",
+          "audio": "women-liangge-ren.mp3"
+        },
+        {
+          "chinese": "这个",
+          "pinyin": "zhè ge",
+          "sandhi": "zhè ge",
+          "english": "this",
+          "audio": "zhege.mp3"
+        },
+        {
+          "chinese": "这是",
+          "pinyin": "zhè shì",
+          "sandhi": "zhè shì",
+          "english": "this is",
+          "audio": "zheshi.mp3"
+        },
+        {
+          "chinese": "这里",
+          "pinyin": "zhè lǐ",
+          "sandhi": "zhè lǐ",
+          "english": "here",
+          "audio": "zheli.mp3"
+        },
+        {
+          "chinese": "这儿",
+          "pinyin": "zhèr",
+          "sandhi": "zhèr",
+          "english": "here",
+          "audio": "zher.mp3"
+        },
+        {
+          "chinese": "朋友",
+          "pinyin": "péng you",
+          "sandhi": "péng you",
+          "english": "friend",
+          "audio": "pengyou.mp3"
+        },
+        {
+          "chinese": "好朋友",
+          "pinyin": "hǎo péng you",
+          "sandhi": "hǎo péng you",
+          "english": "good friend",
+          "audio": "hao-pengyou.mp3"
+        },
+        {
+          "chinese": "小朋友",
+          "pinyin": "xiǎo péng you",
+          "sandhi": "xiǎo péng you",
+          "english": "child",
+          "audio": "xiao-pengyou.mp3"
+        },
+        {
+          "chinese": "刚刚",
+          "pinyin": "gāng gāng",
+          "sandhi": "gāng gāng",
+          "english": "just / recently",
+          "audio": "ganggang.mp3"
+        },
+        {
+          "chinese": "刚刚好",
+          "pinyin": "gāng gāng hǎo",
+          "sandhi": "gāng gāng hǎo",
+          "english": "just right",
+          "audio": "ganggang-hao.mp3"
+        },
+        {
+          "chinese": "刚才",
+          "pinyin": "gāng cái",
+          "sandhi": "gāng cái",
+          "english": "just now",
+          "audio": "gangcai.mp3"
+        },
+        {
+          "chinese": "孩子",
+          "pinyin": "hái zi",
+          "sandhi": "hái zi",
+          "english": "child",
+          "audio": "haizi.mp3"
+        },
+        {
+          "chinese": "小孩",
+          "pinyin": "xiǎo hái",
+          "sandhi": "xiǎo hái",
+          "english": "child",
+          "audio": "xiaohai.mp3"
+        },
+        {
+          "chinese": "女孩",
+          "pinyin": "nǚ hái",
+          "sandhi": "nǚ hái",
+          "english": "girl",
+          "audio": "nvhai.mp3"
+        },
+        {
+          "chinese": "男孩",
+          "pinyin": "nán hái",
+          "sandhi": "nán hái",
+          "english": "boy",
+          "audio": "nanhai.mp3"
+        },
+        {
+          "chinese": "两个",
+          "pinyin": "liǎng gè",
+          "sandhi": "liǎng gè",
+          "english": "two",
+          "audio": "liangge.mp3"
+        },
+        {
+          "chinese": "两只",
+          "pinyin": "liǎng zhī",
+          "sandhi": "liǎng zhī",
+          "english": "two (measure word for animals)",
+          "audio": "liangzhi.mp3"
+        },
+        {
+          "chinese": "两天",
+          "pinyin": "liǎng tiān",
+          "sandhi": "liǎng tiān",
+          "english": "two days",
+          "audio": "liangtian.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "家",
+          "pinyin": "jiā",
+          "sandhi": "jiā",
+          "english": "home / family",
+          "audio": "jia.mp3"
+        },
+        {
+          "chinese": "蓝天是白云的家。",
+          "pinyin": "lán tiān shì bái yún de jiā.",
+          "sandhi": "lán tiān shì bái yún de jiā.",
+          "english": "The blue sky is the home of the white clouds.",
+          "audio": "lantian-shi-baiyun.mp3"
+        },
+        {
+          "chinese": "树林是小鸟的家。",
+          "pinyin": "shù lín shì xiǎo niǎo de jiā.",
+          "sandhi": "shù lín shì xiáo niǎo de jiā.",
+          "english": "The woods are the home of the little birds.",
+          "audio": "shulin-shi-xiaoniao.mp3"
+        },
+        {
+          "chinese": "大海是鱼儿的家。",
+          "pinyin": "dà hǎi shì yú ér de jiā.",
+          "sandhi": "dà hǎi shì yú ér de jiā.",
+          "english": "The sea is the home of the fish.",
+          "audio": "dahai-shi-yuer.mp3"
+        },
+        {
+          "chinese": "要下雨了，我也要回我的家。",
+          "pinyin": "yào xià yǔ le, wǒ yě yào huí wǒ de jiā.",
+          "sandhi": "yào xià yǔ le, wó yě yào huí wǒ de jiā.",
+          "english": "It is going to rain, I also need to go back to my home.",
+          "audio": "yao-xiayu-le.mp3"
+        },
+        {
+          "chinese": "不是",
+          "pinyin": "bù shì",
+          "sandhi": "bú shì",
+          "english": "is not",
+          "audio": "bushi.mp3"
+        },
+        {
+          "chinese": "是不是",
+          "pinyin": "shì bù shì",
+          "sandhi": "shì bu shì",
+          "english": "is it or not",
+          "audio": "shibushi.mp3"
+        },
+        {
+          "chinese": "是的",
+          "pinyin": "shì de",
+          "sandhi": "shì de",
+          "english": "yes / that is right",
+          "audio": "shide2.mp3"
+        },
+        {
+          "chinese": "树木",
+          "pinyin": "shù mù",
+          "sandhi": "shù mù",
+          "english": "trees",
+          "audio": "shumu.mp3"
+        },
+        {
+          "chinese": "小树",
+          "pinyin": "xiǎo shù",
+          "sandhi": "xiǎo shù",
+          "english": "small tree",
+          "audio": "xiaoshu.mp3"
+        },
+        {
+          "chinese": "大树",
+          "pinyin": "dà shù",
+          "sandhi": "dà shù",
+          "english": "big tree",
+          "audio": "dashu.mp3"
+        },
+        {
+          "chinese": "树林",
+          "pinyin": "shù lín",
+          "sandhi": "shù lín",
+          "english": "woods",
+          "audio": "shulin.mp3"
+        },
+        {
+          "chinese": "森林",
+          "pinyin": "sēn lín",
+          "sandhi": "sēn lín",
+          "english": "forest",
+          "audio": "senlin.mp3"
+        },
+        {
+          "chinese": "鸟儿",
+          "pinyin": "niǎo ér",
+          "sandhi": "niǎo ér",
+          "english": "bird",
+          "audio": "niao-er.mp3"
+        },
+        {
+          "chinese": "小鸟",
+          "pinyin": "xiǎo niǎo",
+          "sandhi": "xiáo niǎo",
+          "english": "little bird",
+          "audio": "xiaoniao.mp3"
+        },
+        {
+          "chinese": "飞鸟",
+          "pinyin": "fēi niǎo",
+          "sandhi": "fēi niǎo",
+          "english": "flying bird",
+          "audio": "feiniao.mp3"
+        },
+        {
+          "chinese": "儿子",
+          "pinyin": "ér zi",
+          "sandhi": "ér zi",
+          "english": "son",
+          "audio": "erzi.mp3"
+        },
+        {
+          "chinese": "你儿",
+          "pinyin": "nǐ ér",
+          "sandhi": "nǐ ér",
+          "english": "your son",
+          "audio": "nier.mp3"
+        },
+        {
+          "chinese": "花儿",
+          "pinyin": "huā ér",
+          "sandhi": "huā ér",
+          "english": "flower",
+          "audio": "hua-er2.mp3"
+        },
+        {
+          "chinese": "鸟儿",
+          "pinyin": "niǎo ér",
+          "sandhi": "niǎo ér",
+          "english": "bird",
+          "audio": "niao-er2.mp3"
+        }
+      ]
+    },
+    "7": {
+      "phrases": [
+        {
+          "chinese": "妈妈和我",
+          "pinyin": "mā ma hé wǒ",
+          "sandhi": "mā ma hé wǒ",
+          "english": "Mom and me",
+          "audio": "mama-he-wo.mp3"
+        },
+        {
+          "chinese": "妈妈的个子高高的，",
+          "pinyin": "mā ma de gè zi gāo gāo de,",
+          "sandhi": "mā ma de gè zi gāo gāo de,",
+          "english": "Mom is tall,",
+          "audio": "mama-de-gezi-gaogao.mp3"
+        },
+        {
+          "chinese": "我的个子矮矮的。",
+          "pinyin": "wǒ de gè zi ǎi ǎi de.",
+          "sandhi": "wǒ de gè zi ái ǎi de.",
+          "english": "I am short.",
+          "audio": "wo-de-gezi-aiai.mp3"
+        },
+        {
+          "chinese": "妈妈的头发长长的，",
+          "pinyin": "mā ma de tóu fa cháng cháng de,",
+          "sandhi": "mā ma de tóu fa cháng cháng de,",
+          "english": "Mom's hair is long,",
+          "audio": "mama-de-toufa-changchang.mp3"
+        },
+        {
+          "chinese": "我的头发短短的。",
+          "pinyin": "wǒ de tóu fa duǎn duǎn de.",
+          "sandhi": "wǒ de tóu fa duán duǎn de.",
+          "english": "My hair is short.",
+          "audio": "wo-de-toufa-duanduan.mp3"
+        },
+        {
+          "chinese": "妈妈的手大大的，",
+          "pinyin": "mā ma de shǒu dà dà de,",
+          "sandhi": "mā ma de shǒu dà dà de,",
+          "english": "Mom's hands are big,",
+          "audio": "mama-de-shou-dada.mp3"
+        },
+        {
+          "chinese": "我的手小小的。",
+          "pinyin": "wǒ de shǒu xiǎo xiǎo de.",
+          "sandhi": "wǒ de shǒu xiáo xiǎo de.",
+          "english": "My hands are small.",
+          "audio": "wo-de-shou-xiaoxiao.mp3"
+        },
+        {
+          "chinese": "妈妈爱吃大西瓜，",
+          "pinyin": "mā ma ài chī dà xī guā,",
+          "sandhi": "mā ma ài chī dà xī guā,",
+          "english": "Mom loves to eat big watermelons,",
+          "audio": "mama-ai-chi-daxigua.mp3"
+        },
+        {
+          "chinese": "我也爱吃大西瓜。",
+          "pinyin": "wǒ yě ài chī dà xī guā.",
+          "sandhi": "wó yě ài chī dà xī guā.",
+          "english": "I also love to eat big watermelons.",
+          "audio": "wo-ye-ai-chi-daxigua.mp3"
+        },
+		{
+			"chinese": "高高的",
+			"pinyin": "gāo gāo de",
+			"sandhi": "gāo gāo de",
+			"english": "high / tall",
+			"audio": "gaogaode.mp3"
+		  },
+		  {
+			"chinese": "高兴",
+			"pinyin": "gāo xìng",
+			"sandhi": "gāo xìng",
+			"english": "happy / glad",
+			"audio": "gaoxing.mp3"
+		  },
+		  {
+			"chinese": "很高",
+			"pinyin": "hěn gāo",
+			"sandhi": "hěn gāo",
+			"english": "very high / very tall",
+			"audio": "hengao.mp3"
+		  },
+		  {
+			"chinese": "木头",
+			"pinyin": "mù tou",
+			"sandhi": "mù tou",
+			"english": "wood / log",
+			"audio": "mutou.mp3"
+		  },
+		  {
+			"chinese": "石头",
+			"pinyin": "shí tou",
+			"sandhi": "shí tou",
+			"english": "stone / rock",
+			"audio": "shitou.mp3"
+		  },
+		  {
+			"chinese": "头发",
+			"pinyin": "tóu fa",
+			"sandhi": "tóu fa",
+			"english": "hair",
+			"audio": "toufa.mp3"
+		  },
+		  {
+			"chinese": "很长",
+			"pinyin": "hěn cháng",
+			"sandhi": "hěn cháng",
+			"english": "very long",
+			"audio": "henchang.mp3"
+		  },
+		  {
+			"chinese": "长短",
+			"pinyin": "cháng duǎn",
+			"sandhi": "cháng duǎn",
+			"english": "length / long and short",
+			"audio": "changduan.mp3"
+		  },
+		  {
+			"chinese": "长长的",
+			"pinyin": "cháng cháng de",
+			"sandhi": "cháng cháng de",
+			"english": "long",
+			"audio": "changchangde.mp3"
+		  },
+		  {
+			"chinese": "长大",
+			"pinyin": "zhǎng dà",
+			"sandhi": "zhǎng dà",
+			"english": "to grow up",
+			"audio": "zhangda.mp3"
+		  },
+		  {
+			"chinese": "西瓜",
+			"pinyin": "xī guā",
+			"sandhi": "xī guā",
+			"english": "watermelon",
+			"audio": "xigua.mp3"
+		  },
+		  {
+			"chinese": "东西",
+			"pinyin": "dōng xi",
+			"sandhi": "dōng xi",
+			"english": "thing / stuff",
+			"audio": "dongxi.mp3"
+		  },
+		  {
+			"chinese": "西瓜",
+			"pinyin": "xī guā",
+			"sandhi": "xī guā",
+			"english": "watermelon",
+			"audio": "xigua.mp3"
+		  },
+		  {
+			"chinese": "黄瓜",
+			"pinyin": "huáng guā",
+			"sandhi": "huáng guā",
+			"english": "cucumber",
+			"audio": "huanggua.mp3"
+		  },
+		  {
+			"chinese": "南瓜",
+			"pinyin": "nán guā",
+			"sandhi": "nán guā",
+			"english": "pumpkin",
+			"audio": "nangua.mp3"
+		  },
+		  {
+			"chinese": "瓜子",
+			"pinyin": "guā zǐ",
+			"sandhi": "guā zǐ",
+			"english": "melon seeds",
+			"audio": "guazi.mp3"
+		  }
+      ]
+    },
+    "8": {
+      "phrases": [
+        {
+          "chinese": "你爱吃什么",
+          "pinyin": "nǐ ài chī shén me",
+          "sandhi": "nǐ ài chī shén me",
+          "english": "What do you love to eat?",
+          "audio": "ni-ai-chi-shen-me.mp3"
+        },
+        {
+          "chinese": "小猫爱吃鱼，",
+          "pinyin": "xiǎo māo ài chī yú,",
+          "sandhi": "xiǎo māo ài chī yú,",
+          "english": "Little cat loves to eat fish,",
+          "audio": "xiaomao-ai-chi-yu.mp3"
+        },
+        {
+          "chinese": "小狗爱吃肉，",
+          "pinyin": "xiǎo gǒu ài chī ròu,",
+          "sandhi": "xiáo gǒu ài chī ròu,",
+          "english": "Little dog loves to eat meat,",
+          "audio": "xiaogou-ai-chi-rou.mp3"
+        },
+        {
+          "chinese": "小马和小牛爱吃草。",
+          "pinyin": "xiǎo mǎ hé xiǎo niú ài chī cǎo.",
+          "sandhi": "xiáo mǎ hé xiǎo niú ài chī cǎo.",
+          "english": "Little horse and little cow love to eat grass.",
+          "audio": "xiaoma-he-xiaoniu-ai-chi-cao.mp3"
+        },
+        {
+          "chinese": "小鸡爱吃米，",
+          "pinyin": "xiǎo jī ài chī mǐ,",
+          "sandhi": "xiǎo jī ài chī mǐ,",
+          "english": "Little chicken loves to eat rice,",
+          "audio": "xiaoji-ai-chi-mi.mp3"
+        },
+        {
+          "chinese": "小鸟爱吃虫，",
+          "pinyin": "xiǎo niǎo ài chī chóng,",
+          "sandhi": "xiáo niǎo ài chī chóng,",
+          "english": "Little bird loves to eat bugs,",
+          "audio": "xiaoniao-ai-chi-chong.mp3"
+        },
+        {
+          "chinese": "我和我的好朋友爱吃冰淇淋。",
+          "pinyin": "wǒ hé wǒ de hǎo péng you ài chī bīng qí lín.",
+          "sandhi": "wǒ hé wǒ de hǎo péng you ài chī bīng qí lín.",
+          "english": "My good friend and I love to eat ice cream.",
+          "audio": "wo-he-wo-de-hao-pengyou-ai-chi-bingqilin.mp3"
+        },
+		  {
+			"chinese": "小猫",
+			"pinyin": "xiǎo māo",
+			"sandhi": "xiǎo māo",
+			"english": "little cat / kitten",
+			"audio": "xiaomao.mp3"
+		  },
+		  {
+			"chinese": "小花猫",
+			"pinyin": "xiǎo huā māo",
+			"sandhi": "xiǎo huā māo",
+			"english": "little spotted cat",
+			"audio": "xiaohuamao.mp3"
+		  },
+		  {
+			"chinese": "小黑猫",
+			"pinyin": "xiǎo hēi māo",
+			"sandhi": "xiǎo hēi māo",
+			"english": "little black cat",
+			"audio": "xiaoheimao.mp3"
+		  },
+		  {
+			"chinese": "小狗",
+			"pinyin": "xiǎo gǒu",
+			"sandhi": "xiáo gǒu",
+			"english": "little dog / puppy",
+			"audio": "xiaogou.mp3"
+		  },
+		  {
+			"chinese": "小黑狗",
+			"pinyin": "xiǎo hēi gǒu",
+			"sandhi": "xiǎo hēi gǒu",
+			"english": "little black dog",
+			"audio": "xiaoheigou.mp3"
+		  },
+		  {
+			"chinese": "小花狗",
+			"pinyin": "xiǎo huā gǒu",
+			"sandhi": "xiǎo huā gǒu",
+			"english": "little spotted dog",
+			"audio": "xiaohuagou.mp3"
+		  },
+		  {
+			"chinese": "小鱼",
+			"pinyin": "xiǎo yú",
+			"sandhi": "xiǎo yú",
+			"english": "little fish",
+			"audio": "xiaoyu.mp3"
+		  },
+		  {
+			"chinese": "鱼儿",
+			"pinyin": "yú ér",
+			"sandhi": "yú ér",
+			"english": "fish",
+			"audio": "yuer.mp3"
+		  },
+		  {
+			"chinese": "金鱼",
+			"pinyin": "jīn yú",
+			"sandhi": "jīn yú",
+			"english": "goldfish",
+			"audio": "jinyu.mp3"
+		  },
+		  {
+			"chinese": "三文鱼",
+			"pinyin": "sān wén yú",
+			"sandhi": "sān wén yú",
+			"english": "salmon",
+			"audio": "sanwenyu.mp3"
+		  },
+		  {
+			"chinese": "大米",
+			"pinyin": "dà mǐ",
+			"sandhi": "dà mǐ",
+			"english": "rice",
+			"audio": "dami.mp3"
+		  },
+		  {
+			"chinese": "白米",
+			"pinyin": "bái mǐ",
+			"sandhi": "bái mǐ",
+			"english": "white rice",
+			"audio": "baimi.mp3"
+		  },
+		  {
+			"chinese": "一米",
+			"pinyin": "yī mǐ",
+			"sandhi": "yì mǐ",
+			"english": "one meter",
+			"audio": "yimi.mp3"
+		  },
+		  {
+			"chinese": "虫子",
+			"pinyin": "chóng zi",
+			"sandhi": "chóng zi",
+			"english": "bug / insect",
+			"audio": "chongzi.mp3"
+		  },
+		  {
+			"chinese": "毛毛虫",
+			"pinyin": "máo mao chóng",
+			"sandhi": "máo mao chóng",
+			"english": "caterpillar",
+			"audio": "maomaochong.mp3"
+		  }
+      ]
+    }
+  }
+}

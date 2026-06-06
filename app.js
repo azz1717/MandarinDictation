@@ -3,23 +3,50 @@ let currentPhrase = null;
 let currentTerm = null;
 let currentWeek = null;
 let audioPlayer = null;
-let currentFilterTerm = "all"; // New: tracks the active filter
+let currentFilterTerm = "all";
 
-// Flatten dataset into a single array
-function initializePhrases() {
-    dataset.weeks.forEach(weekObj => {
-        weekObj.phrases.forEach(phrase => {
-            if (phrase.chinese && phrase.audio && phrase.image) {
-                allPhrases.push({
-                    term: weekObj.term,
-                    week: weekObj.week,
-                    phrase: phrase
+// Fetch dataset structure and load individual term files
+async function initializeData() {
+    try {
+        const indexRes = await fetch('index.json');
+        const indexData = await indexRes.json();
+        
+        const loadedFiles = {};
+
+        for (const weekMeta of indexData.weeks) {
+            const file = weekMeta.file;
+            const term = weekMeta.term;
+            const week = weekMeta.week;
+
+            if (!loadedFiles[file]) {
+                const termRes = await fetch(`data/${file}`);
+                loadedFiles[file] = await termRes.json();
+            }
+
+            const termData = loadedFiles[file];
+            if (termData.weeks && termData.weeks[week]) {
+                termData.weeks[week].phrases.forEach(phrase => {
+                    // Replaced image requirement with chinese requirement
+                    if (phrase.chinese && phrase.audio) {
+                        allPhrases.push({
+                            term: term,
+                            week: week,
+                            phrase: phrase
+                        });
+                    }
                 });
             }
-        });
-    });
+        }
 
-    // New: Extract unique terms and populate the dropdown
+        populateFilters();
+        selectRandomPhrase();
+    } catch (err) {
+        console.error("Failed to load datasets:", err);
+    }
+}
+
+// Populate the dropdown filter
+function populateFilters() {
     const uniqueTerms = new Set(allPhrases.map(item => String(item.term)));
     const filterSelect = document.getElementById("term-filter");
     
@@ -31,25 +58,21 @@ function initializePhrases() {
             filterSelect.appendChild(option);
         });
 
-        // New: Listen for filter changes
         filterSelect.addEventListener("change", (e) => {
             currentFilterTerm = e.target.value;
-            selectRandomPhrase(); // Pick a new phrase when the filter changes
+            selectRandomPhrase(); 
         });
     }
 }
 
 // Select random phrase
 function selectRandomPhrase() {
-    // New: Filter the phrases based on the selected term
     const filteredPhrases = currentFilterTerm === "all" 
         ? allPhrases 
         : allPhrases.filter(item => String(item.term) === currentFilterTerm);
 
-    // Safety check just in case a filter returns empty
     if (filteredPhrases.length === 0) return;
 
-    // Use filteredPhrases instead of allPhrases for the random selection
     const randomIndex = Math.floor(Math.random() * filteredPhrases.length);
     const selection = filteredPhrases[randomIndex];
 
@@ -63,19 +86,16 @@ function selectRandomPhrase() {
 // Create blanked out sentence template
 function maskSentence(chineseText) {
     return chineseText.split("").map(char => {
-        // Chinese punctuation to preserve
         const punctuation = "，。？！；：、“”‘’（）";
         
         if (punctuation.includes(char)) {
             return char;
         }
 
-        // Preserve spaces
         if (char.trim() === "") {
             return char;
         }
 
-        // Replace all other characters with underscore
         return "_";
     }).join(" ");
 }
@@ -86,9 +106,9 @@ function updateTestScreen() {
         `Term ${currentTerm} - Week ${currentWeek}`;
         
     document.getElementById("sentence-structure").textContent =
-    maskSentence(currentPhrase.chinese);
+        maskSentence(currentPhrase.chinese);
     
-    document.getElementById("answer-image").src = "images/" + currentPhrase.image;
+    // Removed image source update logic
 
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");
@@ -101,6 +121,8 @@ function showAnswer() {
     document.getElementById("answer-term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
 
+    // Populates the new text container instead of an image
+    document.getElementById("answer-chinese").textContent = currentPhrase.chinese;
     document.getElementById("answer-english").textContent = currentPhrase.english;
 
     document.getElementById("test-screen").classList.add("hidden");
@@ -118,7 +140,7 @@ document.getElementById("play-btn").addEventListener("click", () => {
 document.getElementById("answer-btn").addEventListener("click", showAnswer);
 
 document.getElementById("retry-btn").addEventListener("click", () => {
-    updateTestScreen(); // same phrase, no re-randomizing
+    updateTestScreen(); 
 });
 
 document.getElementById("new-btn").addEventListener("click", () => {
@@ -126,5 +148,4 @@ document.getElementById("new-btn").addEventListener("click", () => {
 });
 
 // Initialize
-initializePhrases();
-selectRandomPhrase();
+initializeData();

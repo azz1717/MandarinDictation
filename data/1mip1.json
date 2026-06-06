@@ -1,0 +1,637 @@
+{
+  "weeks": {
+    "5": {
+      "phrases": [
+        {
+          "chinese": "我的家。",
+          "pinyin": "wǒ de jiā",
+          "sandhi": "wǒ de jiā",
+          "english": "My home.",
+          "audio": "wo-de-jia.mp3"
+        },
+        {
+          "chinese": "这是我的家。",
+          "pinyin": "zhè shì wǒ de jiā",
+          "sandhi": "zhè shì wǒ de jiā",
+          "english": "This is my home.",
+          "audio": "zhe-shi-wo-de-jia.mp3"
+        },
+        {
+          "chinese": "我家有五口人，爷爷、奶奶、爸爸、妈妈和我。",
+          "pinyin": "wǒ jiā yǒu wǔ kǒu rén, yé ye, nǎi nai, bà ba, mā ma hé wǒ",
+          "sandhi": "wǒ jiā yóu wú kǒu rén, yé ye, nǎi nai, bà ba, mā ma hé wǒ",
+          "english": "There are five people in my family: grandpa, grandma, dad, mom, and me.",
+          "audio": "wo-jia-you-wu-kou-ren.mp3"
+        },
+        {
+          "chinese": "老爷爷。",
+          "pinyin": "lǎo yé ye",
+          "sandhi": "lǎo yé ye",
+          "english": "Old grandpa.",
+          "audio": "lao-yeye.mp3"
+        },
+        {
+          "chinese": "老奶奶。",
+          "pinyin": "lǎo nǎi nai",
+          "sandhi": "láo nǎi nai",
+          "english": "Old grandma.",
+          "audio": "lao-nainai.mp3"
+        },
+        {
+          "chinese": "爸爸。",
+          "pinyin": "bà ba",
+          "sandhi": "bà ba",
+          "english": "Dad.",
+          "audio": "baba.mp3"
+        },
+        {
+          "chinese": "爸妈。",
+          "pinyin": "bà mā",
+          "sandhi": "bà mā",
+          "english": "Parents.",
+          "audio": "bama.mp3"
+        },
+        {
+          "chinese": "妈妈。",
+          "pinyin": "mā ma",
+          "sandhi": "mā ma",
+          "english": "Mom.",
+          "audio": "mama.mp3"
+        },
+        {
+          "chinese": "我们。",
+          "pinyin": "wǒ men",
+          "sandhi": "wǒ men",
+          "english": "We / us.",
+          "audio": "women.mp3"
+        },
+        {
+          "chinese": "是我。",
+          "pinyin": "shì wǒ",
+          "sandhi": "shì wǒ",
+          "english": "It is me.",
+          "audio": "shi-wo.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "我爱我的家。",
+          "pinyin": "wǒ ài wǒ de jiā",
+          "sandhi": "wǒ ài wǒ de jiā",
+          "english": "I love my home.",
+          "audio": "wo-ai-wo-de-jia.mp3"
+        },
+        {
+          "chinese": "我家有九口人。",
+          "pinyin": "wǒ jiā yǒu jiǔ kǒu rén",
+          "sandhi": "wǒ jiā yóu jiú kǒu rén",
+          "english": "There are nine people in my family.",
+          "audio": "wo-jia-you-jiu-kou-ren.mp3"
+        },
+        {
+          "chinese": "这是我的爷爷。",
+          "pinyin": "zhè shì wǒ de yé ye",
+          "sandhi": "zhè shì wǒ de yé ye",
+          "english": "This is my grandpa.",
+          "audio": "zhe-shi-wo-de-yeye2.mp3"
+        },
+        {
+          "chinese": "这是我的奶奶。",
+          "pinyin": "zhè shì wǒ de nǎi nai",
+          "sandhi": "zhè shì wǒ de nǎi nai",
+          "english": "This is my grandma.",
+          "audio": "zhe-shi-wo-de-nainai2.mp3"
+        },
+        {
+          "chinese": "这是我的爸爸。",
+          "pinyin": "zhè shì wǒ de bà ba",
+          "sandhi": "zhè shì wǒ de bà ba",
+          "english": "This is my dad.",
+          "audio": "zhe-shi-wo-de-baba2.mp3"
+        },
+        {
+          "chinese": "这是我的妈妈。",
+          "pinyin": "zhè shì wǒ de mā ma",
+          "sandhi": "zhè shì wǒ de mā ma",
+          "english": "This is my mom.",
+          "audio": "zhe-shi-wo-de-mama2.mp3"
+        },
+        {
+          "chinese": "这是我的哥哥。",
+          "pinyin": "zhè shì wǒ de gē ge",
+          "sandhi": "zhè shì wǒ de gē ge",
+          "english": "This is my older brother.",
+          "audio": "zhe-shi-wo-de-gege2.mp3"
+        },
+        {
+          "chinese": "这是我的姐姐。",
+          "pinyin": "zhè shì wǒ de jiě jie",
+          "sandhi": "zhè shì wǒ de jiě jie",
+          "english": "This is my older sister.",
+          "audio": "zhe-shi-wo-de-jiejie2.mp3"
+        },
+        {
+          "chinese": "这是我的妹妹。",
+          "pinyin": "zhè shì wǒ de mèi mei",
+          "sandhi": "zhè shì wǒ de mèi mei",
+          "english": "This is my younger sister.",
+          "audio": "zhe-shi-wo-de-meimei2.mp3"
+        },
+        {
+          "chinese": "这是我的弟弟，他一岁了。",
+          "pinyin": "zhè shì wǒ de dì di, tā yī suì le",
+          "sandhi": "zhè shì wǒ de dì di, tā yí suì le",
+          "english": "This is my younger brother, he is one year old.",
+          "audio": "zhe-shi-wo-de-didi-ta-yi-sui-le.mp3"
+        },
+        {
+          "chinese": "弟弟爱我们，我们也爱弟弟。",
+          "pinyin": "dì di ài wǒ men, wǒ men yě ài dì di",
+          "sandhi": "dì di ài wǒ men, wǒ men yě ài dì di",
+          "english": "Little brother loves us, and we also love him.",
+          "audio": "didi-ai-women.mp3"
+        },
+        {
+          "chinese": "哥哥。",
+          "pinyin": "gē ge",
+          "sandhi": "gē ge",
+          "english": "Older brother.",
+          "audio": "gege.mp3"
+        },
+        {
+          "chinese": "大哥哥。",
+          "pinyin": "dà gē ge",
+          "sandhi": "dà gē ge",
+          "english": "Big older brother.",
+          "audio": "da-gege.mp3"
+        },
+        {
+          "chinese": "姐姐。",
+          "pinyin": "jiě jie",
+          "sandhi": "jiě jie",
+          "english": "Older sister.",
+          "audio": "jiejie.mp3"
+        },
+        {
+          "chinese": "小姐姐。",
+          "pinyin": "xiǎo jiě jie",
+          "sandhi": "xiáo jiě jie",
+          "english": "Young lady / little older sister.",
+          "audio": "xiao-jiejie.mp3"
+        },
+        {
+          "chinese": "弟弟。",
+          "pinyin": "dì di",
+          "sandhi": "dì di",
+          "english": "Younger brother.",
+          "audio": "didi.mp3"
+        },
+        {
+          "chinese": "小弟弟。",
+          "pinyin": "xiǎo dì di",
+          "sandhi": "xiǎo dì di",
+          "english": "Little younger brother.",
+          "audio": "xiao-didi.mp3"
+        },
+        {
+          "chinese": "妹妹。",
+          "pinyin": "mèi mei",
+          "sandhi": "mèi mei",
+          "english": "Younger sister.",
+          "audio": "meimei.mp3"
+        },
+        {
+          "chinese": "小妹妹。",
+          "pinyin": "xiǎo mèi mei",
+          "sandhi": "xiǎo mèi mei",
+          "english": "Little younger sister.",
+          "audio": "xiao-meimei.mp3"
+        },
+        {
+          "chinese": "没有。",
+          "pinyin": "méi yǒu",
+          "sandhi": "méi yǒu",
+          "english": "No / do not have.",
+          "audio": "meiyou.mp3"
+        },
+        {
+          "chinese": "有没有。",
+          "pinyin": "yǒu méi yǒu",
+          "sandhi": "yǒu méi yǒu",
+          "english": "Have or not / is there or not?",
+          "audio": "you-mei-you.mp3"
+        }
+      ]
+    },
+    "7": {
+      "phrases": [
+        {
+          "chinese": "小学生。",
+          "pinyin": "xiǎo xué shēng",
+          "sandhi": "xiǎo xué shēng",
+          "english": "Primary school student.",
+          "audio": "xiaoxuesheng.mp3"
+        },
+        {
+          "chinese": "我是小学生。",
+          "pinyin": "wǒ shì xiǎo xué shēng",
+          "sandhi": "wǒ shì xiǎo xué shēng",
+          "english": "I am a primary school student.",
+          "audio": "wo-shi-xiaoxuesheng.mp3"
+        },
+        {
+          "chinese": "我的学校有很多老师和学生，有男生也有女生。",
+          "pinyin": "wǒ de xué xiào yǒu hěn duō lǎo shī hé xué sheng, yǒu nán shēng yě yǒu nǚ shēng",
+          "sandhi": "wǒ de xué xiào yóu hěn duō lǎo shī hé xué sheng, yǒu nán shēng yé yǒu nǚ shēng",
+          "english": "My school has many teachers and students; there are boys and girls.",
+          "audio": "wo-de-xuexiao-you-henduo-ren.mp3"
+        },
+        {
+          "chinese": "我爱我的学校。",
+          "pinyin": "wǒ ài wǒ de xué xiào",
+          "sandhi": "wǒ ài wǒ de xué xiào",
+          "english": "I love my school.",
+          "audio": "wo-ai-wo-de-xuexiao.mp3"
+        },
+        {
+          "chinese": "老师。",
+          "pinyin": "lǎo shī",
+          "sandhi": "lǎo shī",
+          "english": "Teacher.",
+          "audio": "laoshi.mp3"
+        },
+        {
+          "chinese": "老人。",
+          "pinyin": "lǎo rén",
+          "sandhi": "lǎo rén",
+          "english": "Elderly person.",
+          "audio": "laoren.mp3"
+        },
+        {
+          "chinese": "大师。",
+          "pinyin": "dà shī",
+          "sandhi": "dà shī",
+          "english": "Master (expert).",
+          "audio": "dashi.mp3"
+        },
+        {
+          "chinese": "学生。",
+          "pinyin": "xué sheng",
+          "sandhi": "xué sheng",
+          "english": "Student.",
+          "audio": "xuesheng.mp3"
+        },
+        {
+          "chinese": "生日。",
+          "pinyin": "shēng rì",
+          "sandhi": "shēng rì",
+          "english": "Birthday.",
+          "audio": "shengri.mp3"
+        },
+        {
+          "chinese": "多少。",
+          "pinyin": "duō shǎo",
+          "sandhi": "duō shǎo",
+          "english": "How many / how much.",
+          "audio": "duoshao.mp3"
+        },
+        {
+          "chinese": "好多。",
+          "pinyin": "hǎo duō",
+          "sandhi": "hǎo duō",
+          "english": "A lot / many.",
+          "audio": "haoduo.mp3"
+        }
+      ]
+    },
+    "8": {
+      "phrases": [
+        {
+          "chinese": "小牛和小羊。",
+          "pinyin": "xiǎo niú hé xiǎo yáng",
+          "sandhi": "xiǎo niú hé xiǎo yáng",
+          "english": "The calf and the lamb.",
+          "audio": "xiao-niu-he-xiao-yang.mp3"
+        },
+        {
+          "chinese": "小鸟在天上飞来飞去。",
+          "pinyin": "xiǎo niǎo zài tiān shàng fēi lái fēi qù",
+          "sandhi": "xiáo niǎo zài tiān shàng fēi lái fēi qù",
+          "english": "The little bird flies back and forth in the sky.",
+          "audio": "xiao-niao-fei-lai-fei-qu.mp3"
+        },
+        {
+          "chinese": "小鱼在水里游来游去。",
+          "pinyin": "xiǎo yú zài shuǐ lǐ yóu lái yóu qù",
+          "sandhi": "xiǎo yú zài shuí lǐ yóu lái yóu qù",
+          "english": "The little fish swims back and forth in the water.",
+          "audio": "xiao-yu-you-lai-you-qu.mp3"
+        },
+        {
+          "chinese": "小马在地上跑来跑去。",
+          "pinyin": "xiǎo mǎ zài dì shàng pǎo lái pǎo qù",
+          "sandhi": "xiáo mǎ zài dì shàng pǎo lái pǎo qù",
+          "english": "The little horse runs back and forth on the ground.",
+          "audio": "xiao-ma-pao-lai-pao-qu.mp3"
+        },
+        {
+          "chinese": "小牛和小羊在草地上吃草。",
+          "pinyin": "xiǎo niú hé xiǎo yáng zài cǎo dì shàng chī cǎo",
+          "sandhi": "xiǎo niú hé xiǎo yáng zài cǎo dì shàng chī cǎo",
+          "english": "The calf and lamb eat grass on the field.",
+          "audio": "xiao-niu-xiao-yang-chi-cao.mp3"
+        },
+        {
+          "chinese": "绿绿的草很好吃！",
+          "pinyin": "lǜ lǜ de cǎo hěn hǎo chī",
+          "sandhi": "lǜ lǜ de cǎo hén hǎo chī",
+          "english": "The green grass is very tasty!",
+          "audio": "lv-lv-de-cao.mp3"
+        },
+        {
+          "chinese": "小草。",
+          "pinyin": "xiǎo cǎo",
+          "sandhi": "xiáo cǎo",
+          "english": "Grass.",
+          "audio": "xiao-cao.mp3"
+        },
+        {
+          "chinese": "草地。",
+          "pinyin": "cǎo dì",
+          "sandhi": "cǎo dì",
+          "english": "Grassland.",
+          "audio": "caodi.mp3"
+        },
+        {
+          "chinese": "土地。",
+          "pinyin": "tǔ dì",
+          "sandhi": "tǔ dì",
+          "english": "Land.",
+          "audio": "tudi.mp3"
+        },
+        {
+          "chinese": "很少。",
+          "pinyin": "hěn shǎo",
+          "sandhi": "hén shǎo",
+          "english": "Very few.",
+          "audio": "henshao.mp3"
+        },
+        {
+          "chinese": "很好。",
+          "pinyin": "hěn hǎo",
+          "sandhi": "hén hǎo",
+          "english": "Very good.",
+          "audio": "henhao.mp3"
+        },
+        {
+          "chinese": "不在。",
+          "pinyin": "bù zài",
+          "sandhi": "bú zài",
+          "english": "Not here / not present.",
+          "audio": "buzai.mp3"
+        },
+        {
+          "chinese": "在不在。",
+          "pinyin": "zài bù zài",
+          "sandhi": "zài bu zài",
+          "english": "Is (someone) there or not?",
+          "audio": "zai-bu-zai.mp3"
+        },
+        {
+          "chinese": "来去。",
+          "pinyin": "lái qù",
+          "sandhi": "lái qù",
+          "english": "Come and go.",
+          "audio": "lai-qu.mp3"
+        },
+        {
+          "chinese": "回来。",
+          "pinyin": "huí lái",
+          "sandhi": "huí lái",
+          "english": "Come back.",
+          "audio": "hui-lai.mp3"
+        }
+      ]
+    },
+    "9": {
+      "phrases": [
+        {
+          "chinese": "花儿开了。",
+          "pinyin": "huā er kāi le",
+          "sandhi": "huā er kāi le",
+          "english": "The flowers have bloomed.",
+          "audio": "hua-er-kai-le.mp3"
+        },
+        {
+          "chinese": "毛毛家门口有一个花园。",
+          "pinyin": "máo mao jiā mén kǒu yǒu yī gè huā yuán",
+          "sandhi": "máo mao jiā mén kǒu yǒu yí gè huā yuán",
+          "english": "There is a garden at Maomao's house entrance.",
+          "audio": "maomao-jia-men-kou-you-hua-yuan.mp3"
+        },
+        {
+          "chinese": "早上，毛毛在花园里玩，看见花儿开了。",
+          "pinyin": "zǎo shang, máo mao zài huā yuán lǐ wán, kàn jiàn huā er kāi le",
+          "sandhi": "zǎo shang, máo mao zài huā yuán lǐ wán, kàn jiàn huā er kāi le",
+          "english": "In the morning, Maomao played in the garden and saw the flowers bloom.",
+          "audio": "zaoshang-maomao-hua-yuan.mp3"
+        },
+        {
+          "chinese": "花儿开了多好看！",
+          "pinyin": "huā er kāi le duō hǎo kàn",
+          "sandhi": "huā er kāi le duō hǎo kàn",
+          "english": "The flowers blooming look so beautiful!",
+          "audio": "hua-er-kai-le-hao-kan.mp3"
+        },
+        {
+          "chinese": "毛毛看了好开心。",
+          "pinyin": "máo mao kàn le hǎo kāi xīn",
+          "sandhi": "máo mao kàn le hǎo kāi xīn",
+          "english": "Maomao felt very happy seeing them.",
+          "audio": "maomao-kan-le-hao-kaixin.mp3"
+        },
+        {
+          "chinese": "花儿",
+          "pinyin": "huā er",
+          "sandhi": "huā er",
+          "english": "Flower(s).",
+          "audio": "hua-er.mp3"
+        },
+        {
+          "chinese": "小花",
+          "pinyin": "xiǎo huā",
+          "sandhi": "xiǎo huā",
+          "english": "Small flower.",
+          "audio": "xiao-hua.mp3"
+        },
+        {
+          "chinese": "花园",
+          "pinyin": "huā yuán",
+          "sandhi": "huā yuán",
+          "english": "Garden.",
+          "audio": "hua-yuan.mp3"
+        },
+        {
+          "chinese": "园子",
+          "pinyin": "yuán zi",
+          "sandhi": "yuán zi",
+          "english": "Yard / garden.",
+          "audio": "yuan-zi.mp3"
+        },
+        {
+          "chinese": "好玩",
+          "pinyin": "hǎo wán",
+          "sandhi": "hǎo wán",
+          "english": "Fun / enjoyable.",
+          "audio": "hao-wan.mp3"
+        },
+        {
+          "chinese": "去玩",
+          "pinyin": "qù wán",
+          "sandhi": "qù wán",
+          "english": "Go play.",
+          "audio": "qu-wan.mp3"
+        },
+        {
+          "chinese": "开了",
+          "pinyin": "kāi le",
+          "sandhi": "kāi le",
+          "english": "Opened / bloomed.",
+          "audio": "kai-le.mp3"
+        },
+        {
+          "chinese": "没了",
+          "pinyin": "méi le",
+          "sandhi": "méi le",
+          "english": "Gone / finished.",
+          "audio": "mei-le.mp3"
+        },
+        {
+          "chinese": "看见",
+          "pinyin": "kàn jiàn",
+          "sandhi": "kàn jiàn",
+          "english": "Saw / noticed.",
+          "audio": "kan-jian.mp3"
+        },
+        {
+          "chinese": "见了",
+          "pinyin": "jiàn le",
+          "sandhi": "jiàn le",
+          "english": "Met / saw.",
+          "audio": "jian-le.mp3"
+        }
+      ]
+    },
+    "10": {
+      "phrases": [
+        {
+          "chinese": "学中文",
+          "pinyin": "xué zhōng wén",
+          "sandhi": "xué zhōng wén",
+          "english": "Learn Chinese.",
+          "audio": "xue-zhongwen.mp3"
+        },
+        {
+          "chinese": "早上，我在学校学中文。",
+          "pinyin": "zǎo shang, wǒ zài xué xiào xué zhōng wén",
+          "sandhi": "zǎo shang, wǒ zài xué xiào xué zhōng wén",
+          "english": "In the morning, I study Chinese at school.",
+          "audio": "zaoshang-xue-zhongwen.mp3"
+        },
+        {
+          "chinese": "老师教我们说中文、写中文。",
+          "pinyin": "lǎo shī jiāo wǒ men shuō zhōng wén, xiě zhōng wén",
+          "sandhi": "lǎo shī jiāo wǒ men shuō zhōng wén, xiě zhōng wén",
+          "english": "The teacher teaches us to speak and write Chinese.",
+          "audio": "laoshi-jiao-zhongwen.mp3"
+        },
+        {
+          "chinese": "我们在中文班读书、写字和画画儿。",
+          "pinyin": "wǒ men zài zhōng wén bān dú shū, xiě zì hé huà huà er",
+          "sandhi": "wǒ men zài zhōng wén bān dú shū, xiě zì hé huà huà er",
+          "english": "In the Chinese class, we read, write, and draw.",
+          "audio": "zhongwen-ban-du-shu-hua.mp3"
+        },
+        {
+          "chinese": "我喜欢学中文。",
+          "pinyin": "wǒ xǐ huan xué zhōng wén",
+          "sandhi": "wó xǐ huan xué zhōng wén",
+          "english": "I like learning Chinese.",
+          "audio": "wo-xihuan-xue-zhongwen.mp3"
+        },
+        {
+          "chinese": "中文",
+          "pinyin": "zhōng wén",
+          "sandhi": "zhōng wén",
+          "english": "Chinese language.",
+          "audio": "zhongwen.mp3"
+        },
+        {
+          "chinese": "英文",
+          "pinyin": "yīng wén",
+          "sandhi": "yīng wén",
+          "english": "English language.",
+          "audio": "yingwen.mp3"
+        },
+        {
+          "chinese": "画画",
+          "pinyin": "huà huà",
+          "sandhi": "huà huà",
+          "english": "Drawing / painting.",
+          "audio": "hua-hua.mp3"
+        },
+        {
+          "chinese": "画家",
+          "pinyin": "huà jiā",
+          "sandhi": "huà jiā",
+          "english": "Painter / artist.",
+          "audio": "huajia.mp3"
+        },
+        {
+          "chinese": "你和我",
+          "pinyin": "nǐ hé wǒ",
+          "sandhi": "nǐ hé wǒ",
+          "english": "You and I.",
+          "audio": "ni-he-wo.mp3"
+        },
+        {
+          "chinese": "和好",
+          "pinyin": "hé hǎo",
+          "sandhi": "hé hǎo",
+          "english": "Make up / reconcile.",
+          "audio": "he-hao.mp3"
+        },
+        {
+          "chinese": "说一说",
+          "pinyin": "shuō yī shuō",
+          "sandhi": "shuō yì shuō",
+          "english": "Talk about / say a little.",
+          "audio": "shuo-yi-shuo.mp3"
+        },
+        {
+          "chinese": "说中文",
+          "pinyin": "shuō zhōng wén",
+          "sandhi": "shuō zhōng wén",
+          "english": "Speak Chinese.",
+          "audio": "shuo-zhongwen.mp3"
+        },
+        {
+          "chinese": "早上",
+          "pinyin": "zǎo shang",
+          "sandhi": "zǎo shang",
+          "english": "Morning.",
+          "audio": "zaoshang.mp3"
+        },
+        {
+          "chinese": "很早",
+          "pinyin": "hěn zǎo",
+          "sandhi": "hén zǎo",
+          "english": "Very early.",
+          "audio": "hen-zao.mp3"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "weeks": {
+    "1": {
+      "phrases": [
+        {
+          "chinese": "山上有一个人",
+          "pinyin": "shān shàng yǒu yī gè rén",
+          "sandhi": "shān shàng yǒu yí gè rén",
+          "english": "There is a person on the mountain",
+          "audio": "shan-shang-you-yi-ge-ren.mp3"
+        },
+        {
+          "chinese": "三个人向下走",
+          "pinyin": "sān gè rén xiàng xià zǒu",
+          "sandhi": "sān gè rén xiàng xià zǒu",
+          "english": "Three people walk down",
+          "audio": "san-ge-ren-xiang-xia-zou.mp3"
+        },
+        {
+          "chinese": "比一比大小",
+          "pinyin": "bǐ yī bǐ dàxiǎo",
+          "sandhi": "bǐ yi bǐ dàxiǎo",
+          "english": "Compare sizes",
+          "audio": "bi-yi-bi-daxiao.mp3"
+        },
+        {
+          "chinese": "我看到四个苹果",
+          "pinyin": "wǒ kàndào sì gè píngguǒ",
+          "sandhi": "wǒ kàndào sì gè píngguǒ",
+          "english": "I see four apples",
+          "audio": "wo-kandao-si-ge-pingguo.mp3"
+        }
+      ]
+    },
+    "2": {
+      "phrases": [
+        {
+          "chinese": "小草小小的，大树大大的",
+          "pinyin": "xiǎo cǎo xiǎo xiǎo de, dà shù dà dà de",
+          "sandhi": "xiáo cǎo xiáo xiǎo de, dà shù dà dà de",
+          "english": "The grass is small, the tree is big",
+          "audio": "xiao-cao-xiao-xiao-de-da-shu-da-da-de.mp3"
+        },
+        {
+          "chinese": "大树小小的，大山大大的",
+          "pinyin": "dà shù xiǎo xiǎo de, dà shān dà dà de",
+          "sandhi": "dà shù xiáo xiǎo de, dà shān dà dà de",
+          "english": "The tree is small, the mountain is big",
+          "audio": "da-shu-xiao-xiao-de-da-shan-da-da-de.mp3"
+        },
+        {
+          "chinese": "大山小小的，天空大大的",
+          "pinyin": "dà shān xiǎo xiǎo de, tiānkōng dà dà de",
+          "sandhi": "dà shān xiáo xiǎo de, tiānkōng dà dà de",
+          "english": "The mountain is small, the sky is big",
+          "audio": "da-shan-xiao-xiao-de-tiankong-da-da-de.mp3"
+        },
+        {
+          "chinese": "天空大大的，太阳小小的",
+          "pinyin": "tiānkōng dà dà de, tàiyáng xiǎo xiǎo de",
+          "sandhi": "tiānkōng dà dà de, tàiyáng xiáo xiǎo de",
+          "english": "The sky is big, the sun is small",
+          "audio": "tiankong-da-da-de-taiyang-xiao-xiao-de.mp3"
+        }
+      ]
+    },
+    "3": {
+      "phrases": [
+        {
+          "chinese": "五个小朋友",
+          "pinyin": "wǔ gè xiǎo péngyǒu",
+          "sandhi": "wǔ gè xiǎo péngyǒu",
+          "english": "Five little children",
+          "audio": "wu-ge-xiao-pengyou.mp3"
+        },
+        {
+          "chinese": "星期六不上学",
+          "pinyin": "xīngqīliù bù shàngxué",
+          "sandhi": "xīngqīliù bú shàngxué",
+          "english": "No school on Saturday",
+          "audio": "xingqiliu-bu-shangxue.mp3"
+        },
+        {
+          "chinese": "吃了一大口",
+          "pinyin": "chī le yī dà kǒu",
+          "sandhi": "chī le yí dà kǒu",
+          "english": "Took a big bite",
+          "audio": "chi-le-yi-da-kou.mp3"
+        },
+        {
+          "chinese": "没有人在中间",
+          "pinyin": "méi yǒu rén zài zhōngjiān",
+          "sandhi": "méi yǒu rén zài zhōngjiān",
+          "english": "No one is in the middle",
+          "audio": "mei-you-ren-zai-zhongjian.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+        {
+          "chinese": "天空小小的，太阳大大的",
+          "pinyin": "tiānkōng xiǎo xiǎo de, tàiyáng dà dà de",
+          "sandhi": "tiānkōng xiáo xiǎo de, tàiyáng dà dà de",
+          "english": "The sky is small, the sun is big",
+          "audio": "tiankong-xiao-xiao-de-taiyang-da-da-de.mp3"
+        },
+        {
+          "chinese": "太阳小小的，星星大大的",
+          "pinyin": "tàiyáng xiǎo xiǎo de, xīngxing dà dà de",
+          "sandhi": "tàiyáng xiáo xiǎo de, xīngxing dà dà de",
+          "english": "The sun is small, the stars are big",
+          "audio": "taiyang-xiao-xiao-de-xingxing-da-da-de.mp3"
+        },
+        {
+          "chinese": "我小小的，爸爸大大的",
+          "pinyin": "wǒ xiǎo xiǎo de, bàba dà dà de",
+          "sandhi": "wó xiáo xiǎo de, bàba dà dà de",
+          "english": "I am small, dad is big",
+          "audio": "wo-xiao-xiao-de-baba-da-da-de.mp3"
+        }
+      ]
+    },
+    "5": {
+      "phrases": [
+        {
+          "chinese": "我在山上看日出",
+          "pinyin": "wǒ zài shān shàng kàn rìchū",
+          "sandhi": "wǒ zài shān shàng kàn rìchū",
+          "english": "I watch the sunrise from the mountain",
+          "audio": "wo-zai-shan-shang-kan-richu.mp3"
+        },
+        {
+          "chinese": "天上有个月亮",
+          "pinyin": "tiān shàng yǒu ge yuèliang",
+          "sandhi": "tiān shàng yǒu ge yuèliang",
+          "english": "There is a moon in the sky",
+          "audio": "tian-shang-you-ge-yueliang.mp3"
+        },
+        {
+          "chinese": "天上下雨了",
+          "pinyin": "tiān shàng xià yǔ le",
+          "sandhi": "tiān shàng xià yǔ le",
+          "english": "It is raining from the sky",
+          "audio": "tian-shang-xia-yu-le.mp3"
+        },
+        {
+          "chinese": "这片美丽的土地",
+          "pinyin": "zhè piàn měilì de tǔdì",
+          "sandhi": "zhè piàn měilì de tǔdì",
+          "english": "This beautiful land",
+          "audio": "zhe-pian-meili-de-tudi.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "我爱问妈妈",
+          "pinyin": "wǒ ài wèn māma",
+          "sandhi": "wǒ ài wèn māma",
+          "english": "I love to ask mom questions",
+          "audio": "wo-ai-wen-mama.mp3"
+        },
+        {
+          "chinese": "一什么一？一人一",
+          "pinyin": "yī shénme yī? yī rén yī",
+          "sandhi": "yī shénme yī? yì rén yī",
+          "english": "One what one? One person one",
+          "audio": "yi-shenme-yi-yi-ren-yi.mp3"
+        },
+        {
+          "chinese": "二什么二？二小兔二",
+          "pinyin": "èr shénme èr? èr xiǎo tù èr",
+          "sandhi": "èr shénme èr? èr xiǎo tù èr",
+          "english": "Two what two? Two little rabbits two",
+          "audio": "er-shenme-er-er-xiao-tu-er.mp3"
+        },
+        {
+          "chinese": "三什么三？三大山三",
+          "pinyin": "sān shénme sān? sān dà shān sān",
+          "sandhi": "sān shénme sān? sān dà shān sān",
+          "english": "Three what three? Three big mountains three",
+          "audio": "san-shenme-san-san-da-shan-san.mp3"
+        }
+      ]
+    },
+    "7": {
+      "phrases": [
+        {
+          "chinese": "一二三，木头人",
+          "pinyin": "yī èr sān, mùtou rén",
+          "sandhi": "yī èr sān, mùtou rén",
+          "english": "One two three, wooden person (freeze game)",
+          "audio": "yi-er-san-mutou-ren.mp3"
+        },
+        {
+          "chinese": "一个星期有七天",
+          "pinyin": "yī gè xīngqī yǒu qī tiān",
+          "sandhi": "yí gè xīngqī yǒu qī tiān",
+          "english": "A week has seven days",
+          "audio": "yi-ge-xingqi-you-qi-tian.mp3"
+        },
+        {
+          "chinese": "我看到八只山羊",
+          "pinyin": "wǒ kàndào bā zhī shānyáng",
+          "sandhi": "wǒ kàndào bā zhī shānyáng",
+          "english": "I see eight goats",
+          "audio": "wo-kandao-ba-zhi-shanyang.mp3"
+        },
+        {
+          "chinese": "我看到天上有九只小鸟",
+          "pinyin": "wǒ kàndào tiānshàng yǒu jiǔ zhī xiǎo niǎo",
+          "sandhi": "wǒ kàndào tiānshàng yóu jiǔ zhī xiáo niǎo",
+          "english": "I see nine little birds in the sky",
+          "audio": "wo-kandao-tianshang-you-jiu-zhi-xiao-niao.mp3"
+        }
+      ]
+    },
+    "8": {
+      "phrases": [
+        {
+          "chinese": "四什么四？四飞鸟四",
+          "pinyin": "sì shénme sì? sì fēi niǎo sì",
+          "sandhi": "sì shénme sì? sì fēi niǎo sì",
+          "english": "Four what four? Four flying birds four",
+          "audio": "si-shenme-si-si-fei-niao-si.mp3"
+        },
+        {
+          "chinese": "五什么五？五小花五。五爱心五",
+          "pinyin": "wǔ shénme wǔ? wǔ xiǎo huā wǔ. wǔ àixīn wǔ",
+          "sandhi": "wǔ shénme wǔ? wú xiǎo huā wǔ. wǔ àixīn wǔ",
+          "english": "Five what five? Five small flowers five. Five hearts five",
+          "audio": "wu-shenme-wu-wu-xiao-hua-wu-wu-aixin-wu.mp3"
+        },
+        {
+          "chinese": "我爱妈妈。妈妈爱我",
+          "pinyin": "wǒ ài māma. māma ài wǒ",
+          "sandhi": "wǒ ài māma. māma ài wǒ",
+          "english": "I love mom. Mom loves me",
+          "audio": "wo-ai-mama-mama-ai-wo.mp3"
+        }
+      ]
+    },
+    "9": {
+      "phrases": [
+        {
+          "chinese": "我有十根手指",
+          "pinyin": "wǒ yǒu shí gēn shǒuzhǐ",
+          "sandhi": "wó yǒu shí gēn shóuzhǐ",
+          "english": "I have ten fingers",
+          "audio": "wo-you-shi-gen-shouzhi.mp3"
+        }
+      ]
+    },
+    "10": {
+      "phrases": [
+        {
+          "chinese": "山上有一只大山羊",
+          "pinyin": "shān shàng yǒu yī zhī dà shānyáng",
+          "sandhi": "shān shàng yǒu yì zhī dà shānyáng",
+          "english": "There is a big goat on the mountain",
+          "audio": "shan-shang-you-yi-zhi-da-shanyang.mp3"
+        }
+      ]
+    }
+  }
+}

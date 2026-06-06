@@ -1,0 +1,191 @@
+{
+  "weeks": {
+    "8": {
+      "phrases": [
+        {
+          "chinese": "我来数一数",
+          "pinyin": "wǒ lái shǔ yī shǔ",
+          "sandhi": "wǒ lái shǔ yì shǔ",
+          "english": "Let me count",
+          "audio": "wo-lai-shu-yi-shu.mp3"
+        },
+        {
+          "chinese": "十个气球",
+          "pinyin": "shí gè qìqiú",
+          "sandhi": "shí gè qìqiú",
+          "english": "Ten balloons",
+          "audio": "shi-ge-qiqiu.mp3"
+        },
+        {
+          "chinese": "十个小朋友玩气球",
+          "pinyin": "shí gè xiǎopéngyǒu wán qìqiú",
+          "sandhi": "shí gè xiǎopéngyǒu wán qìqiú",
+          "english": "Ten children play with balloons",
+          "audio": "shi-ge-xiaopengyou-wan-qiqiu.mp3"
+        },
+        {
+          "chinese": "一二三四五六七八九十",
+          "pinyin": "yī èr sān sì wǔ liù qī bā jiǔ shí",
+          "sandhi": "yī èr sān sì wǔ liù qī bā jiǔ shí",
+          "english": "One two three four five six seven eight nine ten",
+          "audio": "yi-er-san-si-wu-liu-qi-ba-jiu-shi.mp3"
+        }
+      ]
+    },
+    "9": {
+      "phrases": [
+        {
+          "chinese": "这是我的妈妈",
+          "pinyin": "zhè shì wǒ de māma",
+          "sandhi": "zhè shì wǒ de māma",
+          "english": "This is my mom",
+          "audio": "zhe-shi-wo-de-mama.mp3"
+        },
+        {
+          "chinese": "这是我的爸爸",
+          "pinyin": "zhè shì wǒ de bàba",
+          "sandhi": "zhè shì wǒ de bàba",
+          "english": "This is my dad",
+          "audio": "zhe-shi-wo-de-baba.mp3"
+        },
+        {
+          "chinese": "这是我的爷爷",
+          "pinyin": "zhè shì wǒ de yéye",
+          "sandhi": "zhè shì wǒ de yéye",
+          "english": "This is my grandpa",
+          "audio": "zhe-shi-wo-de-yeye.mp3"
+        },
+        {
+          "chinese": "这是我的奶奶",
+          "pinyin": "zhè shì wǒ de nǎinai",
+          "sandhi": "zhè shì wǒ de nǎinai",
+          "english": "This is my grandma",
+          "audio": "zhe-shi-wo-de-nainai.mp3"
+        },
+        {
+          "chinese": "这是我的哥哥",
+          "pinyin": "zhè shì wǒ de gēge",
+          "sandhi": "zhè shì wǒ de gēge",
+          "english": "This is my older brother",
+          "audio": "zhe-shi-wo-de-gege.mp3"
+        },
+        {
+          "chinese": "这是我的姐姐",
+          "pinyin": "zhè shì wǒ de jiějie",
+          "sandhi": "zhè shì wǒ de jiějie",
+          "english": "This is my older sister",
+          "audio": "zhe-shi-wo-de-jiejie.mp3"
+        },
+        {
+          "chinese": "这是我的弟弟",
+          "pinyin": "zhè shì wǒ de dìdi",
+          "sandhi": "zhè shì wǒ de dìdi",
+          "english": "This is my younger brother",
+          "audio": "zhe-shi-wo-de-didi.mp3"
+        },
+        {
+          "chinese": "这是我的妹妹",
+          "pinyin": "zhè shì wǒ de mèimei",
+          "sandhi": "zhè shì wǒ de mèimei",
+          "english": "This is my younger sister",
+          "audio": "zhe-shi-wo-de-meimei.mp3"
+        },
+        {
+          "chinese": "这是正方形",
+          "pinyin": "zhè shì zhèngfāngxíng",
+          "sandhi": "zhè shì zhèngfāngxíng",
+          "english": "This is a square",
+          "audio": "zhe-shi-zhengfangxing.mp3"
+        },
+        {
+          "chinese": "这是长方形",
+          "pinyin": "zhè shì chángfāngxíng",
+          "sandhi": "zhè shì chángfāngxíng",
+          "english": "This is a rectangle",
+          "audio": "zhe-shi-changfangxing.mp3"
+        },
+        {
+          "chinese": "这是三角形",
+          "pinyin": "zhè shì sānjiǎoxíng",
+          "sandhi": "zhè shì sānjiǎoxíng",
+          "english": "This is a triangle",
+          "audio": "zhe-shi-sanjiaoxing.mp3"
+        },
+        {
+          "chinese": "这是圆形",
+          "pinyin": "zhè shì yuánxíng",
+          "sandhi": "zhè shì yuánxíng",
+          "english": "This is a circle",
+          "audio": "zhe-shi-yuanxing.mp3"
+        }
+      ]
+    },
+    "10": {
+      "phrases": [
+        {
+          "chinese": "我看到黑色的猫",
+          "pinyin": "wǒ kàndào hēisè de māo",
+          "sandhi": "wǒ kàndào hēisè de māo",
+          "english": "I see a black cat",
+          "audio": "wo-kandao-heise-de-mao.mp3"
+        },
+        {
+          "chinese": "我看到棕色的马",
+          "pinyin": "wǒ kàndào zōngsè de mǎ",
+          "sandhi": "wǒ kàndào zōngsè de mǎ",
+          "english": "I see a brown horse",
+          "audio": "wo-kandao-zongse-de-ma.mp3"
+        },
+        {
+          "chinese": "我看到红色的牛",
+          "pinyin": "wǒ kàndào hóngsè de niú",
+          "sandhi": "wǒ kàndào hóngsè de niú",
+          "english": "I see a red cow",
+          "audio": "wo-kandao-hongse-de-niu.mp3"
+        },
+        {
+          "chinese": "我看到绿色的鸭子",
+          "pinyin": "wǒ kàndào lǜsè de yāzi",
+          "sandhi": "wǒ kàndào lǜsè de yāzi",
+          "english": "I see a green duck",
+          "audio": "wo-kandao-lvse-de-yazi.mp3"
+        },
+        {
+          "chinese": "我看到粉色的猪",
+          "pinyin": "wǒ kàndào fěnsè de zhū",
+          "sandhi": "wǒ kàndào fěnsè de zhū",
+          "english": "I see a pink pig",
+          "audio": "wo-kandao-fense-de-zhu.mp3"
+        },
+        {
+          "chinese": "我看到黄色的狗",
+          "pinyin": "wǒ kàndào huángsè de gǒu",
+          "sandhi": "wǒ kàndào huángsè de gǒu",
+          "english": "I see a yellow dog",
+          "audio": "wo-kandao-huangse-de-gou.mp3"
+        },
+        {
+          "chinese": "我看到一个气球",
+          "pinyin": "wǒ kàndào yī gè qìqiú",
+          "sandhi": "wǒ kàndào yí gè qìqiú",
+          "english": "I see a balloon",
+          "audio": "wo-kandao-yi-ge-qiqiu.mp3"
+        },
+        {
+          "chinese": "我看到二个人",
+          "pinyin": "wǒ kàndào èr gè rén",
+          "sandhi": "wǒ kàndào èr gè rén",
+          "english": "I see two people",
+          "audio": "wo-kandao-er-ge-ren.mp3"
+        },
+        {
+          "chinese": "我看到三座大山",
+          "pinyin": "wǒ kàndào sān zuò dàshān",
+          "sandhi": "wǒ kàndào sān zuò dàshān",
+          "english": "I see three big mountains",
+          "audio": "wo-kandao-san-zuo-dashan.mp3"
+        }
+      ]
+    }
+  }
+}

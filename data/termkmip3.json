@@ -1,0 +1,455 @@
+{
+  "weeks": {
+    "1": {
+      "phrases": [
+        {
+          "chinese": "三只小羊上山。",
+          "pinyin": "sān zhī xiǎo yáng shàng shān",
+          "sandhi": "sān zhī xiǎo yáng shàng shān",
+          "english": "Three little sheep go up the mountain",
+          "audio": "san-zhi-xiao-yang-shang-shan.mp3"
+        },
+        {
+          "chinese": "山上有一头大水牛。",
+          "pinyin": "shān shàng yǒu yī tóu dà shuǐniú",
+          "sandhi": "shān shàng yǒu yì tóu dà shuǐniú",
+          "english": "There is a big water buffalo on the mountain",
+          "audio": "shan-shang-you-yi-tou-da-shuiniu.mp3"
+        },
+        {
+          "chinese": "一座大火山。",
+          "pinyin": "yī zuò dà huǒshān",
+          "sandhi": "yí zuò dà huǒshān",
+          "english": "A big volcano",
+          "audio": "yi-zuo-da-huoshan.mp3"
+        }
+      ]
+    },
+    "2": {
+      "phrases": [
+        {
+          "chinese": "我爱笑，我爱跳。",
+          "pinyin": "wǒ ài xiào, wǒ ài tiào",
+          "sandhi": "wǒ ài xiào, wǒ ài tiào",
+          "english": "I love to laugh, I love to jump",
+          "audio": "wo-ai-xiao-wo-ai-tiao.mp3"
+        },
+        {
+          "chinese": "我上去了，我下来了。",
+          "pinyin": "wǒ shàng qù le, wǒ xià lái le",
+          "sandhi": "wǒ shàng qù le, wǒ xià lái le",
+          "english": "I went up, I came down",
+          "audio": "wo-shang-qu-le-wo-xia-lai-le.mp3"
+        },
+        {
+          "chinese": "我是小马，跑跑跑。",
+          "pinyin": "wǒ shì xiǎo mǎ, pǎo pǎo pǎo",
+          "sandhi": "wǒ shì xiáo mǎ, páo páo pǎo",
+          "english": "I am a little horse, run run run",
+          "audio": "wo-shi-xiao-ma-pao-pao-pao.mp3"
+        },
+        {
+          "chinese": "我的快乐少不了。",
+          "pinyin": "wǒ de kuàilè shǎo bù liǎo",
+          "sandhi": "wǒ de kuàilè shǎo bù liǎo",
+          "english": "My happiness cannot be without it",
+          "audio": "wo-de-kuaile-shao-bu-liao.mp3"
+        }
+      ]
+    },
+    "3": {
+      "phrases": [
+        {
+          "chinese": "我有小手，妈妈有大手。",
+          "pinyin": "wǒ yǒu xiǎo shǒu, māma yǒu dà shǒu",
+          "sandhi": "wó yǒu xiáo shǒu, māma yǒu dà shǒu",
+          "english": "I have small hands, Mom has big hands",
+          "audio": "wo-you-xiao-shou-mama-you-da-shou.mp3"
+        },
+        {
+          "chinese": "我要喝水。",
+          "pinyin": "wǒ yào hē shuǐ",
+          "sandhi": "wǒ yào hē shuǐ",
+          "english": "I want to drink water",
+          "audio": "wo-yao-he-shui.mp3"
+        },
+        {
+          "chinese": "山上有很多大石头。",
+          "pinyin": "shān shàng yǒu hěn duō dà shí tou",
+          "sandhi": "shān shàng yóu hěn duō dà shí tou",
+          "english": "There are many big rocks on the mountain",
+          "audio": "shan-shang-you-hen-duo-da-shi-tou.mp3"
+        },
+        {
+          "chinese": "没有人在门口。",
+          "pinyin": "méiyǒu rén zài mén kǒu",
+          "sandhi": "méiyǒu rén zài mén kǒu",
+          "english": "There is no one at the door",
+          "audio": "meiyou-ren-zai-men-kou.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+        {
+          "chinese": "我是牛，我是鸟。",
+          "pinyin": "wǒ shì niú, wǒ shì niǎo",
+          "sandhi": "wǒ shì niú, wǒ shì niǎo",
+          "english": "I am a cow, I am a bird",
+          "audio": "wo-shi-niu-wo-shi-niao.mp3"
+        },
+        {
+          "chinese": "我是山，我是羊。",
+          "pinyin": "wǒ shì shān, wǒ shì yáng",
+          "sandhi": "wǒ shì shān, wǒ shì yáng",
+          "english": "I am a mountain, I am a sheep",
+          "audio": "wo-shi-shan-wo-shi-yang.mp3"
+        },
+        {
+          "chinese": "我是太阳，月亮，大树，草。",
+          "pinyin": "wǒ shì tàiyáng, yuèliàng, dà shù, cǎo",
+          "sandhi": "wǒ shì tàiyáng, yuèliàng, dà shù, cǎo",
+          "english": "I am the sun, the moon, a big tree, and grass",
+          "audio": "wo-shi-taiyang-yueliang-da-shu-cao.mp3"
+        },
+        {
+          "chinese": "我是星星，笑笑笑。",
+          "pinyin": "wǒ shì xīngxing, xiào xiào xiào",
+          "sandhi": "wǒ shì xīngxing, xiào xiào xiào",
+          "english": "I am a star, laugh laugh laugh",
+          "audio": "wo-shi-xingxing-xiao-xiao-xiao.mp3"
+        }
+      ]
+    },
+    "5": {
+      "phrases": [
+        {
+          "chinese": "我白天上学。",
+          "pinyin": "wǒ báitiān shàngxué",
+          "sandhi": "wǒ báitiān shàngxué",
+          "english": "I go to school during the day",
+          "audio": "wo-baitian-shangxue.mp3"
+        },
+        {
+          "chinese": "天上有很多白云。",
+          "pinyin": "tiān shàng yǒu hěn duō bái yún",
+          "sandhi": "tiān shàng yóu hěn duō bái yún",
+          "english": "There are many white clouds in the sky",
+          "audio": "tian-shang-you-hen-duo-bai-yun.mp3"
+        },
+        {
+          "chinese": "又一个人来了。",
+          "pinyin": "yòu yī gè rén lái le",
+          "sandhi": "yòu yí gè rén lái le",
+          "english": "Another person came",
+          "audio": "you-yi-ge-ren-lai-le.mp3"
+        },
+        {
+          "chinese": "小马在山上吃草。",
+          "pinyin": "xiǎo mǎ zài shān shàng chī cǎo",
+          "sandhi": "xiáo mǎ zài shān shàng chī cǎo",
+          "english": "The little horse is eating grass on the mountain",
+          "audio": "xiao-ma-zai-shan-shang-chi-cao.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "太阳爱白云，白云高兴地跑，跑，跑。",
+          "pinyin": "tàiyáng ài báiyún, báiyún gāoxìng de pǎo, pǎo, pǎo",
+          "sandhi": "tàiyáng ài báiyún, báiyún gāoxìng de pǎo, pǎo, pǎo",
+          "english": "The sun loves white clouds; the clouds happily run, run, run",
+          "audio": "taiyang-ai-baiyun-baiyun-gaoxing-de-pao-pao-pao.mp3"
+        },
+        {
+          "chinese": "月亮爱星星，星星快乐地跳，跳，跳。",
+          "pinyin": "yuèliàng ài xīngxing, xīngxing kuàilè de tiào, tiào, tiào",
+          "sandhi": "yuèliàng ài xīngxing, xīngxing kuàilè de tiào, tiào, tiào",
+          "english": "The moon loves the stars; the stars joyfully jump, jump, jump",
+          "audio": "yueliang-ai-xingxing-xingxing-kuaile-de-tiao-tiao-tiao.mp3"
+        },
+        {
+          "chinese": "天空爱小鸟，小鸟飞，飞，飞。",
+          "pinyin": "tiānkōng ài xiǎo niǎo, xiǎo niǎo fēi, fēi, fēi",
+          "sandhi": "tiānkōng ài xiáo niǎo, xiáo niǎo fēi, fēi, fēi",
+          "english": "The sky loves little birds; the little birds fly, fly, fly",
+          "audio": "tiankong-ai-xiao-niao-xiao-niao-fei-fei-fei.mp3"
+        },
+        {
+          "chinese": "大地爱小草，小草笑，笑，笑。",
+          "pinyin": "dàdì ài xiǎo cǎo, xiǎo cǎo xiào, xiào, xiào",
+          "sandhi": "dàdì ài xiáo cǎo, xiáo cǎo xiào, xiào, xiào",
+          "english": "The earth loves little grass; the little grass laughs, laughs, laughs",
+          "audio": "dadi-ai-xiao-cao-xiao-cao-xiao-xiao-xiao.mp3"
+        }
+      ]
+    },
+    "7": {
+      "phrases": [
+        {
+          "chinese": "我不会开车。",
+          "pinyin": "wǒ bù huì kāichē",
+          "sandhi": "wǒ bú huì kāichē",
+          "english": "I cannot drive",
+          "audio": "wo-bu-hui-kaiche.mp3"
+        },
+        {
+          "chinese": "山上有一片大农田。",
+          "pinyin": "shān shàng yǒu yī piàn dà nóngtián",
+          "sandhi": "shān shàng yǒu yí piàn dà nóngtián",
+          "english": "There is a large farm field on the mountain",
+          "audio": "shan-shang-you-yi-pian-da-nongtian.mp3"
+        },
+        {
+          "chinese": "你有几个好朋友？",
+          "pinyin": "nǐ yǒu jǐ gè hǎo péngyǒu",
+          "sandhi": "ní yóu jǐ gè hǎo péngyǒu",
+          "english": "How many good friends do you have?",
+          "audio": "ni-you-ji-ge-hao-pengyou.mp3"
+        },
+        {
+          "chinese": "我上去了。",
+          "pinyin": "wǒ shàngqù le",
+          "sandhi": "wǒ shàngqù le",
+          "english": "I went up",
+          "audio": "wo-shangqu-le.mp3"
+        }
+      ]
+    },
+    "8.1": {
+      "phrases": [
+        {},
+        {
+          "chinese": "棕色的熊，棕色的熊，你在看什么？",
+          "pinyin": "zōngsè de xióng, zōngsè de xióng, nǐ zài kàn shénme",
+          "sandhi": "zōngsè de xióng, zōngsè de xióng, nǐ zài kàn shénme",
+          "english": "Brown bear, brown bear, what are you looking at?",
+          "audio": "zongse-de-xiong-zongse-de-xiong-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只红色的鸟在看我。",
+          "pinyin": "wǒ kàndào yī zhī hóngsè de niǎo zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī hóngsè de niǎo zài kàn wǒ",
+          "english": "I see a red bird looking at me",
+          "audio": "wo-kandao-yi-zhi-hongse-de-niao-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "8.2": {
+      "phrases": [
+        {},
+        {
+          "chinese": "红色的鸟，红色的鸟，你在看什么？",
+          "pinyin": "hóngsè de niǎo, hóngsè de niǎo, nǐ zài kàn shénme",
+          "sandhi": "hóngsè de niǎo, hóngsè de niǎo, nǐ zài kàn shénme",
+          "english": "Red bird, red bird, what are you looking at?",
+          "audio": "hongse-de-niao-hongse-de-niao-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只黄色的鸭子在看我。",
+          "pinyin": "wǒ kàndào yī zhī huángsè de yāzi zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī huángsè de yāzi zài kàn wǒ",
+          "english": "I see a yellow duck looking at me",
+          "audio": "wo-kandao-yi-zhi-huangse-de-yazi-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "8.3": {
+      "phrases": [
+        {},
+        {
+          "chinese": "黄色的鸭子，黄色的鸭子，你在看什么？",
+          "pinyin": "huángsè de yāzi, huángsè de yāzi, nǐ zài kàn shénme",
+          "sandhi": "huángsè de yāzi, huángsè de yāzi, nǐ zài kàn shénme",
+          "english": "Yellow duck, yellow duck, what are you looking at?",
+          "audio": "huangse-de-yazi-huangse-de-yazi-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一匹蓝色的马在看我。",
+          "pinyin": "wǒ kàndào yī pǐ lánsè de mǎ zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì pǐ lánsè de mǎ zài kàn wǒ",
+          "english": "I see a blue horse looking at me",
+          "audio": "wo-kandao-yi-pi-lanse-de-ma-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "8.4": {
+      "phrases": [
+        {},
+        {
+          "chinese": "蓝色的马，蓝色的马，你在看什么？",
+          "pinyin": "lánsè de mǎ, lánsè de mǎ, nǐ zài kàn shénme",
+          "sandhi": "lánsè de mǎ, lánsè de mǎ, nǐ zài kàn shénme",
+          "english": "Blue horse, blue horse, what are you looking at?",
+          "audio": "lanse-de-ma-lanse-de-ma-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只绿色的青蛙在看我。",
+          "pinyin": "wǒ kàndào yī zhī lǜsè de qīngwā zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī lǜsè de qīngwā zài kàn wǒ",
+          "english": "I see a green frog looking at me",
+          "audio": "wo-kandao-yi-zhi-lvse-de-qingwa-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "8.5": {
+      "phrases": [
+        {},
+        {
+          "chinese": "绿色的青蛙，绿色的青蛙，你在看什么？",
+          "pinyin": "lǜsè de qīngwā, lǜsè de qīngwā, nǐ zài kàn shénme",
+          "sandhi": "lǜsè de qīngwā, lǜsè de qīngwā, nǐ zài kàn shénme",
+          "english": "Green frog, green frog, what are you looking at?",
+          "audio": "lvse-de-qingwa-lvse-de-qingwa-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只紫色的猫在看我。",
+          "pinyin": "wǒ kàndào yī zhī zǐsè de māo zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī zǐsè de māo zài kàn wǒ",
+          "english": "I see a purple cat looking at me",
+          "audio": "wo-kandao-yi-zhi-zise-de-mao-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "8.6": {
+      "phrases": [
+        {},
+        {
+          "chinese": "紫色的猫，紫色的猫，你在看什么？",
+          "pinyin": "zǐsè de māo, zǐsè de māo, nǐ zài kàn shénme",
+          "sandhi": "zǐsè de māo, zǐsè de māo, nǐ zài kàn shénme",
+          "english": "Purple cat, purple cat, what are you looking at?",
+          "audio": "zise-de-mao-zise-de-mao-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只白色的狗在看我。",
+          "pinyin": "wǒ kàndào yī zhī báisè de gǒu zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī báisè de gǒu zài kàn wǒ",
+          "english": "I see a white dog looking at me",
+          "audio": "wo-kandao-yi-zhi-baise-de-gou-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "9": {
+      "phrases": [
+        {
+          "chinese": "一家人在看节目。",
+          "pinyin": "yī jiā rén zài kàn jiémù",
+          "sandhi": "yì jiā rén zài kàn jiémù",
+          "english": "The family is watching a show.",
+          "audio": "yi-jia-ren-zai-kan-jiemu.mp3"
+        },
+        {
+          "chinese": "山上没有人。",
+          "pinyin": "shān shàng méi yǒu rén",
+          "sandhi": "shān shàng méi yǒu rén",
+          "english": "There is no one on the mountain.",
+          "audio": "shan-shang-meiyou-ren.mp3"
+        },
+        {
+          "chinese": "我看见一只鸟在飞。",
+          "pinyin": "wǒ kànjiàn yī zhī niǎo zài fēi",
+          "sandhi": "wǒ kànjiàn yì zhī niǎo zài fēi",
+          "english": "I saw a bird flying.",
+          "audio": "wo-kanjian-yi-zhi-niao-zai-fei.mp3"
+        },
+        {
+          "chinese": "我去开门。",
+          "pinyin": "wǒ qù kāi mén",
+          "sandhi": "wǒ qù kāi mén",
+          "english": "I’ll go open the door.",
+          "audio": "wo-qu-kaimen.mp3"
+        }
+      ]
+    },
+    "10.1": {
+      "phrases": [
+        {},
+        {
+          "chinese": "白色的狗，白色的狗，你在看什么？",
+          "pinyin": "báisè de gǒu, báisè de gǒu, nǐ zài kàn shénme",
+          "sandhi": "báisè de gǒu, báisè de gǒu, nǐ zài kàn shénme",
+          "english": "White dog, white dog, what are you looking at?",
+          "audio": "baise-de-gou-baise-de-gou-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只黑色的羊在看我。",
+          "pinyin": "wǒ kàndào yī zhī hēisè de yáng zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī hēisè de yáng zài kàn wǒ",
+          "english": "I see a black sheep looking at me.",
+          "audio": "wo-kandao-yi-zhi-heise-de-yang-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "10.2": {
+      "phrases": [
+        {},
+        {
+          "chinese": "黑色的羊，黑色的羊，你在看什么？",
+          "pinyin": "hēisè de yáng, hēisè de yáng, nǐ zài kàn shénme",
+          "sandhi": "hēisè de yáng, hēisè de yáng, nǐ zài kàn shénme",
+          "english": "Black sheep, black sheep, what are you looking at?",
+          "audio": "heise-de-yang-heise-de-yang-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一只金色的鱼在看我。",
+          "pinyin": "wǒ kàndào yī zhī jīnsè de yú zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì zhī jīnsè de yú zài kàn wǒ",
+          "english": "I see a gold fish looking at me.",
+          "audio": "wo-kandao-yi-zhi-jinse-de-yu-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "10.3": {
+      "phrases": [
+        {},
+        {
+          "chinese": "金色的鱼，金色的鱼，你在看什么？",
+          "pinyin": "jīnsè de yú, jīnsè de yú, nǐ zài kàn shénme",
+          "sandhi": "jīnsè de yú, jīnsè de yú, nǐ zài kàn shénme",
+          "english": "Gold fish, gold fish, what are you looking at?",
+          "audio": "jinse-de-yu-jinse-de-yu-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一个老师在看我。",
+          "pinyin": "wǒ kàndào yī gè lǎoshī zài kàn wǒ",
+          "sandhi": "wǒ kàndào yí gè lǎoshī zài kàn wǒ",
+          "english": "I see a teacher looking at me.",
+          "audio": "wo-kandao-yi-ge-laoshi-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "10.4": {
+      "phrases": [
+        {},
+        {
+          "chinese": "老师，老师，你在看什么？",
+          "pinyin": "lǎoshī, lǎoshī, nǐ zài kàn shénme",
+          "sandhi": "lǎoshī, lǎoshī, nǐ zài kàn shénme",
+          "english": "Teacher, teacher, what are you looking at?",
+          "audio": "laoshi-laoshi-ni-zai-kan-shenme.mp3"
+        },
+        {
+          "chinese": "我看到一群孩子在看我。",
+          "pinyin": "wǒ kàndào yī qún háizi zài kàn wǒ",
+          "sandhi": "wǒ kàndào yì qún háizi zài kàn wǒ",
+          "english": "I see a group of children looking at me.",
+          "audio": "wo-kandao-yi-qun-haizi-zai-kan-wo.mp3"
+        }
+      ]
+    },
+    "10.5": {
+      "phrases": [
+        {},
+        {
+          "chinese": "孩子们，孩子们，你们在看什么？",
+          "pinyin": "háizimen, háizimen, nǐmen zài kàn shénme",
+          "sandhi": "háizimen, háizimen, nǐmen zài kàn shénme",
+          "english": "Children, children, what are you looking at?",
+          "audio": "haizimen-haizimen-nimen-zai-kan-shenme.mp3"
+        }
+      ]
+    }
+  }
+}

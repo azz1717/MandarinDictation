@@ -1,0 +1,217 @@
+{
+  "weeks": {
+    "1": {
+      "phrases": [
+        {
+          "chinese": "我们又见面了。",
+          "pinyin": "wǒmen yòu jiànmiàn le",
+          "sandhi": "wǒmen yòu jiànmiàn le",
+          "english": "We met again.",
+          "audio": "women-you-jianmian-le.mp3"
+        },
+        {
+          "chinese": "她是一个女孩子。",
+          "pinyin": "tā shì yī gè nǚ háizi",
+          "sandhi": "tā shì yí gè nǚ háizi",
+          "english": "She is a girl.",
+          "audio": "ta-shi-yi-ge-nv-haizi.mp3"
+        },
+        {
+          "chinese": "他是一个男孩子。",
+          "pinyin": "tā shì yī gè nán háizi",
+          "sandhi": "tā shì yí gè nán háizi",
+          "english": "He is a boy.",
+          "audio": "ta-shi-yi-ge-nan-haizi.mp3"
+        },
+        {
+          "chinese": "妈妈回来了。",
+          "pinyin": "māma huílai le",
+          "sandhi": "māma huílai le",
+          "english": "Mom came back.",
+          "audio": "mama-huilai-le.mp3"
+        },
+        {
+          "chinese": "一只小鸟飞出来了。",
+          "pinyin": "yī zhī xiǎo niǎo fēi chūlái le",
+          "sandhi": "yì zhī xiáo niǎo fēi chūlái le",
+          "english": "A little bird flew out.",
+          "audio": "yi-zhi-xiao-niao-fei-chulai-le.mp3"
+        },
+        {
+          "chinese": "小狗出来了。",
+          "pinyin": "xiǎo gǒu chūlái le",
+          "sandhi": "xiáo gǒu chūlái le",
+          "english": "The puppy came out.",
+          "audio": "xiao-gou-chulai-le.mp3"
+        }
+      ]
+    },
+    "2": {
+      "phrases": [
+        {
+          "chinese": "小兔跳上跳下。",
+          "pinyin": "xiǎo tù tiào shàng tiào xià",
+          "sandhi": "xiǎo tù tiào shàng tiào xià",
+          "english": "The little rabbit jumps up and down.",
+          "audio": "xiao-tu-tiao-shang-tiao-xia.mp3"
+        },
+        {
+          "chinese": "小鸟高高飞。",
+          "pinyin": "xiǎo niǎo gāo gāo fēi",
+          "sandhi": "xiáo niǎo gāo gāo fēi",
+          "english": "The little bird flies high.",
+          "audio": "xiao-niao-gao-gao-fei.mp3"
+        },
+        {
+          "chinese": "大马快快跑。",
+          "pinyin": "dà mǎ kuài kuài pǎo",
+          "sandhi": "dà mǎ kuài kuài pǎo",
+          "english": "The big horse runs fast.",
+          "audio": "da-ma-kuai-kuai-pao.mp3"
+        },
+        {
+          "chinese": "蝴蝶上飞飞，下飞飞。",
+          "pinyin": "húdié shàng fēi fēi, xià fēi fēi",
+          "sandhi": "húdié shàng fēi fēi, xià fēi fēi",
+          "english": "The butterfly flies up and down.",
+          "audio": "hudie-shang-feifei-xia-feifei.mp3"
+        },
+        {
+          "chinese": "我不是毛毛虫了，我好快乐。",
+          "pinyin": "wǒ bù shì máomaochóng le, wǒ hǎo kuàilè",
+          "sandhi": "wǒ bú shì máomaochóng le, wó hǎo kuàilè",
+          "english": "I’m not a caterpillar anymore; I’m so happy.",
+          "audio": "wo-bushi-maomaochong-le-wo-hao-kuaile.mp3"
+        }
+      ]
+    },
+    "3": {
+      "phrases": [
+        {
+          "chinese": "水里有很多小鱼。",
+          "pinyin": "shuǐ lǐ yǒu hěn duō xiǎo yú",
+          "sandhi": "shuí lǐ yóu hěn duō xiǎo yú",
+          "english": "There are many little fish in the water.",
+          "audio": "shui-li-you-hen-duo-xiao-yu.mp3"
+        },
+        {
+          "chinese": "山上有多少只羊？",
+          "pinyin": "shān shàng yǒu duō shǎo zhī yáng",
+          "sandhi": "shān shàng yǒu duō shǎo zhī yáng",
+          "english": "How many sheep are on the mountain?",
+          "audio": "shan-shang-you-duo-shao-zhi-yang.mp3"
+        },
+        {
+          "chinese": "早上好。",
+          "pinyin": "zǎo shang hǎo",
+          "sandhi": "zǎo shang hǎo",
+          "english": "Good morning.",
+          "audio": "zao-shang-hao.mp3"
+        },
+        {
+          "chinese": "小鸟吃虫子。",
+          "pinyin": "xiǎo niǎo chī chóng zi",
+          "sandhi": "xiáo niǎo chī chóng zi",
+          "english": "The little bird eats worms.",
+          "audio": "xiao-niao-chi-chong-zi.mp3"
+        },
+        {
+          "chinese": "我也喜欢动物。",
+          "pinyin": "wǒ yě xǐ huan dòng wù",
+          "sandhi": "wó yé xǐ huan dòng wù",
+          "english": "I also like animals.",
+          "audio": "wo-ye-xihuan-dong-wu.mp3"
+        },
+        {
+          "chinese": "家里没有人。",
+          "pinyin": "jiā lǐ méi yǒu rén",
+          "sandhi": "jiā lǐ méi yǒu rén",
+          "english": "There is no one at home.",
+          "audio": "jia-li-mei-you-ren.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+        {
+          "chinese": "小羊，我看一下好不好？",
+          "pinyin": "xiǎo yáng, wǒ kàn yī xià hǎo bù hǎo",
+          "sandhi": "xiǎo yáng, wǒ kàn yí xià hǎo bù hǎo",
+          "english": "Little lamb, may I take a look?",
+          "audio": "xiao-yang-wo-kan-yixia-hao-bu-hao.mp3"
+        },
+        {
+          "chinese": "小牛快来！去小兔家吃蛋糕。",
+          "pinyin": "xiǎo niú kuài lái! qù xiǎo tù jiā chī dàng gāo",
+          "sandhi": "xiǎo niú kuài lái! qù xiǎo tù jiā chī dàng gāo",
+          "english": "Little calf, come quickly! Let’s go to Little Rabbit’s house to eat cake.",
+          "audio": "xiao-niu-kuai-lai-qu-xiao-tu-jia-chi-dang-gao.mp3"
+        },
+        {
+          "chinese": "小花多好看。",
+          "pinyin": "xiǎo huā duō hǎo kàn",
+          "sandhi": "xiǎo huā duō hǎo kàn",
+          "english": "The little flower is so pretty.",
+          "audio": "xiao-hua-duo-hao-kan.mp3"
+        },
+        {
+          "chinese": "生日快乐，小兔！",
+          "pinyin": "shēng rì kuài lè, xiǎo tù",
+          "sandhi": "shēng rì kuài lè, xiǎo tù",
+          "english": "Happy birthday, Little Rabbit!",
+          "audio": "sheng-ri-kuai-le-xiao-tu.mp3"
+        },
+        {
+          "chinese": "好吃的少不了。",
+          "pinyin": "hǎo chī de shǎo bù liǎo",
+          "sandhi": "hǎo chī de shǎo bù liǎo",
+          "english": "You can’t have a party without delicious food.",
+          "audio": "hao-chi-de-shao-bu-liao.mp3"
+        },
+        {
+          "chinese": "我的蛋糕太小了。",
+          "pinyin": "wǒ de dàng gāo tài xiǎo le",
+          "sandhi": "wǒ de dàng gāo tài xiǎo le",
+          "english": "My cake is too small.",
+          "audio": "wo-de-dang-gao-tai-xiao-le.mp3"
+        }
+      ]
+    },
+    "5": {
+      "phrases": [
+        {
+          "chinese": "我们是一家人。",
+          "pinyin": "wǒ men shì yī jiā rén",
+          "sandhi": "wǒ men shì yì jiā rén",
+          "english": "We are one family.",
+          "audio": "women-shi-yijia-ren.mp3"
+        },
+        {
+          "chinese": "你和我是好朋友。",
+          "pinyin": "nǐ hé wǒ shì hǎo péng you",
+          "sandhi": "nǐ hé wǒ shì hǎo péng you",
+          "english": "You and I are good friends.",
+          "audio": "ni-he-wo-shi-hao-pengyou.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "这里有好多人。",
+          "pinyin": "zhè lǐ yǒu hǎo duō rén",
+          "sandhi": "zhè lí yǒu hǎo duō rén",
+          "english": "There are many people here.",
+          "audio": "zheli-you-haoduo-ren.mp3"
+        },
+        {
+          "chinese": "下雨了。",
+          "pinyin": "xià yǔ le",
+          "sandhi": "xià yǔ le",
+          "english": "It’s raining.",
+          "audio": "xiayu-le.mp3"
+        }
+      ]
+    }
+  }
+}
