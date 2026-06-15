@@ -1,0 +1,103 @@
+{
+  "weeks": {
+    "1": {
+      "phrases": [
+        {
+          "chinese": "大家好！",
+          "pinyin": "dà jiā hǎo",
+          "sandhi": "dà jiā hǎo",
+          "english": "Hello everyone!",
+          "audio": "Q_da-jia-hao.mp3"
+        },
+        {
+          "chinese": "我是莫森小学一年级中文二班的Emma",
+          "pinyin": "wǒ shì mò sēn xiǎo xué yī nián jí zhōng wén èr bān de Emma",
+          "sandhi": "wǒ shì mò sēn xiǎo xué yì nián jí zhōng wén èr bān de Emma",
+          "english": "I am Emma from Chinese Class 2, Grade 1 at Mawson Primary School.",
+          "audio": "Q_wo-shi-mosen-xiaoxue.mp3"
+        },
+        {
+          "chinese": "今年七岁。",
+          "pinyin": "jīn nián qī suì",
+          "sandhi": "jīn nián qī suì",
+          "english": "I am seven years old this year.",
+          "audio": "Q_jinnian-qi-sui.mp3"
+        },
+        {
+          "chinese": "我喜欢画画和游泳。",
+          "pinyin": "wǒ xǐ huān huà huà hé yóu yǒng",
+          "sandhi": "wó xǐ huān huà huà hé yóu yǒng",
+          "english": "I like drawing and swimming.",
+          "audio": "Q_wo-xihuan-huahua.mp3"
+        },
+        {
+          "chinese": "我最喜欢的颜色是绿色。",
+          "pinyin": "wǒ zuì xǐ huān de yán sè shì lǜ sè",
+          "sandhi": "wǒ zuì xǐ huān de yán sè shì lǜ sè",
+          "english": "My favorite color is green.",
+          "audio": "Q_wo-zui-xihuan-de-yanse.mp3"
+        },
+        {
+          "chinese": "今天我要和大家说说表妹。",
+          "pinyin": "jīn tiān wǒ yào hé dà jiā shuō shuō biǎo mèi",
+          "sandhi": "jīn tiān wǒ yào hé dà jiā shuō shuō biǎo mèi",
+          "english": "Today I want to talk to everyone about my younger cousin.",
+          "audio": "Q_jintian-wo-yao.mp3"
+        },
+        {
+          "chinese": "谢谢大家！",
+          "pinyin": "xiè xiè dà jiā",
+          "sandhi": "xiè xie dà jiā",
+          "english": "Thank you everyone!",
+          "audio": "Q_xiexie-dajia.mp3"
+        }
+      ]
+    },
+    "2": {
+      "phrases": [
+        {
+          "chinese": "我的表妹",
+          "pinyin": "wǒ de biǎo mèi",
+          "sandhi": "wǒ de biǎo mèi",
+          "english": "My younger cousin.",
+          "audio": "Q_wo-de-biaomei.mp3"
+        },
+        {
+          "chinese": "我的表妹叫Goldie。",
+          "pinyin": "wǒ de biǎo mèi jiào Goldie.",
+          "sandhi": "wǒ de biǎo mèi jiào Goldie.",
+          "english": "My younger cousin is named Goldie.",
+          "audio": "Q_wo-de-biaomei-jiao.mp3"
+        },
+        {
+          "chinese": "她有矮矮的个子，也有长长的棕色的头发。",
+          "pinyin": "tā yǒu ǎi ǎi de gè zi, yě yǒu cháng cháng de zōng sè de tóu fa.",
+          "sandhi": "tā yóu ái ǎi de gè zi, yé yǒu cháng cháng de zōng sè de tóu fa.",
+          "english": "She is short, and also has long brown hair.",
+          "audio": "Q_ta-you-aiai-de-gezi.mp3"
+        },
+        {
+          "chinese": "她还有小小的鼻子和小小的嘴巴。",
+          "pinyin": "tā hái yǒu xiǎo xiǎo de bí zi hé xiǎo xiǎo de zuǐ ba.",
+          "sandhi": "tā hái yǒu xiáo xiǎo de bí zi hé xiáo xiǎo de zuǐ ba.",
+          "english": "She also has a small nose and a small mouth.",
+          "audio": "Q_haiyou-xiaoxiao-de-bizi.mp3"
+        },
+        {
+          "chinese": "她喜欢去游乐场玩，不喜欢吃包子。",
+          "pinyin": "tā xǐ huān qù yóu lè chǎng wán, bù xǐ huān chī bāo zi.",
+          "sandhi": "tā xǐ huān qù yóu lè chǎng wán, bù xǐ huān chī bāo zi.",
+          "english": "She likes to play at the amusement park, but doesn't like to eat steamed buns.",
+          "audio": "Q_ta-xihuan-qu-youlechang.mp3"
+        },
+        {
+          "chinese": "我的表妹很爱我。",
+          "pinyin": "wǒ de biǎo mèi hěn ài wǒ.",
+          "sandhi": "wǒ de biǎo mèi hěn ài wǒ.",
+          "english": "My younger cousin loves me very much.",
+          "audio": "Q_wo-de-biaomei-hen-ai.mp3"
+        }
+      ]
+    }
+  }
+}

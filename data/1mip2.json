@@ -919,6 +919,364 @@
 			"audio": "maomaochong.mp3"
 		  }
       ]
-    }
+    },
+	"9": {
+    "phrases": [
+      {
+        "chinese": "谁的尾巴",
+        "pinyin": "shéi de wěi ba",
+        "sandhi": "shéi de wěi ba",
+        "english": "Whose tail",
+        "audio": "shei-de-wei-ba.mp3"
+      },
+      {
+        "chinese": "谁的尾巴长？",
+        "pinyin": "shéi de wěi ba cháng?",
+        "sandhi": "shéi de wěi ba cháng?",
+        "english": "Whose tail is long?",
+        "audio": "shei-de-wei-ba-chang.mp3"
+      },
+      {
+        "chinese": "谁的尾巴短？",
+        "pinyin": "shéi de wěi ba duǎn?",
+        "sandhi": "shéi de wěi ba duǎn?",
+        "english": "Whose tail is short?",
+        "audio": "shei-de-wei-ba-duan.mp3"
+      },
+      {
+        "chinese": "谁的尾巴好像一把伞？",
+        "pinyin": "shéi de wěi ba hǎo xiàng yī bǎ sǎn?",
+        "sandhi": "shéi de wěi ba hǎo xiàng yì bá sǎn?",
+        "english": "Whose tail is like an umbrella?",
+        "audio": "shei-de-wei-ba-hao-xiang-yi-ba-san.mp3"
+      },
+      {
+        "chinese": "猴子的尾巴长。",
+        "pinyin": "hóu zi de wěi ba cháng.",
+        "sandhi": "hóu zi de wěi ba cháng.",
+        "english": "The monkey's tail is long.",
+        "audio": "houzi-de-wei-ba-chang.mp3"
+      },
+      {
+        "chinese": "兔子的尾巴短。",
+        "pinyin": "tù zi de wěi ba duǎn.",
+        "sandhi": "tù zi de wěi ba duǎn.",
+        "english": "The rabbit's tail is short.",
+        "audio": "tuzi-de-wei-ba-duan.mp3"
+      },
+      {
+        "chinese": "松鼠的尾巴好像一把伞。",
+        "pinyin": "sōng shǔ de wěi ba hǎo xiàng yī bǎ sǎn.",
+        "sandhi": "sōng shǔ de wěi ba hǎo xiàng yì bá sǎn.",
+        "english": "The squirrel's tail is like an umbrella.",
+        "audio": "songshu-de-wei-ba-hao-xiang-yi-ba-san.mp3"
+      },
+      {
+        "chinese": "谁的尾巴弯？",
+        "pinyin": "shéi de wěi ba wān?",
+        "sandhi": "shéi de wěi ba wān?",
+        "english": "Whose tail is curved?",
+        "audio": "shei-de-wei-ba-wan.mp3"
+      },
+      {
+        "chinese": "谁的尾巴扁？",
+        "pinyin": "shéi de wěi ba biǎn?",
+        "sandhi": "shéi de wěi ba biǎn?",
+        "english": "Whose tail is flat?",
+        "audio": "shei-de-wei-ba-bian.mp3"
+      },
+      {
+        "chinese": "谁的尾巴最好看？",
+        "pinyin": "shéi de wěi ba zuì hǎo kàn?",
+        "sandhi": "shéi de wěi ba zuì hǎo kàn?",
+        "english": "Whose tail is the best looking?",
+        "audio": "shei-de-wei-ba-zui-hao-kan.mp3"
+      },
+      {
+        "chinese": "公鸡的尾巴弯。",
+        "pinyin": "gōng jī de wěi ba wān.",
+        "sandhi": "gōng jī de wěi ba wān.",
+        "english": "The rooster's tail is curved.",
+        "audio": "gongji-de-wei-ba-wan.mp3"
+      },
+      {
+        "chinese": "鸭子的尾巴扁。",
+        "pinyin": "yā zi de wěi ba biǎn.",
+        "sandhi": "yā zi de wěi ba biǎn.",
+        "english": "The duck's tail is flat.",
+        "audio": "yazi-de-wei-ba-bian.mp3"
+      },
+      {
+        "chinese": "孔雀的尾巴最好看。",
+        "pinyin": "kǒng què de wěi ba zuì hǎo kàn.",
+        "sandhi": "kǒng què de wěi ba zuì hǎo kàn.",
+        "english": "The peacock's tail is the best looking.",
+        "audio": "kongque-de-wei-ba-zui-hao-kan.mp3"
+      },
+      {
+        "chinese": "是谁",
+        "pinyin": "shì shéi",
+        "sandhi": "shì shéi",
+        "english": "Who is it",
+        "audio": "shi-shei.mp3"
+      },
+      {
+        "chinese": "你是谁",
+        "pinyin": "nǐ shì shéi",
+        "sandhi": "nǐ shì shéi",
+        "english": "Who are you",
+        "audio": "ni-shi-shei.mp3"
+      },
+      {
+        "chinese": "谁的",
+        "pinyin": "shéi de",
+        "sandhi": "shéi de",
+        "english": "Whose",
+        "audio": "shei-de.mp3"
+      },
+      {
+        "chinese": "尾巴",
+        "pinyin": "wěi ba",
+        "sandhi": "wěi ba",
+        "english": "Tail",
+        "audio": "wei-ba.mp3"
+      },
+      {
+        "chinese": "长尾巴",
+        "pinyin": "cháng wěi ba",
+        "sandhi": "cháng wěi ba",
+        "english": "Long tail",
+        "audio": "chang-wei-ba.mp3"
+      },
+      {
+        "chinese": "短尾巴",
+        "pinyin": "duǎn wěi ba",
+        "sandhi": "duán wěi ba",
+        "english": "Short tail",
+        "audio": "duan-wei-ba.mp3"
+      },
+      {
+        "chinese": "下巴",
+        "pinyin": "xià ba",
+        "sandhi": "xià ba",
+        "english": "Chin",
+        "audio": "xia-ba.mp3"
+      },
+      {
+        "chinese": "尾巴",
+        "pinyin": "wěi ba",
+        "sandhi": "wěi ba",
+        "english": "Tail",
+        "audio": "wei-ba.mp3"
+      },
+      {
+        "chinese": "小鸡",
+        "pinyin": "xiǎo jī",
+        "sandhi": "xiǎo jī",
+        "english": "Chick",
+        "audio": "xiao-ji.mp3"
+      },
+      {
+        "chinese": "公鸡",
+        "pinyin": "gōng jī",
+        "sandhi": "gōng jī",
+        "english": "Rooster",
+        "audio": "gong-ji.mp3"
+      },
+      {
+        "chinese": "孩子",
+        "pinyin": "hái zi",
+        "sandhi": "hái zi",
+        "english": "Child",
+        "audio": "hai-zi.mp3"
+      },
+      {
+        "chinese": "儿子",
+        "pinyin": "ér zi",
+        "sandhi": "ér zi",
+        "english": "Son",
+        "audio": "er-zi.mp3"
+      },
+      {
+        "chinese": "瓜子",
+        "pinyin": "guā zi",
+        "sandhi": "guā zi",
+        "english": "Melon seeds",
+        "audio": "gua-zi.mp3"
+      }
+    ]
+  },
+  "10": {
+    "phrases": [
+      {
+        "chinese": "猜猜这是谁",
+        "pinyin": "cāi cāi zhè shì shéi",
+        "sandhi": "cāi cāi zhè shì shéi",
+        "english": "Guess who this is",
+        "audio": "cai-cai-zhe-shi-shei.mp3"
+      },
+	  {
+		"chinese": "谁有好看的羽毛？",
+		"pinyin": "shéi yǒu hǎo kàn de yǔ máo?",
+		"sandhi": "shéi yóu hǎo kàn de yǔ máo?",
+		"english": "Who has beautiful feathers?",
+		"audio": "shei-you-hao-kan-de-yu-mao.mp3"
+	  },
+	  {
+		"chinese": "大公鸡有好看的羽毛。",
+		"pinyin": "dà gōng jī yǒu hǎo kàn de yǔ máo.",
+		"sandhi": "dà gōng jī yóu hǎo kàn de yǔ máo.",
+		"english": "The big rooster has beautiful feathers.",
+		"audio": "da-gong-ji-you-hao-kan-de-yu-mao.mp3"
+	  },
+	  {
+		"chinese": "谁有长长的耳朵？",
+		"pinyin": "shéi yǒu cháng cháng de ěr duo?",
+		"sandhi": "shéi yǒu cháng cháng de ěr duo?",
+		"english": "Who has long ears?",
+		"audio": "shei-you-chang-chang-de-er-duo.mp3"
+	  },
+	  {
+		"chinese": "小兔子有长长的耳朵。",
+		"pinyin": "xiǎo tù zi yǒu cháng cháng de ěr duo.",
+		"sandhi": "xiǎo tù zi yǒu cháng cháng de ěr duo.",
+		"english": "The little rabbit has long ears.",
+		"audio": "xiao-tu-zi-you-chang-chang-de-er-duo.mp3"
+	  },
+	  {
+		"chinese": "谁有尖尖的牙齿？",
+		"pinyin": "shéi yǒu jiān jiān de yá chǐ?",
+		"sandhi": "shéi yǒu jiān jiān de yá chǐ?",
+		"english": "Who has sharp teeth?",
+		"audio": "shei-you-jian-jian-de-ya-chi.mp3"
+	  },
+	  {
+		"chinese": "鳄鱼有尖尖的牙齿。",
+		"pinyin": "è yú yǒu jiān jiān de yá chǐ.",
+		"sandhi": "è yú yǒu jiān jiān de yá chǐ.",
+		"english": "The crocodile has sharp teeth.",
+		"audio": "e-yu-you-jian-jian-de-ya-chi.mp3"
+	  },
+	  {
+		"chinese": "谁有小小的爪子？",
+		"pinyin": "shéi yǒu xiǎo xiǎo de zhuǎ zi?",
+		"sandhi": "shéi yǒu xiáo xiǎo de zhuǎ zi?",
+		"english": "Who has small claws?",
+		"audio": "shei-you-xiao-xiao-de-zhua-zi.mp3"
+	  },
+	  {
+		"chinese": "猫有小小的爪子。",
+		"pinyin": "māo yǒu xiǎo xiǎo de zhuǎ zi.",
+		"sandhi": "māo yǒu xiáo xiǎo de zhuǎ zi.",
+		"english": "The cat has small claws.",
+		"audio": "mao-you-xiao-xiao-de-zhua-zi.mp3"
+	  },
+      {
+        "chinese": "谁有会说中文的小嘴？",
+        "pinyin": "shéi yǒu huì shuō zhōng wén de xiǎo zuǐ?",
+        "sandhi": "shéi yǒu huì shuō zhōng wén de xiáo zuǐ?",
+        "english": "Who has a little mouth that can speak Chinese?",
+        "audio": "shei-you-hui-shuo-zhong-wen-de-xiao-zui.mp3"
+      },
+      {
+        "chinese": "我有会说中文的小嘴。",
+        "pinyin": "wǒ yǒu huì shuō zhōng wén de xiǎo zuǐ.",
+        "sandhi": "wó yǒu huì shuō zhōng wén de xiáo zuǐ.",
+        "english": "I have a little mouth that can speak Chinese.",
+        "audio": "wo-you-hui-shuo-zhong-wen-de-xiao-zui.mp3"
+      },
+      {
+        "chinese": "耳朵",
+        "pinyin": "ěr duo",
+        "sandhi": "ěr duo",
+        "english": "Ear",
+        "audio": "er-duo.mp3"
+      },
+      {
+        "chinese": "左耳",
+        "pinyin": "zuǒ ěr",
+        "sandhi": "zuó ěr",
+        "english": "Left ear",
+        "audio": "zuo-er.mp3"
+      },
+      {
+        "chinese": "右耳",
+        "pinyin": "yòu ěr",
+        "sandhi": "yòu ěr",
+        "english": "Right ear",
+        "audio": "you-er.mp3"
+      },
+      {
+        "chinese": "爪子",
+        "pinyin": "zhuǎ zi",
+        "sandhi": "zhuǎ zi",
+        "english": "Claw",
+        "audio": "zhua-zi.mp3"
+      },
+      {
+        "chinese": "猫爪",
+        "pinyin": "māo zhuǎ",
+        "sandhi": "māo zhuǎ",
+        "english": "Cat claw",
+        "audio": "mao-zhua.mp3"
+      },
+      {
+        "chinese": "耳朵",
+        "pinyin": "ěr duo",
+        "sandhi": "ěr duo",
+        "english": "Ear",
+        "audio": "er-duo.mp3"
+      },
+      {
+        "chinese": "一朵云",
+        "pinyin": "yī duǒ yún",
+        "sandhi": "yì duǒ yún",
+        "english": "A cloud",
+        "audio": "yi-duo-yun.mp3"
+      },
+      {
+        "chinese": "一朵朵花",
+        "pinyin": "yī duǒ duǒ huā",
+        "sandhi": "yì duó duǒ huā",
+        "english": "Clusters of flowers",
+        "audio": "yi-duo-duo-hua.mp3"
+      },
+      {
+        "chinese": "羊毛",
+        "pinyin": "yáng máo",
+        "sandhi": "yáng máo",
+        "english": "Wool",
+        "audio": "yang-mao.mp3"
+      },
+      {
+        "chinese": "毛笔",
+        "pinyin": "máo bǐ",
+        "sandhi": "máo bǐ",
+        "english": "Calligraphy brush",
+        "audio": "mao-bi.mp3"
+      },
+      {
+        "chinese": "毛毛虫",
+        "pinyin": "máo máo chóng",
+        "sandhi": "máo máo chóng",
+        "english": "Caterpillar",
+        "audio": "mao-mao-chong.mp3"
+      },
+      {
+        "chinese": "几岁",
+        "pinyin": "jǐ suì",
+        "sandhi": "jǐ suì",
+        "english": "How old",
+        "audio": "ji-sui.mp3"
+      },
+      {
+        "chinese": "六岁",
+        "pinyin": "liù suì",
+        "sandhi": "liù suì",
+        "english": "Six years old",
+        "audio": "liu-sui.mp3"
+      }
+    ]
+  }
   }
 }

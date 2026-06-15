@@ -44,13 +44,16 @@
 		{ "term": "1mip1 1", "week": 8, "file": "1mip1.json" },
 		{ "term": "1mip1 1", "week": 9, "file": "1mip1.json" },
 		{ "term": "1mip1 1", "week": 10, "file": "1mip1.json" },
-	{ "term": "1mip1 2", "week": 1, "file": "1mip2.json" },
-		{ "term": "1mip1 2", "week": 3, "file": "1mip2.json" },
+	{ "term": "1mip1 2", "week": 3, "file": "1mip2.json" },
 		{ "term": "1mip1 2", "week": 4, "file": "1mip2.json" },
 		{ "term": "1mip1 2", "week": 5, "file": "1mip2.json" },
 		{ "term": "1mip1 2", "week": 6, "file": "1mip2.json" },
 		{ "term": "1mip1 2", "week": 7, "file": "1mip2.json" },
-		{ "term": "1mip1 2", "week": 8, "file": "1mip2.json" }
+		{ "term": "1mip1 2", "week": 8, "file": "1mip2.json" },
+		{ "term": "1mip1 2", "week": 9, "file": "1mip2.json" },
+		{ "term": "1mip1 2", "week": 10, "file": "1mip2.json" },
+	{ "term": "1mip1 Speech", "week": 1, "file": "1mip1Speech.json" },
+	{ "term": "1mip1 Speech", "week": 2, "file": "1mip1Speech.json" }
 
   ]
 }
