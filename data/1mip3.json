@@ -1,0 +1,292 @@
+{
+  "weeks": {
+    "3": {
+      "phrases": [
+        {
+          "chinese": "我有一只小猫",
+          "pinyin": "wǒ yǒu yī zhī xiǎo māo",
+          "sandhi": "wǒ yǒu yì zhī xiǎo māo",
+          "english": "I Have a Little Cat.",
+          "audio": "wo-you-yi-zhi-xiao-mao-title.mp3"
+        },
+        {
+          "chinese": "我有一只小猫，",
+          "pinyin": "wǒ yǒu yī zhī xiǎo māo,",
+          "sandhi": "wǒ yǒu yì zhī xiǎo māo,",
+          "english": "I have a little cat,",
+          "audio": "wo-you-yi-zhi-xiao-mao.mp3"
+        },
+        {
+          "chinese": "它的名字叫小太阳。",
+          "pinyin": "tā de míng zì jiào xiǎo tài yáng",
+          "sandhi": "tā de míng zi jiào xiǎo tài yáng",
+          "english": "Its name is Little Sun.",
+          "audio": "ta-de-mingzi-jiao-xiao-taiyang.mp3"
+        },
+        {
+          "chinese": "它有橙色的毛、",
+          "pinyin": "tā yǒu chéng sè de máo,",
+          "sandhi": "tā yǒu chéng sè de máo,",
+          "english": "It has orange fur,",
+          "audio": "ta-you-chengse-de-mao.mp3"
+        },
+        {
+          "chinese": "大大的眼睛和一条长长的尾巴。",
+          "pinyin": "dà dà de yǎn jīng hé yī tiáo cháng cháng de wěi ba",
+          "sandhi": "dà dà de yǎn jing hé yì tiáo cháng cháng de wěi ba",
+          "english": "big eyes, and a long tail.",
+          "audio": "dada-de-yanjing-he-yitiao-changchang-de-weiba.mp3"
+        },
+        {
+          "chinese": "它爱吃鱼，",
+          "pinyin": "tā ài chī yú,",
+          "sandhi": "tā ài chī yú,",
+          "english": "It loves to eat fish,",
+          "audio": "ta-ai-chi-yu.mp3"
+        },
+        {
+          "chinese": "也爱喝牛奶。",
+          "pinyin": "yě ài hē niú nǎi",
+          "sandhi": "yě ài hē niú nǎi",
+          "english": "and also loves to drink milk.",
+          "audio": "ye-ai-he-niunai.mp3"
+        },
+        {
+          "chinese": "我很喜欢和小太阳一起玩。",
+          "pinyin": "wǒ hěn xǐ huān hé xiǎo tài yáng yī qǐ wán",
+          "sandhi": "wǒ hěn xǐ huan hé xiǎo tài yáng yì qǐ wán",
+          "english": "I like playing with Little Sun very much.",
+          "audio": "wo-hen-xihuan-he-xiao-taiyang-yiqi-wan.mp3"
+        },
+        {
+          "chinese": "小太阳是我的好朋友。",
+          "pinyin": "xiǎo tài yáng shì wǒ de hǎo péng yǒu",
+          "sandhi": "xiǎo tài yáng shì wǒ de hǎo péng you",
+          "english": "Little Sun is my good friend.",
+          "audio": "xiao-taiyang-shi-wo-de-hao-pengyou.mp3"
+        },
+        {
+          "chinese": "大叫",
+          "pinyin": "dà jiào",
+          "sandhi": "dà jiào",
+          "english": "Shout loudly",
+          "audio": "da-jiao.mp3"
+        },
+        {
+          "chinese": "不要叫",
+          "pinyin": "bù yào jiào",
+          "sandhi": "bú yào jiào",
+          "english": "Don't shout",
+          "audio": "bu-yao-jiao.mp3"
+        },
+        {
+          "chinese": "叫什么",
+          "pinyin": "jiào shén me",
+          "sandhi": "jiào shén me",
+          "english": "Called what",
+          "audio": "jiao-shen-me.mp3"
+        },
+        {
+          "chinese": "名字",
+          "pinyin": "míng zì",
+          "sandhi": "míng zi",
+          "english": "Name",
+          "audio": "ming-zi.mp3"
+        },
+        {
+          "chinese": "生字",
+          "pinyin": "shēng zì",
+          "sandhi": "shēng zì",
+          "english": "New character",
+          "audio": "sheng-zi.mp3"
+        },
+        {
+          "chinese": "写字",
+          "pinyin": "xiě zì",
+          "sandhi": "xiě zì",
+          "english": "Write characters",
+          "audio": "xie-zi.mp3"
+        },
+        {
+          "chinese": "文字",
+          "pinyin": "wén zì",
+          "sandhi": "wén zì",
+          "english": "Written language / text",
+          "audio": "wen-zi.mp3"
+        },
+        {
+          "chinese": "它们",
+          "pinyin": "tā men",
+          "sandhi": "tā men",
+          "english": "They",
+          "audio": "ta-men.mp3"
+        },
+        {
+          "chinese": "是它",
+          "pinyin": "shì tā",
+          "sandhi": "shì tā",
+          "english": "It is",
+          "audio": "shi-ta.mp3"
+        },
+        {
+          "chinese": "太高",
+          "pinyin": "tài gāo",
+          "sandhi": "tài gāo",
+          "english": "Too high",
+          "audio": "tai-gao.mp3"
+        },
+        {
+          "chinese": "不太好",
+          "pinyin": "bù tài hǎo",
+          "sandhi": "bú tài hǎo",
+          "english": "Not very good",
+          "audio": "bu-tai-hao.mp3"
+        },
+        {
+          "chinese": "太阳",
+          "pinyin": "tài yáng",
+          "sandhi": "tài yáng",
+          "english": "Sun",
+          "audio": "tai-yang.mp3"
+        },
+        {
+          "chinese": "太太",
+          "pinyin": "tài tài",
+          "sandhi": "tài tai",
+          "english": "Wife / Mrs.",
+          "audio": "tai-tai.mp3"
+        },
+        {
+          "chinese": "可爱",
+          "pinyin": "kě ài",
+          "sandhi": "kě ài",
+          "english": "Cute",
+          "audio": "ke-ai.mp3"
+        },
+        {
+          "chinese": "爱心",
+          "pinyin": "ài xīn",
+          "sandhi": "ài xīn",
+          "english": "Compassion / Heart shape",
+          "audio": "ai-xin.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+        {
+          "chinese": "小小的船",
+          "pinyin": "xiǎo xiǎo de chuán",
+          "sandhi": "xiáo xiǎo de chuán",
+          "english": "Tiny Boat",
+          "audio": "xiao-xiao-de-chuan-title.mp3"
+        },
+        {
+          "chinese": "弯弯的月儿小小的船，",
+          "pinyin": "wān wān de yuè er xiǎo xiǎo de chuán,",
+          "sandhi": "wān wān de yuè er xiáo xiǎo de chuán,",
+          "english": "The crescent moon is like a tiny boat,",
+          "audio": "wanwan-de-yueer-xiaoxiao-de-chuan.mp3"
+        },
+        {
+          "chinese": "小小的船儿两头尖。",
+          "pinyin": "xiǎo xiǎo de chuán er liǎng tóu jiān",
+          "sandhi": "xiáo xiǎo de chuán er liǎng tóu jiān",
+          "english": "The tiny boat has two pointed ends.",
+          "audio": "xiaoxiao-de-chuaner-liangtou-jian.mp3"
+        },
+        {
+          "chinese": "我在小小的船里坐，",
+          "pinyin": "wǒ zài xiǎo xiǎo de chuán lǐ zuò,",
+          "sandhi": "wǒ zài xiáo xiǎo de chuán lǐ zuò,",
+          "english": "I sit in the tiny boat,",
+          "audio": "wo-zai-xiaoxiao-de-chuan-li-zuo.mp3"
+        },
+        {
+          "chinese": "只看见闪闪的星星蓝蓝的天。",
+          "pinyin": "zhǐ kàn jiàn shǎn shǎn de xīng xīng lán lán de tiān",
+          "sandhi": "zhǐ kàn jiàn shán shǎn de xīng xing lán lán de tiān",
+          "english": "Only seeing twinkling stars and the blue sky.",
+          "audio": "zhi-kanjian-shanshan-de-xingxing-lanlan-de-tian.mp3"
+        },
+        {
+          "chinese": "家里",
+          "pinyin": "jiā lǐ",
+          "sandhi": "jiā lǐ",
+          "english": "At home",
+          "audio": "jia-li.mp3"
+        },
+        {
+          "chinese": "手里",
+          "pinyin": "shǒu lǐ",
+          "sandhi": "shǒu lǐ",
+          "english": "In hand",
+          "audio": "shou-li.mp3"
+        },
+        {
+          "chinese": "坐下",
+          "pinyin": "zuò xià",
+          "sandhi": "zuò xià",
+          "english": "Sit down",
+          "audio": "zuo-xia.mp3"
+        },
+        {
+          "chinese": "坐火车",
+          "pinyin": "zuò huǒ chē",
+          "sandhi": "zuò huǒ chē",
+          "english": "Ride a train",
+          "audio": "zuo-huoche.mp3"
+        },
+        {
+          "chinese": "星星",
+          "pinyin": "xīng xīng",
+          "sandhi": "xīng xing",
+          "english": "Stars",
+          "audio": "xing-xing.mp3"
+        },
+        {
+          "chinese": "星球",
+          "pinyin": "xīng qiú",
+          "sandhi": "xīng qiú",
+          "english": "Planet",
+          "audio": "xing-qiu.mp3"
+        },
+        {
+          "chinese": "里面",
+          "pinyin": "lǐ miàn",
+          "sandhi": "lǐ miàn",
+          "english": "Inside",
+          "audio": "li-mian.mp3"
+        },
+        {
+          "chinese": "上面",
+          "pinyin": "shàng miàn",
+          "sandhi": "shàng miàn",
+          "english": "On top / Above",
+          "audio": "shang-mian.mp3"
+        },
+        {
+          "chinese": "吃面",
+          "pinyin": "chī miàn",
+          "sandhi": "chī miàn",
+          "english": "Eat noodles",
+          "audio": "chi-mian.mp3"
+        },
+        {
+          "chinese": "一只羊",
+          "pinyin": "yī zhī yáng",
+          "sandhi": "yì zhī yáng",
+          "english": "A sheep",
+          "audio": "yi-zhi-yang.mp3"
+        },
+        {
+          "chinese": "只有",
+          "pinyin": "zhǐ yǒu",
+          "sandhi": "zhí yǒu",
+          "english": "Only",
+          "audio": "zhi-you.mp3"
+        }
+      ]
+    }
+  }
+}
