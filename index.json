@@ -54,6 +54,11 @@
 		{ "term": "1mip1 2", "week": 10, "file": "1mip2.json" },
 	{ "term": "1mip1 3", "week": 3, "file": "1mip3.json" },
 		{ "term": "1mip1 3", "week": 4, "file": "1mip3.json" },
+	{ "term": "Dictation Term 3", "week": 1, "file": "dictphrase1.json" },
+		{ "term": "Dictation Term 3", "week": 2, "file": "dictphrase1.json" },
+		{ "term": "Dictation Term 3", "week": 3, "file": "dictphrase1.json" },
+		{ "term": "Dictation Term 3", "week": 4, "file": "dictphrase1.json" },
+		{ "term": "Dictation Term 3", "week": 5, "file": "dictphrase1.json" },
 	{ "term": "1mip1 Speech", "week": 1, "file": "1mip1Speech.json" },
 	{ "term": "1mip1 Speech", "week": 2, "file": "1mip1Speech.json" }
 

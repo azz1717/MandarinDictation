@@ -1,0 +1,780 @@
+{
+  "weeks": {
+    "1": {
+      "phrases": [
+	    {
+          "chinese": "第一周",
+          "pinyin": "dì yī zhōu",
+          "sandhi": "dì yì zhōu",
+          "english": "Week 1",
+          "audio": "di-yi-zhou-phrase_.mp3"
+        },
+        {
+          "chinese": "坐下",
+          "pinyin": "zuò xià",
+          "sandhi": "zuò xià",
+          "english": "sit down",
+          "audio": "phrase_zuo-xia.mp3"
+        },
+        {
+          "chinese": "里面",
+          "pinyin": "lǐ miàn",
+          "sandhi": "lǐ miàn",
+          "english": "inside",
+          "audio": "phrase_li-mian.mp3"
+        },
+        {
+          "chinese": "星星",
+          "pinyin": "xīng xing",
+          "sandhi": "xīng xing",
+          "english": "stars",
+          "audio": "phrase_xing-xing.mp3"
+        },
+        {
+          "chinese": "是谁",
+          "pinyin": "shì shéi",
+          "sandhi": "shì shéi",
+          "english": "who is",
+          "audio": "phrase_shi-shei.mp3"
+        },
+        {
+          "chinese": "只有",
+          "pinyin": "zhǐ yǒu",
+          "sandhi": "zhǐ yǒu",
+          "english": "only; there is only",
+          "audio": "phrase_zhi-you.mp3"
+        },
+        {
+          "chinese": "可爱",
+          "pinyin": "kě ài",
+          "sandhi": "kě ài",
+          "english": "cute; lovely",
+          "audio": "phrase_ke-ai.mp3"
+        },
+        {
+          "chinese": "不叫",
+          "pinyin": "bù jiào",
+          "sandhi": "bú jiào",
+          "english": "is not called",
+          "audio": "phrase_bu-jiao.mp3"
+        },
+        {
+          "chinese": "生字",
+          "pinyin": "shēng zì",
+          "sandhi": "shēng zì",
+          "english": "new vocabulary; new character",
+          "audio": "phrase_sheng-zi.mp3"
+        },
+        {
+          "chinese": "它们",
+          "pinyin": "tā men",
+          "sandhi": "tā men",
+          "english": "they (for animals or things)",
+          "audio": "phrase_ta-men.mp3"
+        },
+        {
+          "chinese": "太多",
+          "pinyin": "tài duō",
+          "sandhi": "tài duō",
+          "english": "too many; too much",
+          "audio": "phrase_tai-duo.mp3"
+        },
+        {
+          "chinese": "晚上",
+          "pinyin": "wǎn shang",
+          "sandhi": "wǎn shang",
+          "english": "evening; night",
+          "audio": "phrase_wan-shang.mp3"
+        },
+        {
+          "chinese": "没有",
+          "pinyin": "méi yǒu",
+          "sandhi": "méi yǒu",
+          "english": "do not have; there is not",
+          "audio": "phrase_mei-you.mp3"
+        },
+        {
+          "chinese": "好的",
+          "pinyin": "hǎo de",
+          "sandhi": "hǎo de",
+          "english": "okay; all right",
+          "audio": "phrase_hao-de.mp3"
+        },
+        {
+          "chinese": "回家",
+          "pinyin": "huí jiā",
+          "sandhi": "huí jiā",
+          "english": "go home; return home",
+          "audio": "phrase_hui-jia.mp3"
+        },
+        {
+          "chinese": "出去",
+          "pinyin": "chū qù",
+          "sandhi": "chū qù",
+          "english": "go out",
+          "audio": "phrase_chu-qu.mp3"
+        },
+        {
+          "chinese": "下雨",
+          "pinyin": "xià yǔ",
+          "sandhi": "xià yǔ",
+          "english": "to rain",
+          "audio": "phrase_xia-yu.mp3"
+        },
+        {
+          "chinese": "你好",
+          "pinyin": "nǐ hǎo",
+          "sandhi": "ní hǎo",
+          "english": "hello",
+          "audio": "phrase_ni-hao.mp3"
+        },
+        {
+          "chinese": "我们",
+          "pinyin": "wǒ men",
+          "sandhi": "wǒ men",
+          "english": "we; us",
+          "audio": "phrase_wo-men.mp3"
+        },
+        {
+          "chinese": "虫子",
+          "pinyin": "chóng zi",
+          "sandhi": "chóng zi",
+          "english": "insect; bug",
+          "audio": "phrase_chong-zi.mp3"
+        },
+        {
+          "chinese": "来去",
+          "pinyin": "lái qù",
+          "sandhi": "lái qù",
+          "english": "come and go",
+          "audio": "phrase_lai-qu.mp3"
+        },
+        {
+          "chinese": "石头",
+          "pinyin": "shí tou",
+          "sandhi": "shí tou",
+          "english": "stone; rock",
+          "audio": "phrase_shi-tou.mp3"
+        }
+      ]
+    },
+    "2": {
+      "phrases": [
+	    {
+          "chinese": "第二周",
+          "pinyin": "dì èr zhōu",
+          "sandhi": "dì èr zhōu",
+          "english": "Week 2",
+          "audio": "di-er-zhou-phrase_.mp3"
+        },
+        {
+          "chinese": "先生",
+          "pinyin": "xiān sheng",
+          "sandhi": "xiān sheng",
+          "english": "Mr.; gentleman",
+          "audio": "phrase_xian-sheng.mp3"
+        },
+        {
+          "chinese": "先来",
+          "pinyin": "xiān lái",
+          "sandhi": "xiān lái",
+          "english": "come first",
+          "audio": "phrase_xian-lai.mp3"
+        },
+        {
+          "chinese": "房子",
+          "pinyin": "fáng zi",
+          "sandhi": "fáng zi",
+          "english": "house",
+          "audio": "phrase_fang-zi.mp3"
+        },
+        {
+          "chinese": "火车",
+          "pinyin": "huǒ chē",
+          "sandhi": "huǒ chē",
+          "english": "train",
+          "audio": "phrase_huo-che.mp3"
+        },
+        {
+          "chinese": "天气",
+          "pinyin": "tiān qì",
+          "sandhi": "tiān qì",
+          "english": "weather",
+          "audio": "phrase_tian-qi.mp3"
+        },
+        {
+          "chinese": "生气",
+          "pinyin": "shēng qì",
+          "sandhi": "shēng qì",
+          "english": "to be angry",
+          "audio": "phrase_sheng-qi.mp3"
+        },
+        {
+          "chinese": "写字",
+          "pinyin": "xiě zì",
+          "sandhi": "xiě zì",
+          "english": "to write characters",
+          "audio": "phrase_xie-zi.mp3"
+        },
+        {
+          "chinese": "家里",
+          "pinyin": "jiā lǐ",
+          "sandhi": "jiā lǐ",
+          "english": "at home; in the house",
+          "audio": "phrase_jia-li.mp3"
+        },
+        {
+          "chinese": "坐车",
+          "pinyin": "zuò chē",
+          "sandhi": "zuò chē",
+          "english": "ride in a vehicle",
+          "audio": "phrase_zuo-che.mp3"
+        },
+        {
+          "chinese": "刚好",
+          "pinyin": "gāng hǎo",
+          "sandhi": "gāng hǎo",
+          "english": "just right; exactly",
+          "audio": "phrase_gang-hao.mp3"
+        },
+        {
+          "chinese": "九岁",
+          "pinyin": "jiǔ suì",
+          "sandhi": "jiú suì",
+          "english": "nine years old",
+          "audio": "phrase_jiu-sui.mp3"
+        },
+        {
+          "chinese": "这个",
+          "pinyin": "zhè ge",
+          "sandhi": "zhè ge",
+          "english": "this",
+          "audio": "phrase_zhe-ge.mp3"
+        },
+        {
+          "chinese": "女孩",
+          "pinyin": "nǚ hái",
+          "sandhi": "nǚ hái",
+          "english": "girl",
+          "audio": "phrase_nv-hai.mp3"
+        },
+        {
+          "chinese": "两个",
+          "pinyin": "liǎng ge",
+          "sandhi": "liǎng ge",
+          "english": "two (of something)",
+          "audio": "phrase_liang-ge.mp3"
+        },
+        {
+          "chinese": "不是",
+          "pinyin": "bú shì",
+          "sandhi": "bú shì",
+          "english": "is not",
+          "audio": "phrase_bu-shi.mp3"
+        },
+        {
+          "chinese": "鸟儿",
+          "pinyin": "niǎo ér",
+          "sandhi": "niǎo ér",
+          "english": "bird",
+          "audio": "phrase_niao-er.mp3"
+        },
+        {
+          "chinese": "树林",
+          "pinyin": "shù lín",
+          "sandhi": "shù lín",
+          "english": "woods; forest",
+          "audio": "phrase_shu-lin.mp3"
+        },
+        {
+          "chinese": "爸妈",
+          "pinyin": "bà mā",
+          "sandhi": "bà mā",
+          "english": "mom and dad",
+          "audio": "phrase_ba-ma.mp3"
+        },
+        {
+          "chinese": "爷爷",
+          "pinyin": "yé ye",
+          "sandhi": "yé ye",
+          "english": "grandfather (paternal)",
+          "audio": "phrase_ye-ye.mp3"
+        },
+        {
+          "chinese": "奶奶",
+          "pinyin": "nǎi nai",
+          "sandhi": "nǎi nai",
+          "english": "grandmother (paternal)",
+          "audio": "phrase_nai-nai.mp3"
+        },
+        {
+          "chinese": "我们",
+          "pinyin": "wǒ men",
+          "sandhi": "wǒ men",
+          "english": "we; us",
+          "audio": "phrase_wo-men2.mp3"
+        }
+      ]
+    },
+    "3": {
+      "phrases": [
+	    {
+          "chinese": "第三周",
+          "pinyin": "dì sān zhōu",
+          "sandhi": "dì sān zhōu",
+          "english": "Week 3",
+          "audio": "di-san-zhou-phrase_.mp3"
+        },
+        {
+          "chinese": "左右",
+          "pinyin": "zuǒ yòu",
+          "sandhi": "zuǒ yòu",
+          "english": "left and right / around",
+          "audio": "zuo-you-phrase_.mp3"
+        },
+        {
+          "chinese": "东西",
+          "pinyin": "dōng xī",
+          "sandhi": "dōng xi",
+          "english": "thing / east and west",
+          "audio": "dong-xi-phrase_.mp3"
+        },
+        {
+          "chinese": "地方",
+          "pinyin": "dì fāng",
+          "sandhi": "dì fang",
+          "english": "place",
+          "audio": "di-fang-phrase_.mp3"
+        },
+        {
+          "chinese": "起来",
+          "pinyin": "qǐ lái",
+          "sandhi": "qǐ lai",
+          "english": "to get up / rise",
+          "audio": "qi-lai-phrase_.mp3"
+        },
+        {
+          "chinese": "天气",
+          "pinyin": "tiān qì",
+          "sandhi": "tiān qì",
+          "english": "weather",
+          "audio": "tian-qi-phrase_.mp3"
+        },
+        {
+          "chinese": "写字",
+          "pinyin": "xiě zì",
+          "sandhi": "xiě zì",
+          "english": "write characters",
+          "audio": "xie-zi-phrase_.mp3"
+        },
+        {
+          "chinese": "开车",
+          "pinyin": "kāi chē",
+          "sandhi": "kāi chē",
+          "english": "drive a car",
+          "audio": "kai-che-phrase_.mp3"
+        },
+        {
+          "chinese": "房子",
+          "pinyin": "fáng zǐ",
+          "sandhi": "fáng zi",
+          "english": "house",
+          "audio": "fang-zi-phrase_.mp3"
+        },
+        {
+          "chinese": "先生",
+          "pinyin": "xiān shēng",
+          "sandhi": "xiān sheng",
+          "english": "Mr. / sir",
+          "audio": "xian-sheng-phrase_.mp3"
+        },
+        {
+          "chinese": "哥哥",
+          "pinyin": "gē gē",
+          "sandhi": "gē ge",
+          "english": "older brother",
+          "audio": "ge-ge-phrase_.mp3"
+        },
+        {
+          "chinese": "姐姐",
+          "pinyin": "jiě jiě",
+          "sandhi": "jiě jie",
+          "english": "older sister",
+          "audio": "jie-jie-phrase_.mp3"
+        },
+        {
+          "chinese": "弟弟",
+          "pinyin": "dì dì",
+          "sandhi": "dì di",
+          "english": "younger brother",
+          "audio": "di-di-phrase_.mp3"
+        },
+        {
+          "chinese": "妹妹",
+          "pinyin": "mèi mèi",
+          "sandhi": "mèi mei",
+          "english": "younger sister",
+          "audio": "mei-mei-phrase_.mp3"
+        },
+        {
+          "chinese": "也有",
+          "pinyin": "yě yǒu",
+          "sandhi": "yé yǒu",
+          "english": "also have",
+          "audio": "ye-you-phrase_.mp3"
+        },
+        {
+          "chinese": "耳朵",
+          "pinyin": "ěr duǒ",
+          "sandhi": "ěr duo",
+          "english": "ear",
+          "audio": "er-duo-phrase_.mp3"
+        },
+        {
+          "chinese": "山羊",
+          "pinyin": "shān yáng",
+          "sandhi": "shān yáng",
+          "english": "goat",
+          "audio": "shan-yang-phrase_.mp3"
+        },
+        {
+          "chinese": "小手",
+          "pinyin": "xiǎo shǒu",
+          "sandhi": "xiáo shǒu",
+          "english": "little hand",
+          "audio": "xiao-shou-phrase_.mp3"
+        },
+        {
+          "chinese": "几个",
+          "pinyin": "jǐ gè",
+          "sandhi": "jǐ ge",
+          "english": "how many / several",
+          "audio": "ji-ge-phrase_.mp3"
+        },
+        {
+          "chinese": "出来",
+          "pinyin": "chū lái",
+          "sandhi": "chū lai",
+          "english": "come out",
+          "audio": "chu-lai-phrase_.mp3"
+        },
+        {
+          "chinese": "回家",
+          "pinyin": "huí jiā",
+          "sandhi": "huí jiā",
+          "english": "go home",
+          "audio": "hui-jia-phrase_.mp3"
+        },
+        {
+          "chinese": "上下",
+          "pinyin": "shàng xià",
+          "sandhi": "shàng xià",
+          "english": "up and down",
+          "audio": "shang-xia-phrase_.mp3"
+        }
+      ]
+    },
+    "4": {
+      "phrases": [
+	    {
+          "chinese": "第四周",
+          "pinyin": "dì sì zhōu",
+          "sandhi": "dì sì zhōu",
+          "english": "Week 4",
+          "audio": "di-si-zhou-phrase_.mp3"
+        },
+        {
+          "chinese": "学会",
+          "pinyin": "xué huì",
+          "sandhi": "xué huì",
+          "english": "to learn / master",
+          "audio": "xue-hui-phrase_.mp3"
+        },
+        {
+          "chinese": "开会",
+          "pinyin": "kāi huì",
+          "sandhi": "kāi huì",
+          "english": "hold a meeting",
+          "audio": "kai-hui-phrase_.mp3"
+        },
+        {
+          "chinese": "那个",
+          "pinyin": "nà gè",
+          "sandhi": "nà ge",
+          "english": "that one",
+          "audio": "na-ge-phrase_.mp3"
+        },
+        {
+          "chinese": "那里",
+          "pinyin": "nà lǐ",
+          "sandhi": "nà lǐ",
+          "english": "there",
+          "audio": "na-li-phrase_.mp3"
+        },
+        {
+          "chinese": "大王",
+          "pinyin": "dà wáng",
+          "sandhi": "dà wáng",
+          "english": "king",
+          "audio": "da-wang-phrase_.mp3"
+        },
+        {
+          "chinese": "不要",
+          "pinyin": "bù yào",
+          "sandhi": "bú yào",
+          "english": "don't / do not want",
+          "audio": "bu-yao-phrase_.mp3"
+        },
+        {
+          "chinese": "左耳",
+          "pinyin": "zuǒ ěr",
+          "sandhi": "zuǒ ěr",
+          "english": "left ear",
+          "audio": "zuo-er-phrase_.mp3"
+        },
+        {
+          "chinese": "右手",
+          "pinyin": "yòu shǒu",
+          "sandhi": "yòu shǒu",
+          "english": "right hand",
+          "audio": "you-shou-phrase_.mp3"
+        },
+        {
+          "chinese": "东方",
+          "pinyin": "dōng fāng",
+          "sandhi": "dōng fāng",
+          "english": "the East",
+          "audio": "dong-fang-phrase_.mp3"
+        },
+        {
+          "chinese": "一起",
+          "pinyin": "yī qǐ",
+          "sandhi": "yì qǐ",
+          "english": "together",
+          "audio": "yi-qi-phrase_.mp3"
+        },
+        {
+          "chinese": "西瓜",
+          "pinyin": "xī guā",
+          "sandhi": "xī guā",
+          "english": "watermelon",
+          "audio": "xi-gua-phrase_.mp3"
+        },
+        {
+          "chinese": "高山",
+          "pinyin": "gāo shān",
+          "sandhi": "gāo shān",
+          "english": "high mountain",
+          "audio": "gao-shan-phrase_.mp3"
+        },
+        {
+          "chinese": "长大",
+          "pinyin": "zhǎng dà",
+          "sandhi": "zhǎng dà",
+          "english": "grow up",
+          "audio": "zhang-da-phrase_.mp3"
+        },
+        {
+          "chinese": "石头",
+          "pinyin": "shí tóu",
+          "sandhi": "shí tou",
+          "english": "stone",
+          "audio": "shi-tou-phrase_.mp3"
+        },
+        {
+          "chinese": "老师",
+          "pinyin": "lǎo shī",
+          "sandhi": "lǎo shī",
+          "english": "teacher",
+          "audio": "lao-shi-phrase_.mp3"
+        },
+        {
+          "chinese": "学生",
+          "pinyin": "xué shēng",
+          "sandhi": "xué sheng",
+          "english": "student",
+          "audio": "xue-sheng-phrase_.mp3"
+        },
+        {
+          "chinese": "多少",
+          "pinyin": "duō shǎo",
+          "sandhi": "duō shao",
+          "english": "how many / how much",
+          "audio": "duo-shao-phrase_.mp3"
+        },
+        {
+          "chinese": "早上",
+          "pinyin": "zǎo shàng",
+          "sandhi": "zǎo shang",
+          "english": "morning",
+          "audio": "zao-shang-phrase_.mp3"
+        },
+        {
+          "chinese": "想一想",
+          "pinyin": "xiǎng yī xiǎng",
+          "sandhi": "xiǎng yi xiǎng",
+          "english": "think about it",
+          "audio": "xiang-yi-xiang-phrase_.mp3"
+        },
+        {
+          "chinese": "王老师",
+          "pinyin": "wáng lǎo shī",
+          "sandhi": "wáng lǎo shī",
+          "english": "Teacher Wang",
+          "audio": "wang-lao-shi-phrase_.mp3"
+        }
+      ]
+    },
+    "5": {
+      "phrases": [
+	    {
+          "chinese": "第五周",
+          "pinyin": "dì wǔ zhōu",
+          "sandhi": "dì wǔ zhōu",
+          "english": "Week 5",
+          "audio": "di-wu-zhou-phrase_.mp3"
+        },
+        {
+          "chinese": "前面",
+          "pinyin": "qián miàn",
+          "sandhi": "qián mian",
+          "english": "in front / ahead",
+          "audio": "qian-mian-phrase_.mp3"
+        },
+        {
+          "chinese": "跳高",
+          "pinyin": "tiào gāo",
+          "sandhi": "tiào gāo",
+          "english": "high jump",
+          "audio": "tiao-gao-phrase_.mp3"
+        },
+        {
+          "chinese": "爬山",
+          "pinyin": "pá shān",
+          "sandhi": "pá shān",
+          "english": "climb a mountain / hiking",
+          "audio": "pa-shan-phrase_.mp3"
+        },
+        {
+          "chinese": "爱心",
+          "pinyin": "ài xīn",
+          "sandhi": "ài xīn",
+          "english": "love / compassion",
+          "audio": "ai-xin-phrase_.mp3"
+        },
+        {
+          "chinese": "后来",
+          "pinyin": "hòu lái",
+          "sandhi": "hòu lai",
+          "english": "afterwards / later",
+          "audio": "hou-lai-phrase_.mp3"
+        },
+        {
+          "chinese": "不想",
+          "pinyin": "bù xiǎng",
+          "sandhi": "bù xiǎng",
+          "english": "do not want to",
+          "audio": "bu-xiang-phrase_.mp3"
+        },
+        {
+          "chinese": "那儿",
+          "pinyin": "nà er",
+          "sandhi": "nàr",
+          "english": "there",
+          "audio": "na-er-phrase_.mp3"
+        },
+        {
+          "chinese": "大王",
+          "pinyin": "dà wáng",
+          "sandhi": "dà wáng",
+          "english": "king",
+          "audio": "da-wang-phrase_2.mp3"
+        },
+        {
+          "chinese": "花猫",
+          "pinyin": "huā māo",
+          "sandhi": "huā māo",
+          "english": "calico cat / tabby cat",
+          "audio": "hua-mao-phrase_.mp3"
+        },
+        {
+          "chinese": "小狗",
+          "pinyin": "xiǎo gǒu",
+          "sandhi": "xiáo gǒu",
+          "english": "puppy / little dog",
+          "audio": "xiao-gou-phrase_.mp3"
+        },
+        {
+          "chinese": "鱼儿",
+          "pinyin": "yú ér",
+          "sandhi": "yú r",
+          "english": "fish",
+          "audio": "yu-er-phrase_.mp3"
+        },
+        {
+          "chinese": "你们",
+          "pinyin": "nǐ men",
+          "sandhi": "nǐ men",
+          "english": "you (plural)",
+          "audio": "ni-men-phrase_.mp3"
+        },
+        {
+          "chinese": "白米",
+          "pinyin": "bái mǐ",
+          "sandhi": "bái mǐ",
+          "english": "white rice",
+          "audio": "bai-mi-phrase_.mp3"
+        },
+        {
+          "chinese": "草地",
+          "pinyin": "cǎo dì",
+          "sandhi": "cǎo dì",
+          "english": "lawn / grassland",
+          "audio": "cao-di-phrase_.mp3"
+        },
+        {
+          "chinese": "很高",
+          "pinyin": "hěn gāo",
+          "sandhi": "hěn gāo",
+          "english": "very high / very tall",
+          "audio": "hen-gao-phrase_.mp3"
+        },
+        {
+          "chinese": "在家",
+          "pinyin": "zài jiā",
+          "sandhi": "zài jiā",
+          "english": "at home",
+          "audio": "zai-jia-phrase_.mp3"
+        },
+        {
+          "chinese": "七月",
+          "pinyin": "qī yuè",
+          "sandhi": "qī yuè",
+          "english": "July",
+          "audio": "qi-yue-phrase_.mp3"
+        },
+        {
+          "chinese": "土地",
+          "pinyin": "tǔ dì",
+          "sandhi": "tǔ dì",
+          "english": "land / soil",
+          "audio": "tu-di-phrase_.mp3"
+        },
+        {
+          "chinese": "木头",
+          "pinyin": "mù tóu",
+          "sandhi": "mù tou",
+          "english": "wood / log",
+          "audio": "mu-tou-phrase_.mp3"
+        },
+        {
+          "chinese": "会不会",
+          "pinyin": "huì bù huì",
+          "sandhi": "huì bu huì",
+          "english": "can or cannot / whether or not",
+          "audio": "hui-bu-hui-phrase_.mp3"
+        }
+      ]
+    }
+  }
+}
