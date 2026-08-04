@@ -4,6 +4,7 @@ let currentTerm = null;
 let currentWeek = null;
 let audioPlayer = null;
 let currentFilterTerm = "all";
+let selectedWeeks = new Set(); // Tracks active week checkboxes
 
 // Fetch dataset structure and load individual term files
 async function initializeData() {
@@ -26,7 +27,6 @@ async function initializeData() {
             const termData = loadedFiles[file];
             if (termData.weeks && termData.weeks[week]) {
                 termData.weeks[week].phrases.forEach(phrase => {
-                    // Replaced image requirement with chinese requirement
                     if (phrase.chinese && phrase.audio) {
                         allPhrases.push({
                             term: term,
@@ -45,12 +45,18 @@ async function initializeData() {
     }
 }
 
-// Populate the dropdown filter
+// Populate term dropdown and trigger week checkbox generation
 function populateFilters() {
-    const uniqueTerms = new Set(allPhrases.map(item => String(item.term)));
+    const uniqueTerms = Array.from(
+        new Set(allPhrases.map(item => String(item.term)))
+    ).sort((a, b) => Number(a) - Number(b));
+
     const filterSelect = document.getElementById("term-filter");
     
     if (filterSelect) {
+        // Clear options while maintaining 'all'
+        filterSelect.innerHTML = '<option value="all">All Terms</option>';
+
         uniqueTerms.forEach(term => {
             const option = document.createElement("option");
             option.value = term;
@@ -60,18 +66,79 @@ function populateFilters() {
 
         filterSelect.addEventListener("change", (e) => {
             currentFilterTerm = e.target.value;
+            selectedWeeks.clear(); // Reset week selection when term changes
+            populateWeekFilters();
             selectRandomPhrase(); 
         });
     }
+
+    populateWeekFilters();
 }
 
-// Select random phrase
-function selectRandomPhrase() {
-    const filteredPhrases = currentFilterTerm === "all" 
-        ? allPhrases 
-        : allPhrases.filter(item => String(item.term) === currentFilterTerm);
+// Generate checkboxes for available weeks based on current term selection
+function populateWeekFilters() {
+    const weekContainer = document.getElementById("week-filter-container");
+    if (!weekContainer) return;
 
-    if (filteredPhrases.length === 0) return;
+    weekContainer.innerHTML = "";
+
+    // Filter available weeks by active term
+    const availableWeeks = new Set(
+        allPhrases
+            .filter(item => currentFilterTerm === "all" || String(item.term) === currentFilterTerm)
+            .map(item => String(item.week))
+    );
+
+    const sortedWeeks = Array.from(availableWeeks).sort((a, b) => Number(a) - Number(b));
+
+    if (sortedWeeks.length === 0) return;
+
+    // Header title for checkboxes
+    const title = document.createElement("span");
+    title.style.display = "block";
+    title.style.fontWeight = "bold";
+    title.style.margin = "8px 0 4px 0";
+    title.textContent = "Filter Weeks (leave unselected for all):";
+    weekContainer.appendChild(title);
+
+    // Create checkbox for each available week
+    sortedWeeks.forEach(week => {
+        const label = document.createElement("label");
+        label.style.marginRight = "12px";
+        label.style.cursor = "pointer";
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.value = week;
+        checkbox.checked = selectedWeeks.has(week);
+
+        checkbox.addEventListener("change", (e) => {
+            if (e.target.checked) {
+                selectedWeeks.add(e.target.value);
+            } else {
+                selectedWeeks.delete(e.target.value);
+            }
+            selectRandomPhrase();
+        });
+
+        label.appendChild(checkbox);
+        label.appendChild(document.createTextNode(` Week ${week}`));
+        weekContainer.appendChild(label);
+    });
+}
+
+// Select random phrase matching both term AND week selections
+function selectRandomPhrase() {
+    const filteredPhrases = allPhrases.filter(item => {
+        const matchesTerm = currentFilterTerm === "all" || String(item.term) === currentFilterTerm;
+        const matchesWeek = selectedWeeks.size === 0 || selectedWeeks.has(String(item.week));
+        return matchesTerm && matchesWeek;
+    });
+
+    if (filteredPhrases.length === 0) {
+        document.getElementById("sentence-structure").textContent = "No phrases found for selection.";
+        return;
+    }
 
     const randomIndex = Math.floor(Math.random() * filteredPhrases.length);
     const selection = filteredPhrases[randomIndex];
@@ -107,8 +174,6 @@ function updateTestScreen() {
         
     document.getElementById("sentence-structure").textContent =
         maskSentence(currentPhrase.chinese);
-    
-    // Removed image source update logic
 
     document.getElementById("answer-screen").classList.add("hidden");
     document.getElementById("test-screen").classList.remove("hidden");
@@ -121,7 +186,6 @@ function showAnswer() {
     document.getElementById("answer-term-week").textContent =
         `Term ${currentTerm} - Week ${currentWeek}`;
 
-    // Populates the new text container instead of an image
     document.getElementById("answer-chinese").textContent = currentPhrase.chinese;
     document.getElementById("answer-english").textContent = currentPhrase.english;
 
