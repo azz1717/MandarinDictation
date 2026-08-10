@@ -5,6 +5,8 @@ let currentWeek = null;
 let audioPlayer = null;
 let currentFilterTerm = "all";
 let selectedWeeks = new Set(); // Tracks active week checkboxes
+let deck = []; // Shuffled queue of phrases for the current filter selection
+let deckKey = null; // Signature of the filter selection the deck was built for
 
 // Fetch dataset structure and load individual term files
 async function initializeData() {
@@ -127,7 +129,20 @@ function populateWeekFilters() {
     });
 }
 
-// Select random phrase matching both term AND week selections
+// Fisher-Yates shuffle; returns a new array, leaves the input untouched
+function shuffleArray(array) {
+    const result = array.slice();
+    for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
+}
+
+// Deal the next phrase matching both term AND week selections from a
+// shuffled deck, so every phrase in the current selection is shown once
+// before any phrase repeats (instead of an independent random draw each
+// time, which can repeat the same phrase in short succession).
 function selectRandomPhrase() {
     const filteredPhrases = allPhrases.filter(item => {
         const matchesTerm = currentFilterTerm === "all" || String(item.term) === currentFilterTerm;
@@ -140,8 +155,25 @@ function selectRandomPhrase() {
         return;
     }
 
-    const randomIndex = Math.floor(Math.random() * filteredPhrases.length);
-    const selection = filteredPhrases[randomIndex];
+    const poolKey = currentFilterTerm + "|" + Array.from(selectedWeeks).sort().join(",");
+
+    // Rebuild (reshuffle) the deck whenever the term/week selection has
+    // changed, or once the current deck has been fully dealt through.
+    if (poolKey !== deckKey || deck.length === 0) {
+        deck = shuffleArray(filteredPhrases);
+
+        // Guard against dealing the same phrase twice in a row across a
+        // reshuffle boundary (deck.pop() deals from the end, so the next
+        // card to be dealt is deck[deck.length - 1]).
+        const next = deck[deck.length - 1];
+        if (deck.length > 1 && currentPhrase && next.phrase === currentPhrase) {
+            [deck[deck.length - 1], deck[0]] = [deck[0], deck[deck.length - 1]];
+        }
+
+        deckKey = poolKey;
+    }
+
+    const selection = deck.pop();
 
     currentPhrase = selection.phrase;
     currentTerm = selection.term;
