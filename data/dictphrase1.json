@@ -2,7 +2,7 @@
   "weeks": {
     "1": {
       "phrases": [
-	    {
+        {
           "chinese": "第一周",
           "pinyin": "dì yī zhōu",
           "sandhi": "dì yì zhōu",
@@ -160,7 +160,7 @@
     },
     "2": {
       "phrases": [
-	    {
+        {
           "chinese": "第二周",
           "pinyin": "dì èr zhōu",
           "sandhi": "dì èr zhōu",
@@ -318,7 +318,7 @@
     },
     "3": {
       "phrases": [
-	    {
+        {
           "chinese": "第三周",
           "pinyin": "dì sān zhōu",
           "sandhi": "dì sān zhōu",
@@ -476,7 +476,7 @@
     },
     "4": {
       "phrases": [
-	    {
+        {
           "chinese": "第四周",
           "pinyin": "dì sì zhōu",
           "sandhi": "dì sì zhōu",
@@ -627,7 +627,7 @@
     },
     "5": {
       "phrases": [
-	    {
+        {
           "chinese": "第五周",
           "pinyin": "dì wǔ zhōu",
           "sandhi": "dì wǔ zhōu",
@@ -773,6 +773,747 @@
           "sandhi": "huì bu huì",
           "english": "can or cannot / whether or not",
           "audio": "hui-bu-hui-phrase_.mp3"
+        }
+      ]
+    },
+    "6": {
+      "phrases": [
+        {
+          "chinese": "关心",
+          "pinyin": "guān xīn",
+          "sandhi": "guān xīn",
+          "english": "Care / Concern",
+          "audio": "guan-xin.mp3"
+        },
+        {
+          "chinese": "开关",
+          "pinyin": "kāi guān",
+          "sandhi": "kāi guān",
+          "english": "Switch",
+          "audio": "kai-guan.mp3"
+        },
+        {
+          "chinese": "男孩",
+          "pinyin": "nán hái",
+          "sandhi": "nán hái",
+          "english": "Boy",
+          "audio": "nan-hai.mp3"
+        },
+        {
+          "chinese": "男女",
+          "pinyin": "nán nǚ",
+          "sandhi": "nán nǚ",
+          "english": "Men and women",
+          "audio": "nan-nu.mp3"
+        },
+        {
+          "chinese": "多少",
+          "pinyin": "duō shǎo",
+          "sandhi": "duō shao",
+          "english": "How many / How much",
+          "audio": "duo-shao.mp3"
+        },
+        {
+          "chinese": "老少",
+          "pinyin": "lǎo shào",
+          "sandhi": "lǎo shào",
+          "english": "Old and young",
+          "audio": "lao-shao.mp3"
+        },
+        {
+          "chinese": "是你",
+          "pinyin": "shì nǐ",
+          "sandhi": "shì nǐ",
+          "english": "It is you",
+          "audio": "shi-ni.mp3"
+        },
+        {
+          "chinese": "你好",
+          "pinyin": "nǐ hǎo",
+          "sandhi": "ní hǎo",
+          "english": "Hello",
+          "audio": "ni-hao.mp3"
+        },
+        {
+          "chinese": "前面",
+          "pinyin": "qián miàn",
+          "sandhi": "qián mian",
+          "english": "In front",
+          "audio": "qian-mian.mp3"
+        },
+        {
+          "chinese": "后来",
+          "pinyin": "hòu lái",
+          "sandhi": "hòu lai",
+          "english": "Later",
+          "audio": "hou-lai.mp3"
+        },
+        {
+          "chinese": "跳水",
+          "pinyin": "tiào shuǐ",
+          "sandhi": "tiào shuǐ",
+          "english": "Diving",
+          "audio": "tiao-shui.mp3"
+        },
+        {
+          "chinese": "爬山",
+          "pinyin": "pá shān",
+          "sandhi": "pá shān",
+          "english": "Climb a mountain",
+          "audio": "pa-shan.mp3"
+        },
+        {
+          "chinese": "写字",
+          "pinyin": "xiě zì",
+          "sandhi": "xiě zì",
+          "english": "Write characters",
+          "audio": "xie-zi_3.mp3"
+        },
+        {
+          "chinese": "它们",
+          "pinyin": "tā men",
+          "sandhi": "tā men",
+          "english": "They / Them",
+          "audio": "ta-men_2.mp3"
+        },
+        {
+          "chinese": "太阳",
+          "pinyin": "tài yáng",
+          "sandhi": "tài yang",
+          "english": "Sun",
+          "audio": "tai-yang_2.mp3"
+        },
+        {
+          "chinese": "爱心",
+          "pinyin": "ài xīn",
+          "sandhi": "ài xīn",
+          "english": "Love / Kindness",
+          "audio": "ai-xin_2.mp3"
+        },
+        {
+          "chinese": "花园",
+          "pinyin": "huā yuán",
+          "sandhi": "huā yuán",
+          "english": "Garden",
+          "audio": "hua-yuan_2.mp3"
+        },
+        {
+          "chinese": "看见",
+          "pinyin": "kàn jiàn",
+          "sandhi": "kàn jian",
+          "english": "See",
+          "audio": "kan-jian_2.mp3"
+        },
+        {
+          "chinese": "玩水",
+          "pinyin": "wán shuǐ",
+          "sandhi": "wán shuǐ",
+          "english": "Play with water",
+          "audio": "wan-shui.mp3"
+        },
+        {
+          "chinese": "石头",
+          "pinyin": "shí tou",
+          "sandhi": "shí tou",
+          "english": "Stone / Rock",
+          "audio": "shi-tou.mp3"
+        },
+        {
+          "chinese": "出门",
+          "pinyin": "chū mén",
+          "sandhi": "chū mén",
+          "english": "Go out",
+          "audio": "chu-men.mp3"
+        }
+      ]
+    },
+    "7": {
+      "phrases": [
+        {
+          "chinese": "可以",
+          "pinyin": "kě yǐ",
+          "sandhi": "kě yǐ",
+          "english": "Can / May",
+          "audio": "ke-yi.mp3"
+        },
+        {
+          "chinese": "可爱",
+          "pinyin": "kě ài",
+          "sandhi": "kě ài",
+          "english": "Cute",
+          "audio": "ke-ai_2.mp3"
+        },
+        {
+          "chinese": "都是",
+          "pinyin": "dōu shì",
+          "sandhi": "dōu shì",
+          "english": "All are",
+          "audio": "dou-shi.mp3"
+        },
+        {
+          "chinese": "高兴",
+          "pinyin": "gāo xìng",
+          "sandhi": "gāo xing",
+          "english": "Happy",
+          "audio": "gao-xing.mp3"
+        },
+        {
+          "chinese": "点心",
+          "pinyin": "diǎn xīn",
+          "sandhi": "diǎn xin",
+          "english": "Snack / Dim sum",
+          "audio": "dian-xin.mp3"
+        },
+        {
+          "chinese": "以后",
+          "pinyin": "yǐ hòu",
+          "sandhi": "yǐ hòu",
+          "english": "After / In the future",
+          "audio": "yi-hou.mp3"
+        },
+        {
+          "chinese": "以前",
+          "pinyin": "yǐ qián",
+          "sandhi": "yí qián",
+          "english": "Before",
+          "audio": "yi-qian.mp3"
+        },
+        {
+          "chinese": "九点",
+          "pinyin": "jiǔ diǎn",
+          "sandhi": "jiú diǎn",
+          "english": "Nine o'clock",
+          "audio": "jiu-dian.mp3"
+        },
+        {
+          "chinese": "关门",
+          "pinyin": "guān mén",
+          "sandhi": "guān mén",
+          "english": "Close the door",
+          "audio": "guan-men.mp3"
+        },
+        {
+          "chinese": "男生",
+          "pinyin": "nán shēng",
+          "sandhi": "nán shēng",
+          "english": "Boy / Male student",
+          "audio": "nan-sheng.mp3"
+        },
+        {
+          "chinese": "很少",
+          "pinyin": "hěn shǎo",
+          "sandhi": "hén shǎo",
+          "english": "Very few / Rarely",
+          "audio": "hen-shao.mp3"
+        },
+        {
+          "chinese": "你们",
+          "pinyin": "nǐ men",
+          "sandhi": "nǐ men",
+          "english": "You (plural)",
+          "audio": "ni-men.mp3"
+        },
+        {
+          "chinese": "是谁",
+          "pinyin": "shì shuí",
+          "sandhi": "shì shuí",
+          "english": "Who is it",
+          "audio": "shi-shui.mp3"
+        },
+        {
+          "chinese": "尾巴",
+          "pinyin": "wěi bā",
+          "sandhi": "wěi ba",
+          "english": "Tail",
+          "audio": "wei-ba_2.mp3"
+        },
+        {
+          "chinese": "公鸡",
+          "pinyin": "gōng jī",
+          "sandhi": "gōng jī",
+          "english": "Rooster",
+          "audio": "gong-ji_2.mp3"
+        },
+        {
+          "chinese": "中文",
+          "pinyin": "zhōng wén",
+          "sandhi": "zhōng wén",
+          "english": "Chinese language",
+          "audio": "zhong-wen.mp3"
+        },
+        {
+          "chinese": "画画",
+          "pinyin": "huà huà",
+          "sandhi": "huà huà",
+          "english": "Draw / Paint",
+          "audio": "hua-hua_2.mp3"
+        },
+        {
+          "chinese": "说话",
+          "pinyin": "shuō huà",
+          "sandhi": "shuō huà",
+          "english": "Speak / Talk",
+          "audio": "shuo-hua.mp3"
+        },
+        {
+          "chinese": "我和你",
+          "pinyin": "wǒ hé nǐ",
+          "sandhi": "wǒ hé nǐ",
+          "english": "You and I",
+          "audio": "wo-he-ni.mp3"
+        },
+        {
+          "chinese": "早上好",
+          "pinyin": "zǎo shàng hǎo",
+          "sandhi": "zǎo shang hǎo",
+          "english": "Good morning",
+          "audio": "zao-shang-hao_2.mp3"
+        }
+      ]
+    },
+    "8": {
+      "phrases": [
+        {
+          "chinese": "明天",
+          "pinyin": "míng tiān",
+          "sandhi": "míng tiān",
+          "english": "Tomorrow",
+          "audio": "ming-tian.mp3"
+        },
+        {
+          "chinese": "明年",
+          "pinyin": "míng nián",
+          "sandhi": "míng nián",
+          "english": "Next year",
+          "audio": "ming-nian.mp3"
+        },
+        {
+          "chinese": "森林",
+          "pinyin": "sēn lín",
+          "sandhi": "sēn lín",
+          "english": "Forest",
+          "audio": "sen-lin.mp3"
+        },
+        {
+          "chinese": "电车",
+          "pinyin": "diàn chē",
+          "sandhi": "diàn chē",
+          "english": "Tram / Electric bus",
+          "audio": "dian-che.mp3"
+        },
+        {
+          "chinese": "力气",
+          "pinyin": "lì qì",
+          "sandhi": "lì qi",
+          "english": "Strength",
+          "audio": "li-qi.mp3"
+        },
+        {
+          "chinese": "看见",
+          "pinyin": "kàn jiàn",
+          "sandhi": "kàn jian",
+          "english": "See",
+          "audio": "kan-jian_3.mp3"
+        },
+        {
+          "chinese": "可是",
+          "pinyin": "kě shì",
+          "sandhi": "kě shì",
+          "english": "But",
+          "audio": "ke-shi.mp3"
+        },
+        {
+          "chinese": "都会",
+          "pinyin": "dōu huì",
+          "sandhi": "dōu huì",
+          "english": "All can",
+          "audio": "dou-hui.mp3"
+        },
+        {
+          "chinese": "高兴",
+          "pinyin": "gāo xìng",
+          "sandhi": "gāo xing",
+          "english": "Happy",
+          "audio": "gao-xing_2.mp3"
+        },
+        {
+          "chinese": "以前",
+          "pinyin": "yǐ qián",
+          "sandhi": "yí qián",
+          "english": "Before",
+          "audio": "yi-qian_3.mp3"
+        },
+        {
+          "chinese": "左耳",
+          "pinyin": "zuǒ ěr",
+          "sandhi": "zuǒ ěr",
+          "english": "Left ear",
+          "audio": "zuo-er_3.mp3"
+        },
+        {
+          "chinese": "爪子",
+          "pinyin": "zhuǎ zi",
+          "sandhi": "zhuǎ zi",
+          "english": "Claw / Paw",
+          "audio": "zhua-zi_2.mp3"
+        },
+        {
+          "chinese": "朋友",
+          "pinyin": "péng yǒu",
+          "sandhi": "péng you",
+          "english": "Friend",
+          "audio": "peng-you.mp3"
+        },
+        {
+          "chinese": "羊毛",
+          "pinyin": "yáng máo",
+          "sandhi": "yáng máo",
+          "english": "Wool",
+          "audio": "yang-mao_2.mp3"
+        },
+        {
+          "chinese": "今天",
+          "pinyin": "jīn tiān",
+          "sandhi": "jīn tiān",
+          "english": "Today",
+          "audio": "jin-tian.mp3"
+        },
+        {
+          "chinese": "好吃",
+          "pinyin": "hǎo chī",
+          "sandhi": "háo chī",
+          "english": "Delicious",
+          "audio": "hao-chi.mp3"
+        },
+        {
+          "chinese": "中午",
+          "pinyin": "zhōng wǔ",
+          "sandhi": "zhōng wǔ",
+          "english": "Noon",
+          "audio": "zhong-wu.mp3"
+        },
+        {
+          "chinese": "公鸡",
+          "pinyin": "gōng jī",
+          "sandhi": "gōng jī",
+          "english": "Rooster",
+          "audio": "gong-ji_3.mp3"
+        },
+        {
+          "chinese": "云朵",
+          "pinyin": "yún duǒ",
+          "sandhi": "yún duǒ",
+          "english": "Cloud",
+          "audio": "yun-duo.mp3"
+        },
+        {
+          "chinese": "一点儿",
+          "pinyin": "yī diǎn er",
+          "sandhi": "yì diǎnr",
+          "english": "A little bit",
+          "audio": "yi-dian-er.mp3"
+        }
+      ]
+    },
+    "9": {
+      "phrases": [
+        {
+          "chinese": "飞鸟",
+          "pinyin": "fēi niǎo",
+          "sandhi": "fēi niǎo",
+          "english": "Flying bird",
+          "audio": "fei-niao.mp3"
+        },
+        {
+          "chinese": "起飞",
+          "pinyin": "qǐ fēi",
+          "sandhi": "qǐ fēi",
+          "english": "Take off",
+          "audio": "qi-fei.mp3"
+        },
+        {
+          "chinese": "红色",
+          "pinyin": "hóng sè",
+          "sandhi": "hóng sè",
+          "english": "Red",
+          "audio": "hong-se.mp3"
+        },
+        {
+          "chinese": "白色",
+          "pinyin": "bái sè",
+          "sandhi": "bái sè",
+          "english": "White",
+          "audio": "bai-se.mp3"
+        },
+        {
+          "chinese": "唱歌",
+          "pinyin": "chàng gē",
+          "sandhi": "chàng gē",
+          "english": "Sing",
+          "audio": "chang-ge.mp3"
+        },
+        {
+          "chinese": "过来",
+          "pinyin": "guò lái",
+          "sandhi": "guò lai",
+          "english": "Come over",
+          "audio": "guo-lai.mp3"
+        },
+        {
+          "chinese": "过去",
+          "pinyin": "guò qù",
+          "sandhi": "guò qu",
+          "english": "Go over / Past",
+          "audio": "guo-qu.mp3"
+        },
+        {
+          "chinese": "问好",
+          "pinyin": "wèn hǎo",
+          "sandhi": "wèn hǎo",
+          "english": "Say hello",
+          "audio": "wen-hao.mp3"
+        },
+        {
+          "chinese": "不问",
+          "pinyin": "bù wèn",
+          "sandhi": "bú wèn",
+          "english": "Do not ask",
+          "audio": "bu-wen.mp3"
+        },
+        {
+          "chinese": "明白",
+          "pinyin": "míng bái",
+          "sandhi": "míng bai",
+          "english": "Understand / Clear",
+          "audio": "ming-bai.mp3"
+        },
+        {
+          "chinese": "森林",
+          "pinyin": "sēn lín",
+          "sandhi": "sēn lín",
+          "english": "Forest",
+          "audio": "sen-lin_2.mp3"
+        },
+        {
+          "chinese": "电力",
+          "pinyin": "diàn lì",
+          "sandhi": "diàn lì",
+          "english": "Electricity",
+          "audio": "dian-li.mp3"
+        },
+        {
+          "chinese": "家里",
+          "pinyin": "jiā lǐ",
+          "sandhi": "jiā li",
+          "english": "At home",
+          "audio": "jia-li_2.mp3"
+        },
+        {
+          "chinese": "坐下",
+          "pinyin": "zuò xià",
+          "sandhi": "zuò xia",
+          "english": "Sit down",
+          "audio": "zuo-xia_2.mp3"
+        },
+        {
+          "chinese": "星星",
+          "pinyin": "xīng xīng",
+          "sandhi": "xīng xing",
+          "english": "Star",
+          "audio": "xing-xing_2.mp3"
+        },
+        {
+          "chinese": "里面",
+          "pinyin": "lǐ miàn",
+          "sandhi": "lǐ mian",
+          "english": "Inside",
+          "audio": "li-mian_2.mp3"
+        },
+        {
+          "chinese": "只有",
+          "pinyin": "zhǐ yǒu",
+          "sandhi": "zhí yǒu",
+          "english": "Only have",
+          "audio": "zhi-you_2.mp3"
+        },
+        {
+          "chinese": "今晚",
+          "pinyin": "jīn wǎn",
+          "sandhi": "jīn wǎn",
+          "english": "Tonight",
+          "audio": "jinwan.mp3"
+        },
+        {
+          "chinese": "回头",
+          "pinyin": "huí tóu",
+          "sandhi": "huí tóu",
+          "english": "Turn head around / Later",
+          "audio": "hui-tou.mp3"
+        },
+        {
+          "chinese": "没来",
+          "pinyin": "méi lái",
+          "sandhi": "méi lái",
+          "english": "Didn't come",
+          "audio": "mei-lai.mp3"
+        },
+        {
+          "chinese": "看不见",
+          "pinyin": "kàn bù jiàn",
+          "sandhi": "kàn bu jiàn",
+          "english": "Cannot see",
+          "audio": "kan-bu-jian.mp3"
+        }
+      ]
+    },
+    "10": {
+      "phrases": [
+        {
+          "chinese": "先生",
+          "pinyin": "xiān shēng",
+          "sandhi": "xiān sheng",
+          "english": "Sir / Mister",
+          "audio": "xian-sheng_2.mp3"
+        },
+        {
+          "chinese": "写字",
+          "pinyin": "xiě zì",
+          "sandhi": "xiě zì",
+          "english": "Write characters",
+          "audio": "xie-zi_4.mp3"
+        },
+        {
+          "chinese": "起来",
+          "pinyin": "qǐ lái",
+          "sandhi": "qǐ lai",
+          "english": "Get up / Stand up",
+          "audio": "qi-lai_2.mp3"
+        },
+        {
+          "chinese": "想要",
+          "pinyin": "xiǎng yào",
+          "sandhi": "xiáng yào",
+          "english": "Want to",
+          "audio": "xiang-yao.mp3"
+        },
+        {
+          "chinese": "那里",
+          "pinyin": "nà lǐ",
+          "sandhi": "nà li",
+          "english": "There",
+          "audio": "na-li.mp3"
+        },
+        {
+          "chinese": "前后",
+          "pinyin": "qián hòu",
+          "sandhi": "qián hòu",
+          "english": "Front and back",
+          "audio": "qian-hou_2.mp3"
+        },
+        {
+          "chinese": "开会",
+          "pinyin": "kāi huì",
+          "sandhi": "kāi huì",
+          "english": "Have a meeting",
+          "audio": "kai-hui.mp3"
+        },
+        {
+          "chinese": "高兴",
+          "pinyin": "gāo xìng",
+          "sandhi": "gāo xing",
+          "english": "Happy",
+          "audio": "gao-xing_3.mp3"
+        },
+        {
+          "chinese": "男孩",
+          "pinyin": "nán hái",
+          "sandhi": "nán hái",
+          "english": "Boy",
+          "audio": "nan-hai_2.mp3"
+        },
+        {
+          "chinese": "关心",
+          "pinyin": "guān xīn",
+          "sandhi": "guān xīn",
+          "english": "Care / Concern",
+          "audio": "guan-xin_2.mp3"
+        },
+        {
+          "chinese": "唱歌",
+          "pinyin": "chàng gē",
+          "sandhi": "chàng gē",
+          "english": "Sing",
+          "audio": "chang-ge_2.mp3"
+        },
+        {
+          "chinese": "问好",
+          "pinyin": "wèn hǎo",
+          "sandhi": "wèn hǎo",
+          "english": "Say hello",
+          "audio": "wen-hao_2.mp3"
+        },
+        {
+          "chinese": "白色",
+          "pinyin": "bái sè",
+          "sandhi": "bái sè",
+          "english": "White",
+          "audio": "bai-se_2.mp3"
+        },
+        {
+          "chinese": "明天",
+          "pinyin": "míng tiān",
+          "sandhi": "míng tiān",
+          "english": "Tomorrow",
+          "audio": "ming-tian_2.mp3"
+        },
+        {
+          "chinese": "两只",
+          "pinyin": "liǎng zhī",
+          "sandhi": "liǎng zhī",
+          "english": "Two (animals)",
+          "audio": "liang-zhi.mp3"
+        },
+        {
+          "chinese": "西瓜",
+          "pinyin": "xī guā",
+          "sandhi": "xī guā",
+          "english": "Watermelon",
+          "audio": "xi-gua.mp3"
+        },
+        {
+          "chinese": "树林",
+          "pinyin": "shù lín",
+          "sandhi": "shù lín",
+          "english": "Woods / Forest",
+          "audio": "shu-lin.mp3"
+        },
+        {
+          "chinese": "耳朵",
+          "pinyin": "ěr duǒ",
+          "sandhi": "ěr duo",
+          "english": "Ear",
+          "audio": "er-duo_2.mp3"
+        },
+        {
+          "chinese": "尾巴",
+          "pinyin": "wěi bā",
+          "sandhi": "wěi ba",
+          "english": "Tail",
+          "audio": "wei-ba_3.mp3"
+        },
+        {
+          "chinese": "七点",
+          "pinyin": "qī diǎn",
+          "sandhi": "qī diǎn",
+          "english": "Seven o'clock",
+          "audio": "qi-dian.mp3"
+        },
+        {
+          "chinese": "都可以",
+          "pinyin": "dōu kě yǐ",
+          "sandhi": "dōu ké yǐ",
+          "english": "All are okay",
+          "audio": "dou-ke-yi.mp3"
         }
       ]
     }
